@@ -1,0 +1,2766 @@
+f_kabupaten_id;f_kodekabupaten;f_namakabupaten;f_propinsi_id;f_komputer;f_username;f_tanggalupdate
+2;1;United Arab Emirats;28;;;49:07.3
+3;2;Afganistan;28;;;49:07.3
+4;3;Bahrain;28;;;49:07.3
+5;4;Bangladesh;28;;;49:07.3
+6;5;Birma;28;;;49:07.3
+7;6;China;28;;;49:07.3
+8;7;Cambodia;28;;;49:07.3
+9;8;Hongkong;28;;;49:07.3
+10;9;India;28;;;49:07.3
+11;10;Iran;28;;;49:07.3
+12;11;Iraq;28;;;49:07.3
+13;12;Israel;28;;;49:07.3
+14;13;Jepang;28;;;49:07.3
+15;14;Jordania;28;;;49:07.3
+16;15;Korea Utara;28;;;49:07.3
+17;16;Korea Selatan;28;;;49:07.3
+18;17;Kuwait;28;;;49:07.3
+19;18;Laos;28;;;49:07.3
+20;19;Libanon;28;;;49:07.3
+21;20;Macao;28;;;49:07.3
+22;21;Malaysia;28;;;49:07.3
+23;22;Pakistan;28;;;49:07.3
+24;23;Papua New Guinea;28;;;49:07.3
+25;24;Philipina;28;;;49:07.3
+26;25;Saudi Arabia;28;;;49:07.3
+27;26;Srilangka;28;;;49:07.3
+28;27;Singapore;28;;;49:07.3
+29;28;Syria;28;;;49:07.3
+30;29;Thailand;28;;;49:07.3
+31;30;Taiwan;28;;;49:07.3
+32;31;Turki;28;;;49:07.3
+33;32;Vietnam;28;;;49:07.3
+34;33;Yaman;28;;;49:07.3
+35;36;Algeria;28;;;49:07.3
+36;37;Libya;28;;;49:07.3
+37;38;Maroko;28;;;49:07.3
+38;39;Mesir;28;;;49:07.3
+39;40;Malagasi;28;;;49:07.3
+40;41;Nigeria;28;;;49:07.3
+41;42;Sudan;28;;;49:07.3
+42;43;Tanzania;28;;;49:07.3
+43;44;Tunisia;28;;;49:07.3
+44;45;Uganda;28;;;49:07.3
+45;46;Afrika;28;;;49:07.3
+46;47;Afrika;28;;;49:07.3
+47;48;Amerika Serikat;28;;;49:07.3
+48;49;Argentina;28;;;49:07.3
+49;50;Alaska;28;;;49:07.3
+50;51;Brazil;28;;;49:07.3
+51;52;Canada;28;;;49:07.3
+52;53;Chili;28;;;49:07.3
+53;54;Colombia;28;;;49:07.3
+54;55;Cuba;28;;;49:07.3
+55;56;Mexico;28;;;49:07.3
+56;60;Austria;28;;;49:07.3
+57;61;Belgia;28;;;49:07.3
+58;62;Bulgaria;28;;;49:07.3
+59;63;Belanda;28;;;49:07.3
+60;64;Cyprus;28;;;49:07.3
+61;65;Chekoslovakia;28;;;49:07.3
+62;66;Denmark;28;;;49:07.3
+63;67;Hongaria;28;;;49:07.3
+64;68;Irlandia;28;;;49:07.3
+65;69;Italia;28;;;49:07.3
+66;70;Inggris;28;;;49:07.3
+67;71;Jerman Barat;28;;;49:07.3
+68;72;Jerman Timur;28;;;49:07.3
+69;73;Luxemburg;28;;;49:07.3
+70;74;Polandia;28;;;49:07.3
+71;75;Portugal;28;;;49:07.3
+72;76;Perancis;28;;;49:07.3
+73;77;Spanyol;28;;;49:07.3
+74;78;Swedia;28;;;49:07.3
+75;79;Swiss;28;;;49:07.3
+76;80;Soviet;28;;;49:07.3
+77;81;Yunani;28;;;49:07.3
+78;82;Yugoslavia;28;;;49:07.3
+79;86;Australia;28;;;49:07.3
+80;87;Christmas Island;28;;;49:07.3
+81;88;Fiji Island;28;;;49:07.3
+82;89;Polynesia;28;;;49:07.3
+83;90;New Caledonia;28;;;49:07.3
+84;91;New Hebrides;28;;;49:07.3
+85;92;New Zealand;28;;;49:07.3
+92;1;Bandung;2;;;49:07.3
+94;3;Sukabumi;2;;;49:07.3
+95;4;Cirebon;2;;;49:07.3
+1261;31;RSU. Maumere;33;BAAK-PC;288646;49:58.1
+97;22;Tasikmalaya;2;;;49:07.3
+98;23;Bekasi;2;;;49:07.3
+100;25;Cimahi;2;;;49:07.3
+748;12;Gunungkidul;3;Akademik;282240;48:50.6
+102;32;Lebak;2;;;49:07.3
+104;34;Sukabumi;2;;;49:07.3
+105;35;Cianjur;2;;;49:07.3
+106;36;Bandung;2;;;49:07.3
+107;37;Garut;2;;;49:07.3
+108;38;Tasikmalaya;2;;;49:07.3
+109;39;Ciamis;2;;;49:07.3
+110;40;Kuningan;2;;;49:07.3
+111;41;Cirebon;2;;;49:07.3
+112;42;Majalengka;2;;;49:07.3
+113;43;Sumedang;2;;;49:07.3
+114;44;Indramayu;2;;;49:07.3
+115;45;Subang;2;;;49:07.3
+116;46;Purwakarta;2;;;49:07.3
+117;47;Karawang;2;;;49:07.3
+118;48;Tangerang;2;;;49:07.3
+119;49;Serang;2;;;49:07.3
+120;50;Bekasi;2;;;49:07.3
+122;2;Surakarta;3;;;49:07.3
+123;3;Salatiga;3;;;49:07.3
+124;4;Semarang;3;;;49:07.3
+125;5;Pekalongan;3;;;49:07.3
+126;6;Tegal;3;;;49:07.3
+127;21;Purwokerto;3;;;49:07.3
+128;22;Cilacap;3;;;49:07.3
+129;31;Cilacap;3;;;49:07.3
+130;32;Banyumas;3;;;49:07.3
+131;33;Purbalingga;3;;;49:07.3
+132;34;Banjarnegara;3;;;49:07.3
+133;35;Kebumen;3;;;49:07.3
+134;36;Purworejo;3;;;49:07.3
+135;37;Wonosobo;3;;;49:07.3
+136;38;Magelang;3;;;49:07.3
+137;39;Boyolali;3;;;49:07.3
+138;40;Klaten;3;;;49:07.3
+139;41;Sukoharjo;3;;;49:07.3
+140;42;Wonogiri;3;;;49:07.3
+1468;68;Kertosono;5;DUDY;admin;02:26.8
+142;44;Sragen;3;;;49:07.3
+121;1;Magelang;3;yuli;288632;10:19.7
+144;46;Blora;3;;;49:07.3
+145;47;Rembang;3;;;49:07.3
+146;48;Pati;3;;;49:07.3
+147;49;Kudus;3;;;49:07.3
+148;50;Jepara;3;;;49:07.3
+149;51;Demak;3;;;49:07.3
+150;52;Semarang;3;;;49:07.3
+151;53;Temanggung;3;;;49:07.3
+152;54;Kendal;3;;;49:07.3
+153;55;Batang;3;;;49:07.3
+154;56;Pekalongan;3;;;49:07.3
+155;57;Pemalang;3;;;49:07.3
+156;58;Tegal;3;;;49:07.3
+157;59;Brebes;3;;;49:07.3
+158;1;Yogyakarta;4;;;49:07.3
+159;31;Kulon Progo;4;;;49:07.3
+160;32;Bantul;4;;;49:07.3
+161;33;Gunung Kidul;4;;;49:07.3
+162;34;Sleman;4;;;49:07.3
+163;1;Surabaya;5;;;49:07.3
+164;2;Mojokerto;5;;;49:07.3
+165;3;Malang;5;;;49:07.3
+749;13;Karanganyar, Solo;3;Akademik;282240;09:54.5
+167;5;Kediri;5;;;49:07.3
+168;6;Blitar;5;;;49:07.3
+169;7;Probolinggo;5;;;49:07.3
+170;21;Jember;5;;;49:07.3
+171;31;Pacitan;5;;;49:07.3
+172;32;Ponorogo;5;;;49:07.3
+173;33;Trenggalek;5;;;49:07.3
+174;34;Tulung Agung;5;;;49:07.3
+175;35;Blitar;5;;;49:07.3
+176;36;Kediri;5;;;49:07.3
+177;37;Malang;5;;;49:07.3
+178;38;Lumajang;5;;;49:07.3
+179;39;Jember;5;;;49:07.3
+180;40;Banyuwangi;5;;;49:07.3
+181;41;Bondowoso;5;;;49:07.3
+182;42;Panarukan;5;;;49:07.3
+183;43;Probolinggo;5;;;49:07.3
+184;44;Pasuruhan;5;;;49:07.3
+185;45;Sidoarjo;5;;;49:07.3
+186;46;Mojokerto;5;;;49:07.3
+187;47;Jombang;5;;;49:07.3
+188;48;Nganjuk;5;;;49:07.3
+189;49;Madiun;5;;;49:07.3
+190;50;Magetan;5;;;49:07.3
+191;51;Ngawi;5;;;49:07.3
+192;52;Bojonegoro;5;;;49:07.3
+193;53;Tuban;5;;;49:07.3
+194;54;Lamongan;5;;;49:07.3
+195;55;Gresik;5;;;49:07.3
+196;56;Bangkalan;5;;;49:07.3
+197;57;Sampang;5;;;49:07.3
+198;58;Pamekasan;5;;;49:07.3
+199;59;Sumenep;5;;;49:07.3
+200;1;Banda Aceh;6;;;49:07.3
+201;2;Sabang;6;;;49:07.3
+1905;16;Tanjung Iman;12;debrina;288632;22:07.7
+1601;17;Tanjung Jaya;12;debrina;288632;23:00.7
+540;18;Pardasuka;12;debrina;288632;23:15.2
+551;19;Kalianda;12;debrina;288632;23:33.3
+566;20;Candimas;12;debrina;288632;23:58.8
+567;21;Muara Bungo;12;debrina;288632;24:19.9
+568;22;Way Jepara;12;debrina;288632;24:31.3
+210;1;Medan;7;;;49:07.3
+211;2;Sibolga;7;;;49:07.3
+212;3;Tanjung Balai;7;;;49:07.3
+214;5;Tebing Tinggi;7;;;49:07.3
+215;6;Binjai;7;;;49:07.3
+216;21;Kisaran;7;;;49:07.3
+218;32;Tapanuli Selatan;7;;;49:07.3
+219;33;Tapanuli Tengah;7;;;49:07.3
+220;34;Tapanuli Utara;7;;;49:07.3
+221;35;Labuhan Ratu;7;;;49:07.3
+222;36;Asahan;7;;;49:07.3
+223;37;Simalungun;7;;;49:07.3
+224;38;Dairi;7;;;49:07.3
+225;39;Karo;7;;;49:07.3
+226;40;Deli Serdang;7;;;49:07.3
+227;41;Langkat;7;;;49:07.3
+228;1;Padang;8;;;49:07.3
+229;2;Solok;8;;;49:07.3
+1469;92;Margorejo;12;istn-54f2cb5db4;288632;34:32.3
+231;4;Padang Panjang;8;;;49:07.3
+232;5;Bukittinggi;8;;;49:07.3
+233;6;Payakumbuh;8;;;49:07.3
+234;21;Padang Sidempuan;8;;;49:07.3
+235;31;Pesisir Selatan;8;;;49:07.3
+236;32;Solok;8;;;49:07.3
+238;34;Tanah Datar;8;;;49:07.3
+239;35;Padang Pariaman;8;;;49:07.3
+240;36;Agam;8;;;49:07.3
+241;37;Limapuluh Kota;8;;;49:07.3
+242;38;Pasaman;8;;;49:07.3
+243;1;Pekanbaru;9;;;49:07.3
+244;2;Batam;9;;;49:07.3
+245;21;Dumai;9;;;49:07.3
+246;31;Indragiri Ulu;9;;;49:07.3
+247;32;Indragiri Ilir;9;;;49:07.3
+248;33;Kepulauan Riau;9;;;49:07.3
+249;34;Kampar;9;;;49:07.3
+250;35;Bengkalis;9;;;49:07.3
+252;31;Jambi;10;;;49:07.3
+253;32;Muara Bungo Tebo;10;;;49:07.3
+254;33;Tanjung Jabung;10;;;49:07.3
+255;34;Batang Hari;10;;;49:07.3
+256;35;Bangko Sarulangun;10;;;49:07.3
+257;36;Kerinci;10;;;49:07.3
+258;37;Saeko;10;;;49:07.3
+259;1;Palembang;11;;;49:07.3
+260;2;Pangkal Pinang;11;;;49:07.3
+261;21;Lubuk Linggau;11;;;49:07.3
+262;22;Prabumulih;11;;;49:07.3
+263;23;Baturaja;11;;;49:07.3
+264;31;Ogan Komering Ulu;11;;;49:07.3
+265;32;Ogan Komering Ilir;11;;;49:07.3
+266;33;Muara Enim/Liat;11;;;49:07.3
+230;3;Sawahlunto;8;user-PC;2151322;56:32.6
+268;35;Musi Rawas;11;;;49:07.3
+269;36;Musi Banyuasin;11;;;49:07.3
+270;37;Bangka;11;;;49:07.3
+271;38;Belitung;11;;;49:07.3
+569;23;Kebumen;12;debrina;288632;24:45.6
+583;24;Pulau Panggung;12;debrina;288632;25:00.5
+424;42;Berastagi;7;BAAKISTN-PC;2151322;20:14.2
+611;25;Enggal Mulyo;12;debrina;288632;25:20.2
+1262;32;Dosai;33;BAAK-PC;288646;50:27.9
+278;21;Singkawang;13;;;49:07.3
+279;31;Pontianak;13;;;49:07.3
+280;32;Sambas;13;;;49:07.3
+281;33;Sanggau;13;;;49:07.3
+282;34;Ketapang;13;;;49:07.3
+283;35;Sintang;13;;;49:07.3
+284;36;Kapuas Hulu;13;;;49:07.3
+286;31;Kota Waringin Barat;14;;;49:07.3
+287;32;Kota Waringin Timur;14;;;49:07.3
+288;33;Katingan;14;;;49:07.3
+289;34;Kapuas;14;;;49:07.3
+290;35;Barito Selatan;14;;;49:07.3
+291;36;Barito Timur;14;;;49:07.3
+292;37;Barito Utara;14;;;49:07.3
+293;38;Gunung Mas;14;;;49:07.3
+294;39;Gunung Raya;14;;;49:07.3
+296;1;Banjarmasin;15;;;49:07.3
+297;21;Pakanbaru;15;;;49:07.3
+298;31;Tanah Laut;15;;;49:07.3
+299;32;Kota Baru;15;;;49:07.3
+300;33;Banjar;15;;;49:07.3
+301;34;Baritokuala;15;;;49:07.3
+302;35;Tapian;15;;;49:07.3
+303;36;Hulu Sei Selatan;15;;;49:07.3
+304;37;Hulu Sei Tengah;15;;;49:07.3
+305;38;Hulu Sei Utara;15;;;49:07.3
+306;39;Tabalong;15;;;49:07.3
+307;1;Samarinda;16;;;49:07.3
+308;2;Balikpapan;16;;;49:07.3
+314;1;Manado;17;;;49:07.3
+315;2;Gorontalo;17;;;49:07.3
+316;21;Bitung;17;;;49:07.3
+317;31;Bolaang Mangondow;17;;;49:07.3
+318;32;Minahasa;17;;;49:07.3
+319;33;Sangihe Talaud;17;;;49:07.3
+320;34;Gorontalo;17;;;49:07.3
+321;21;Palu;18;;;49:07.3
+322;33;Bual Toli Toli;18;;;49:07.3
+323;34;Donggala;18;;;49:07.3
+324;35;Luwuk/Banggai;18;;;49:07.3
+325;36;Poso;18;;;49:07.3
+326;1;Ujung Pandang;19;;;49:07.3
+328;31;Selayar;19;;;49:07.3
+329;32;Bulukumba;19;;;49:07.3
+330;33;Bantaeng;19;;;49:07.3
+331;34;Jeneponto;19;;;49:07.3
+332;35;Takalar;19;;;49:07.3
+333;36;Gowa;19;;;49:07.3
+334;37;Sinjai;19;;;49:07.3
+335;38;Bone;19;;;49:07.3
+336;39;Maros;19;;;49:07.3
+337;40;Pangkajene;19;;;49:07.3
+338;41;Barru;19;;;49:07.3
+339;42;Soppeng;19;;;49:07.3
+340;43;Wajo;19;;;49:07.3
+341;44;Sidanreng Rappang;19;;;49:07.3
+342;45;Pinrang;19;;;49:07.3
+343;46;Enrekang;19;;;49:07.3
+344;47;Luwu;19;;;49:07.3
+345;48;Tana Toraja;19;;;49:07.3
+346;49;Polewali Mamasa;19;;;49:07.3
+347;50;Majene;19;;;49:07.3
+348;51;Mamuju;19;;;49:07.3
+349;21;Kendari;20;;;49:07.3
+1767;27;Notoharjo;12;debrina;288632;25:56.4
+351;31;Kendari;20;;;49:07.3
+352;32;Buton;20;;;49:07.3
+353;33;Kolaka;20;;;49:07.3
+354;34;Muna;20;;;49:07.3
+355;1;Ambon;21;;;49:07.3
+356;21;Ternate;21;;;49:07.3
+1848;2;Waro;44;debrina;288632;18:59.8
+358;32;Maluku Tengah;21;;;49:07.3
+359;33;Halmahera Tengah;21;;;49:07.3
+360;34;Maluku Utara;21;;;49:07.3
+361;21;Denpasar;22;;;49:07.3
+1263;33;Bogenga;33;BAAK-PC;288646;51:05.7
+363;32;Bangli;22;;;49:07.3
+364;33;Buleleng;22;;;49:07.3
+365;34;Gianyar;22;;;49:07.3
+366;35;Jembrana;22;;;49:07.3
+367;36;Karang Asem;22;;;49:07.3
+368;37;Klungkung;22;;;49:07.3
+369;38;Tabanan;22;;;49:07.3
+370;21;Mataram;23;;;49:07.3
+371;31;Bima;23;;;49:07.3
+372;32;Dompu;23;;;49:07.3
+373;33;Lombok Barat;23;;;49:07.3
+376;36;Sumbawa;23;;;49:07.3
+377;21;Kupang;24;;;49:07.3
+378;31;Sumba Barat;24;;;49:07.3
+379;32;Sumba Timur;24;;;49:07.3
+380;33;Timor Tengah Selatan;24;;;49:07.3
+381;34;Timor Tengah Utara;24;;;49:07.3
+382;35;Belu;24;;;49:07.3
+383;36;Alor;24;;;49:07.3
+384;37;Flores Timur;24;;;49:07.3
+385;38;Sikka;24;;;49:07.3
+386;39;Ende;24;;;49:07.3
+387;40;Ngade;24;;;49:07.3
+388;41;Manggarai;24;;;49:07.3
+389;21;Jayapura;25;;;49:07.3
+390;31;Fak-Fak;25;;;49:07.3
+391;32;Jayapura;25;;;49:07.3
+392;33;Manokwari;25;;;49:07.3
+393;34;Merauke;25;;;49:07.3
+394;35;Paniai / Nabire;25;;;49:07.3
+395;36;Sorong;25;;;49:07.3
+396;37;Teluk Cendrawasih;25;;;49:07.3
+397;38;Yapen Waropen;25;;;49:07.3
+398;39;Peg. Jaya Wijaya;25;;;49:07.3
+399;1;Bengkulu;26;;;49:07.3
+400;31;Bengkulu Selatan;26;;;49:07.3
+1839;28;Negara Bumi;12;debrina;288632;26:15.8
+402;33;Rejang Lebong;26;;;49:07.3
+404;31;Baucau;27;;;49:07.3
+405;32;Manaturo;27;;;49:07.3
+406;33;Latem;27;;;49:07.3
+407;34;Viqueque;27;;;49:07.3
+408;35;Ainaro;27;;;49:07.3
+409;36;Manufahi;27;;;49:07.3
+410;37;Cova Lima;27;;;49:07.3
+411;38;Ambeno;27;;;49:07.3
+412;39;Bobonaro;27;;;49:07.3
+413;40;Liquica;27;;;49:07.3
+414;41;Ermera;27;;;49:07.3
+415;42;Aileu;27;;;49:07.3
+89;3;Jakarta Pusat;1;;;49:07.3
+90;4;Jakarta Barat;1;;;49:07.3
+91;5;Jakarta Utara;1;;;49:07.3
+88;2;Jakarta Timur;1;;;20:51.1
+416;6;34324;;;;20:57.6
+417;78;hjhgjhgj;;;;22:03.1
+1873;29;Kesumajaya;12;debrina;288632;26:34.4
+1874;30;Panjang;12;debrina;288632;26:50.3
+421;0;Jakarta;1;istnprima;admin;22:09.5
+422;60;Solo;3;istnprima;admin;25:48.5
+494;45;Batu Palano;8;administrator;282240;41:48.0
+1352;78;KOTO TUO;8;yuli;288632;03:41.1
+425;93;Brisbane;28;istnprima;admin;28:47.4
+426;61;Kutoarjo;3;kepegawaian;288630;18:51.8
+1906;94;Jagaraga;11;debrina;288632;36:35.8
+427;62;Gombong;3;kepegawaian;288630;19:35.5
+428;63;Ketanggungan;3;kepegawaian;288630;20:10.3
+429;64;Sragen;3;kepegawaian;288630;09:02.5
+430;65;Kroya;3;PMB;288630;02:36.6
+431;37;Sape;23;developer;admin;17:31.4
+432;36;Daik;9;developer;admin;56:28.1
+433;39;Martapura;11;developer;admin;58:55.9
+434;66;Puring Kebumen;3;developer;admin;01:57.7
+435;43;Gunungsitoli;7;developer;admin;04:13.1
+436;37;Duri;9;developer;admin;07:20.6
+1907;10;Kalidadi;12;debrina;288632;55:25.4
+1353;12;Sipinggan;7;BAAKISTN-PC;2151322;35:13.7
+439;39;Muaro Tantang;8;developer;admin;10:08.1
+442;40;Sentani;25;pmb;1991065;37:12.1
+441;41;Sungai Bungin;11;istn-dev;11930005;56:22.6
+440;40;Muaradua;11;istn-dev;11930005;58:01.6
+444;40;Lubuk Basung;8;pmb;1991065;05:02.5
+443;43;Parit Tiga Jebus;11;istn-dev;1991065;07:21.5
+445;42;Pagaralam;11;istn-dev;1991065;07:44.4
+446;44;Limbong;7;istn-dev;1991065;08:13.7
+447;51;Rangkasbitung;2;istn-dev;1991065;09:13.8
+448;38;Tembilahan;9;istn-dev;1991065;43:54.9
+449;41;Bapinang Hulu;14;istn-dev;1991065;44:52.4
+450;45;Sukaramai;7;pusdatik01;1991065;52:25.8
+451;44;Nanjungan;11;pusdatik01;1991065;24:59.6
+1908;9;Kalirejo;12;debrina;288632;07:34.2
+453;41;Koto Alam;8;istn-dev;1991065;32:44.4
+454;42;Tapan;8;istn-dev;1991065;33:08.4
+251;1;Lubuk Jambi;10;istn-dev;1991065;33:51.2
+237;33;Muaro Bodi;8;istn-dev;1991065;31:01.3
+455;46;Parongil;7;pusdatik01;282240;48:29.1
+456;45;sengir;11;wasim;282240;33:21.1
+457;46;Sungailiat;11;wasim;282240;35:53.9
+458;39;Tanjung Pinang;9;wasim;282240;25:18.1
+459;46;Bandar Dolok;7;wasim;282240;09:23.3
+460;43;Simpang Tiga Ophir;8;pusdatik-01;admin;52:23.9
+461;47;Balige;7;wasim;282240;19:41.4
+462;42;lewolwba;24;wasim;282240;00:13.4
+463;43;Habijanang;24;wasim;282240;33:06.0
+464;38;Ranggase;23;wasim;282240;03:55.2
+465;47;Tugu Mulyo;11;wasim;282240;39:30.2
+466;44;Bayur;8;pusdatik-01;admin;08:50.0
+467;35;SENGKANG;4;wasim;282240;54:00.9
+468;44;Mok;24;wasim;282240;36:41.5
+469;48;Rayamas;7;user-39d10cbd43;282240;51:54.8
+470;48;Naras;11;wasim;282240;09:20.2
+1470;83;Takofi;21;istn-54f2cb5db4;288632;19:41.4
+472;50;Sidikalang;7;P2NR-Rudy;282240;07:50.5
+473;38;Rimbo Bujang;10;P2NR-Rudy;282240;08:31.7
+474;49;Mentok;11;P2NR-Rudy;282240;09:59.9
+475;51;Haranggaol;7;P2NR-Rudy;282240;24:28.4
+476;42;Kasongan;14;P2NR-Rudy;282240;37:29.0
+477;52;Sukarani;7;administrator;282240;05:21.8
+478;53;Sukarami;7;administrator;282240;11:48.6
+1909;107;Kombo-wowo;23;debrina;288632;09:25.0
+495;46;Parit;8;administrator;282240;42:09.3
+481;1;Kampong Speu;32;administrator;282240;33:56.4
+482;2;Preahyihear;32;administrator;282240;40:54.7
+483;54;Perdagangan;7;wasim;282240;51:17.1
+496;57;Pulau Rakyat;7;administrator;282240;42:55.4
+484;52;Makassar;19;wasim;282240;12:12.8
+485;52;Cikarang;2;administrator;282240;15:07.0
+486;39;Balinggi;22;administrator;282240;35:45.4
+750;6;Lawe Sigala-Gala;6;Akademik;282240;10:28.6
+488;35;Biak;17;administrator;282240;37:20.4
+1910;31;Kresnowidodo;12;debrina;288632;09:20.9
+490;39;Tanjung Jati;10;administrator;282240;16:37.4
+491;45;Flores;24;administrator;282240;31:32.2
+492;55;Karang Sari;7;administrator;282240;33:39.7
+1911;32;Pesawaran;12;debrina;288632;10:04.1
+480;41;Maumere;25;administrator;282240;35:55.0
+493;56;Hutanagodang;7;administrator;282240;30:49.1
+497;40;Bangkinang;9;administrator;282240;43:26.2
+1912;165;Tandam Hilir;7;debrina;288632;47:27.6
+499;47;Batusangkar;8;administrator;282240;47:41.8
+500;48;Tanjung Jati;8;administrator;282240;48:01.5
+501;6;usa;1;administrator;282240;53:35.2
+502;49;Kuala Simpang;8;administrator;282240;11:28.3
+503;40;Bali;22;administrator;282240;51:57.6
+504;58;Lumban Ganjang;7;administrator;282240;08:51.3
+505;50;Soroako;11;administrator;282240;23:07.9
+506;3;Kumbang;6;administrator;282240;51:12.4
+507;35;Nuwewang;21;administrator;282240;08:10.0
+508;7;Bandar Purba;7;administrator;282240;09:16.4
+509;2;Rasau Jaya;13;administrator;282240;09:48.3
+510;3;Koba;11;administrator;282240;41:28.1
+511;2;Lempur Mudik;4;administrator;282240;41:08.4
+512;2;Tenggarong;33;administrator;282240;35:11.9
+513;8;Sirombu;7;administrator;282240;15:16.0
+514;41;Lubuk Pakam;7;administrator;282240;59:01.4
+515;3;Ruteng;33;administrator;282240;04:00.2
+516;4;Langgam;33;administrator;282240;18:01.6
+517;53;Pungkalawaki;19;administrator;282240;51:21.7
+549;10;Pasir Pengarayan;7;administrator;282240;25:36.1
+518;36;Tehoru;17;administrator;282240;52:18.6
+1844;39;Bukit Peninjauan;26;debrina;288632;15:36.8
+520;53;Sukarami;2;administrator;282240;54:09.6
+521;54;Kajuara Bone;19;administrator;282240;54:50.8
+522;55;Liangbai;19;administrator;282240;55:09.8
+523;35;Tolitoli;20;administrator;282240;56:13.6
+524;56;Cilellang;19;administrator;282240;56:43.3
+550;11;Panyabungan I;7;administrator;282240;30:08.7
+1846;41;Bengkulu Selatan;26;debrina;288632;16:38.0
+526;3;Putussibau;13;administrator;282240;14:29.3
+527;1;Lamangga;20;administrator;282240;11:26.8
+528;2;Bone;20;administrator;282240;11:44.7
+529;3;Penaraga;20;administrator;282240;12:03.0
+530;4;Mandonga;20;administrator;282240;12:24.8
+525;57;Jampoe;19;administrator;282240;13:12.5
+531;3;Allita;19;administrator;282240;13:38.3
+532;5;Pallengoreng;19;administrator;282240;14:18.1
+533;6;Watampone;19;administrator;282240;14:59.1
+534;7;Salobongko;19;administrator;282240;15:22.4
+535;8;Pure;19;administrator;282240;15:32.4
+536;3;Marah Haloq;16;administrator;282240;16:06.6
+537;2;Soahuku;21;administrator;282240;50:22.8
+538;4;Rantepao;19;administrator;282240;51:03.5
+539;1;Tolai;18;administrator;282240;51:28.0
+1847;90;Karang Tanding;11;debrina;288632;38:35.7
+541;7;Pariaman;8;administrator;282240;32:40.9
+542;3;banda;21;administrator;282240;56:56.7
+543;3;Lasusua;17;administrator;282240;17:31.6
+544;4;Toinasa;17;administrator;282240;17:56.8
+545;9;Taba;19;administrator;282240;18:20.5
+166;4;Pasuruan;5;administrator;282240;30:39.4
+546;2;Sipi;18;administrator;282240;47:09.8
+552;8;Lubuk Landai;8;administrator;282240;20:06.1
+1849;97;Telutih Baru;21;debrina;288632;57:36.3
+547;10;S. Binangae Barru;19;user-39d10cbd43;282240;17:12.8
+553;9;Purbasaribu;7;administrator;282240;23:01.5
+554;3;Karang Negara;9;administrator;282240;10:07.3
+555;4;Sapat;9;administrator;282240;35:55.5
+556;12;Palopo;19;administrator;282240;48:03.0
+557;12;Dolok Sanggul;7;administrator;282240;55:13.5
+558;13;Rantau Prapat;7;administrator;282240;54:42.5
+1850;162;Hutagaol;7;debrina;288632;36:02.7
+560;4;Samakurok;6;administrator;282240;15:43.9
+752;67;Pangebatan;3;Akademik;282240;19:02.6
+561;14;Pardamuan Motung;7;administrator;282240;58:32.9
+562;5;Ranteangin;20;administrator;282240;58:52.3
+563;6;Lajoa;20;administrator;282240;59:02.6
+564;7;Tanrutedong;20;administrator;282240;59:21.5
+565;8;Bajo;20;administrator;282240;59:34.3
+1851;42;Pelajau;26;debrina;288632;53:53.9
+1852;98;Gamsungi;21;debrina;288632;44:44.9
+1853;99;Halmahera Barat;21;debrina;288632;47:43.1
+1854;163;Samosir;7;debrina;288632;43:28.2
+570;4;Saparua;21;administrator;282240;01:10.8
+571;1;Masumeze;24;administrator;282240;01:33.2
+572;4;Nunukan;16;administrator;282240;01:56.8
+573;13;Pompanua;19;administrator;282240;45:58.7
+574;14;Sumatra;19;administrator;282240;46:13.4
+575;15;Mario;19;administrator;282240;46:29.5
+576;9;singkut;8;Akademik;282240;46:45.0
+577;58;Rantai Damai;19;nakum;282240;19:35.6
+578;51;Pulau Panggung;11;nakum;282240;20:32.4
+579;52;Kotamobagu;11;nakum;282240;21:05.6
+580;1;Nabire;25;nakum;282240;21:50.9
+581;5;Balinggi;17;Akademik;282240;13:32.2
+582;6;Kotamobagu;17;Akademik;282240;14:22.4
+1512;91;P.Sidimpuan;7;ISTNAKADEMIK-PC;105;54:56.1
+585;16;Langsa;7;Akademik;282240;15:22.0
+586;17;Aekunsim;7;Akademik;282240;48:46.0
+587;18;Sibabangun;7;mansur;282240;46:20.2
+588;5;Labuan;2;Akademik;282240;50:30.4
+589;4;Tumahe;13;Akademik;282240;17:23.1
+590;4;Muarabulian;11;Akademik;282240;48:00.4
+1856;10;Sukarame;12;debrina;288632;04:42.7
+592;19;Tarung-Tarung;7;Akademik;282240;14:08.5
+593;9;Koto Tangah;20;Akademik;282240;23:03.4
+594;5;Tanjung Pura;9;Akademik;282240;42:00.8
+595;5;Jungkat;13;mansur;282240;16:09.8
+596;5;Rohomoni;21;mansur;282240;16:39.4
+597;22;Pardomuan Motong;7;Akademik;282240;27:57.1
+598;6;Torganda;9;Akademik;282240;44:40.2
+599;6;Pamanukan;2;Akademik;282240;28:19.4
+600;16;Soe;19;Akademik;282240;01:33.5
+601;24;Tamayang;11;Akademik;282240;32:23.7
+602;23;Pagur;7;Akademik;282240;06:27.5
+603;10;Pakan Senayan;8;Akademik;282240;22:54.6
+604;24;Cubadak;7;Akademik;282240;54:06.3
+605;7;Rantepao;17;Akademik;282240;15:00.1
+606;8;Lewoleba;17;Akademik;282240;44:39.0
+607;9;Tompoh;17;Akademik;282240;31:34.2
+608;10;Parilangke;17;Akademik;282240;46:55.4
+609;7;Gedung Wani;2;Akademik;282240;47:41.4
+610;8;Bangil;5;Akademik;282240;16:48.3
+272;11;Tanjungkarang;12;debrina;288632;04:55.5
+612;11;Tanjung Enim;8;Akademik;282240;44:47.7
+613;12;Rumbai;8;Akademik;282240;59:12.3
+614;7;Kabupaten Semarang;3;Akademik;282240;04:11.4
+615;6;Banjar Baru;13;Akademik;282240;09:03.2
+616;11;Plaju;12;Akademik;282240;24:28.2
+617;2;Bintuhan;26;Akademik;282240;53:01.5
+618;12;Simpang Sari;12;Akademik;282240;57:27.2
+619;17;Maleku;19;Akademik;282240;06:49.0
+620;8;Kabupaten Semarang;3;Akademik;282240;22:11.4
+622;22;Cepu;5;Akademik;282240;24:23.5
+623;2;Banjarbaru;15;Akademik;282240;24:53.9
+624;8;Rancaekek;2;Akademik;282240;25:45.2
+625;13;Wayberulu;12;Akademik;282240;17:56.5
+626;9;Ambarawa;5;Akademik;282240;25:49.2
+1857;164;SEI MATI;7;debrina;288632;35:16.5
+627;9;Talaga;2;Akademik;282240;29:04.3
+628;14;Tanjung Morawa;8;Akademik;282240;22:30.6
+629;15;Labuhan Ruku;8;Akademik;282240;14:34.6
+630;16;P. Siantar;8;Akademik;282240;03:19.7
+631;25;Sicincin;7;Akademik;282240;21:56.6
+632;14;Kuang Anyar;12;Akademik;282240;06:19.8
+633;15;Waiwada;12;Akademik;282240;36:36.6
+634;5;Mariana;11;Akademik;282240;39:55.6
+635;11;Ganda Soppeng;17;Akademik;282240;48:57.2
+636;12;Boneoge;17;Akademik;282240;49:28.7
+637;13;Korowalelo;17;Akademik;282240;49:51.8
+638;14;Maurole;17;Akademik;282240;50:30.9
+639;15;Konawe;17;Akademik;282240;50:45.8
+640;16;Tinggede;17;Akademik;282240;51:18.0
+641;17;Karanganyar;17;Akademik;282240;51:44.0
+642;5;Tanah Grogot;16;Akademik;282240;29:57.1
+643;18;Ganra Soppeng;17;Akademik;282240;30:40.2
+644;6;Werinama;21;Akademik;282240;00:51.3
+645;7;Pakandangan;9;Akademik;282240;45:44.1
+646;17;Padangsidimpuan;8;Akademik;282240;34:56.6
+647;20;Siunggas Julu;7;Akademik;282240;04:37.0
+656;3;Wuasa;18;Akademik;282240;20:24.9
+648;26;Aek Kanopan;7;Akademik;282240;48:45.3
+649;8;Ranai;9;Akademik;282240;41:36.0
+650;59;Kotamobago;7;Akademik;282240;11:39.7
+651;16;Telukbetung;12;Akademik;282240;33:00.9
+652;17;Natar;12;Akademik;282240;33:13.9
+653;18;Sangbua;19;Akademik;282240;33:37.8
+654;27;Moutong;7;Akademik;282240;35:24.7
+655;28;Astina;7;Akademik;282240;35:37.3
+657;7;Sanana;21;Akademik;282240;20:44.0
+658;19;Astina;17;Akademik;282240;22:29.0
+659;20;Moutong;17;Akademik;282240;22:51.3
+660;19;Parangloe;19;Akademik;282240;52:07.3
+661;18;Guguk Tinggi;8;Akademik;282240;52:44.1
+662;7;Mempawah;13;Akademik;282240;53:08.9
+213;4;Pematangsiantar;7;Akademik;282240;53:51.8
+663;20;Menado;19;Akademik;282240;21:00.7
+664;22;Dumai;8;mipa;282240;25:03.6
+665;23;Panti;8;mipa;282240;25:21.6
+666;1;Desa Suko Mullio;35;mipa;282240;28:05.8
+667;2;Madinah;35;mipa;282240;28:31.5
+668;4;Laguboti;18;Akademik;282240;33:29.6
+669;5;Amlapura;18;Akademik;282240;32:26.6
+670;9;Kelapa Kampit;9;Akademik;282240;28:31.1
+671;10;Pemangkat;2;Akademik;282240;14:39.6
+672;60;Sihiong;7;Akademik;282240;21:53.1
+673;61;Aek Negaga;7;Akademik;282240;51:53.7
+498;5;Maumere;33;Akademik;282240;08:55.2
+674;11;Liwa;2;Akademik;282240;34:57.7
+675;9;Pringsewu;3;Akademik;282240;59:24.1
+676;8;Malifut;13;Akademik;282240;00:51.6
+677;62;Lawe Beringin;7;Akademik;282240;13:00.9
+678;63;Pancur Batu;7;Akademik;282240;16:19.5
+679;59;Watu;19;Akademik;282240;19:41.2
+680;60;Palusu;19;Akademik;282240;58:13.8
+681;2;Mempawah;14;Akademik;282240;57:33.2
+682;12;Sedong;2;Akademik;282240;13:38.9
+1858;61;BAJUBANG;10;debrina;288632;55:26.2
+684;64;Salak;7;Akademik;282240;28:54.3
+685;2;Tanjung Pandan;10;Akademik;282240;54:01.7
+686;1;Muba;33;Akademik;282240;59:42.4
+687;54;Karangampel;2;Akademik;282240;35:38.5
+688;1;Molonggota;23;Akademik;282240;38:27.3
+689;6;Biaro Baru;11;Akademik;282240;07:33.0
+690;29;Stabat;7;Akademik;282240;16:36.2
+691;65;Merek Raya;7;Akademik;282240;46:09.6
+692;66;Parsoburan;7;Akademik;282240;51:24.7
+693;6;Sei Guntung;18;Akademik;282240;34:50.6
+694;7;Tamboli;11;Akademik;282240;32:59.0
+1264;121;Masamba;19;BAAK-PC;288646;52:11.3
+696;6;Bajawa;33;Akademik;282240;06:35.3
+697;1;Nusa Penida;22;Akademik;282240;47:50.0
+698;8;MPL Pasir Talang;11;Akademik;282240;51:12.1
+699;7;Sanggau;33;Akademik;282240;59:59.5
+487;42;Wamena;25;Akademik;282240;36:17.3
+700;2;Kananga;23;Akademik;282240;31:42.3
+701;21;Pasang Lambe;19;Akademik;282240;36:36.5
+702;37;Tomini;17;Akademik;282240;37:26.5
+703;61;Pasang Lambe/Buakayu;19;Akademik;282240;38:16.5
+704;11;Teluk Betung;9;Akademik;282240;36:19.6
+705;10;Ajibarang;3;Akademik;282240;19:17.7
+706;68;Kutabuluh;7;Akademik;282240;24:37.6
+707;9;Pulau Raja;13;Akademik;282240;25:31.1
+708;9;Belimbingan;11;Akademik;282240;26:25.5
+709;70;Balimbingan;7;Akademik;282240;41:51.1
+710;13;Rangkasbitung;2;yanti_d3;282240;55:53.6
+711;3;Sritejokencono;4;uptdata_fti;282240;56:17.4
+712;71;Simangulampe;7;fti-uptdata;282240;10:53.5
+713;10;Nunukan;11;Akademik;282240;30:37.5
+714;11;Limbung;11;Akademik;282240;30:55.0
+715;12;Sopu;11;Akademik;282240;31:08.3
+716;13;Luwuk;11;Akademik;282240;31:25.4
+717;14;Tarra Matekkeng;11;Akademik;282240;32:00.1
+718;15;Tanjung;11;Akademik;282240;32:10.4
+720;19;Bangko;12;Akademik;282240;33:13.1
+721;20;Sibabangun;12;Akademik;282240;33:29.6
+722;2;Sanggar Buana;22;Akademik;282240;33:52.0
+723;14;Klangenan;2;Akademik;282240;34:34.9
+724;8;Betun;33;Akademik;282240;56:49.3
+725;53;Sungai Guntung;11;Akademik;282240;21:06.9
+726;8;Seith;21;Akademik;282240;21:40.1
+727;3;Meliau;10;Akademik;282240;05:30.1
+728;9;Buntok;33;Akademik;282240;04:36.9
+729;10;Mengkatip;33;Akademik;282240;04:55.8
+730;7;Gisting;18;Akademik;282240;12:30.0
+731;22;Tanjung Rusa;9;Akademik;282240;50:00.6
+732;72;Tarutung;7;Akademik;282240;47:49.5
+733;22;Gandeng;19;Akademik;282240;39:10.0
+1930;84;Sri Wungu;3;debrina;288632;37:22.0
+734;5;Alue He Puteh;6;Akademik;282240;16:00.3
+735;4;Sarang Elang;10;Akademik;282240;08:11.8
+736;9;Batu Sori;21;dodol;282240;18:27.1
+737;12;Muaramais Jambur;9;Akademik;282240;08:54.2
+738;16;Kuala Tungkal;11;Akademik;282240;31:44.0
+739;5;Kuala Tungkal;10;Akademik;282240;52:21.8
+740;73;Tapiannauli;7;Akademik;282240;51:04.5
+741;54;Muara Enim;11;Akademik;282240;52:46.0
+742;11;Manggar;33;Akademik;282240;53:51.4
+743;23;Tanjung Rejo;9;Akademik;282240;39:02.3
+744;24;Pasir Kota Baru;9;Akademik;282240;42:00.4
+745;25;Kaduas;9;Akademik;282240;49:35.3
+746;26;Surau Munai;9;Akademik;282240;53:06.8
+747;11;Tulungagung;3;Akademik;282240;48:36.4
+754;74;Lumban Sitorus;7;Akademik;282240;54:26.8
+794;79;Sibolangit;7;Akademik;282240;41:34.4
+795;60;Silau Malela;11;Akademik;282240;22:10.0
+796;41;Lirik;9;Akademik;282240;51:51.8
+797;10;Onowaembo;21;Akademik;282240;39:43.2
+798;3;Manna;26;Akademik;282240;56:15.1
+799;66;Balusu;19;Akademik;282240;56:42.7
+800;61;Cibaru;2;Akademik;282240;57:04.8
+801;62;Plumbon;2;Akademik;282240;48:26.5
+755;62;Tariang Lama;19;Akademik;282240;55:05.9
+756;55;Rangkas Bitung;2;Akademik;282240;35:46.4
+757;50;Padang Genting;8;Akademik;282240;24:37.9
+758;23;Belawa Wajo;19;Akademik;282240;57:12.1
+802;54;Sidenreng Rappang;8;Akademik;282240;47:54.6
+759;24;Cenrana;19;Akademik;282240;46:13.8
+1914;110;SIMENGMENG;7;debrina;288632;15:46.8
+761;14;Waingapu;33;Akademik;282240;08:14.3
+762;13;Sering;9;Akademik;282240;09:38.6
+763;75;Cotgirek;7;Akademik;282240;16:01.1
+764;68;Gadingrejo;3;Akademik;282240;08:44.4
+765;26;Cilegon;2;Akademik;282240;23:03.7
+766;76;Dahana;7;Akademik;282240;24:57.0
+101;31;Pandeglang;2;Akademik;282240;06:29.7
+767;7;Desa Mesjid;6;Akademik;282240;08:29.4
+803;55;Loka;8;Akademik;282240;48:11.0
+768;63;Kayumalue Pajeko;19;Akademik;282240;41:54.6
+769;56;Sukahaji;2;Akademik;282240;44:03.4
+770;64;Tampiala;19;Akademik;282240;44:33.8
+771;57;Panyabungan Jae;2;Akademik;282240;45:35.9
+1860;8;GIRIAN;18;debrina;288632;08:40.8
+772;21;Gisting;12;Akademik;282240;54:20.6
+773;51;Kotabaru;8;Akademik;282240;57:36.0
+774;55;Serinanti Oki;11;Akademik;282240;11:24.7
+775;56;Sang Agung;11;Akademik;282240;20:23.0
+776;57;Tanjung Raja;11;Akademik;282240;24:31.8
+777;58;Sidakersa;11;Akademik;282240;19:22.6
+778;10;Sei-Putat;13;Akademik;282240;50:17.0
+779;65;Kotaraya;19;Akademik;282240;32:35.0
+780;59;Tulung Selapan;11;Akademik;282240;34:38.0
+781;58;Gunung Kemala;2;Akademik;282240;03:37.3
+782;59;Batu Marta;2;Akademik;282240;04:13.4
+783;60;Situbondo;5;Akademik;282240;40:12.6
+784;61;Kemranjen Banyumas;5;Akademik;282240;40:53.7
+785;3;Belinyu;35;pusdatik-02;282240;22:27.5
+786;60;Melati I;2;Akademik;282240;14:42.3
+787;6;Munte;10;Akademik;282240;15:07.3
+788;11;Bontang;13;Akademik;282240;52:10.6
+805;41;Terbanggi Ilir;12;Akademik;282240;30:58.7
+790;78;Makale;7;Akademik;282240;07:59.2
+789;77;Bintang Meriah, Karo;7;Akademik;282240;15:01.5
+791;52;Baturusa;8;Akademik;282240;13:24.1
+792;53;Batu Sangkar;8;Akademik;282240;13:47.9
+793;69;Pringsewu;3;Akademik;282240;14:22.6
+807;63;Marga Cinta;2;Akademik;282240;04:52.3
+808;80;Pauh;7;Akademik;282240;19:55.2
+809;6;Murung Pudak;16;Akademik;282240;44:52.4
+810;2;Biak;25;Akademik;282240;45:14.5
+812;7;Pematang Sapat;10;Akademik;282240;46:27.5
+813;10;Besu;20;Akademik;282240;46:50.6
+811;56;Andaleh;8;Akademik;282240;52:31.6
+814;81;Partibi Lama;7;Akademik;282240;15:18.8
+815;42;Belimbingsari;12;Akademik;282240;40:18.4
+816;67;Palita;19;Akademik;282240;36:38.0
+817;57;Pematangsiantar;8;Akademik;282240;58:50.2
+818;58;Pangkalpinang;8;Akademik;282240;59:17.3
+819;8;Teluk Nilau;10;Akademik;282240;34:50.2
+820;15;Selong;33;Akademik;282240;38:08.0
+821;42;K. Pinang;9;Akademik;282240;56:48.3
+822;62;Tani Makmur;11;Akademik;282240;07:43.3
+823;62;Parsorminan;7;Akademik;282240;48:24.2
+824;38;Pomalaa;17;Akademik;282240;01:59.8
+825;82;Partibilama;7;admin;282240;21:26.9
+826;12;Leppangeng;21;admin;282240;38:06.4
+827;1;Padaherang;34;admin;282240;38:39.7
+828;43;Air Balui;12;admin;282240;39:17.6
+829;44;Margoyoso;12;admin;282240;39:34.3
+830;45;Rukti Endah;12;admin;282240;39:58.9
+831;46;Sumber Asri;12;admin;282240;40:12.9
+833;43;Teguhan;9;admin;282240;41:28.7
+834;68;Kalimporo;19;admin;282240;42:01.7
+835;69;Mapane;19;admin;282240;42:17.2
+836;70;Nosu;19;admin;282240;42:34.4
+837;71;Makale;19;admin;282240;42:49.3
+838;72;Tagari;19;admin;282240;43:02.1
+591;57;Songka;17;debrina;288632;12:38.1
+840;73;Salaka;19;admin;282240;07:12.2
+841;47;Bukit Kemuning;12;admin;282240;07:49.1
+842;64;Argamakmur;2;admin;282240;08:16.3
+911;37;Lubuklinggau;13;DATAFTI-PC;282240;49:08.3
+844;39;Langowan;17;admin;282240;59:43.0
+845;48;Sanggaran;12;admin;282240;00:20.2
+846;49;Bandar Agung;12;admin;282240;00:35.3
+847;3;Ruteng;23;admin;282240;45:36.4
+848;84;Laguboti;7;admin;282240;48:38.2
+849;59;Pardasuka;8;admin;282240;49:07.2
+850;65;Kampiri;2;admin;282240;48:36.4
+851;85;Batuhoda;7;wasim;282240;34:56.5
+852;86;Parapat;7;wasim;282240;40:32.3
+853;41;Gumbrih;22;wasim;282240;09:26.6
+854;87;Silamosik;7;wasim;282240;49:37.4
+843;83;Huta Tongah;7;wasim;282240;12:05.4
+855;60;Sungai Tunu;8;wasim;282240;39:27.1
+856;70;Purwodadi;3;wasim;282240;53:45.6
+858;38;Mebali;18;wasim;282240;00:28.1
+859;39;Nanggala;18;wasim;282240;20:12.3
+912;75;Panawangan;2;DATAFTI-PC;282240;54:17.7
+860;50;Banding Agung;12;wasim;282240;42:19.0
+861;44;Tanjung Karang;9;wasim;282240;34:19.2
+1861;25;KOTA BITUNG;17;debrina;288632;13:16.6
+863;63;Ketiau;11;wasim;282240;52:19.8
+864;61;Kumpulan;8;wasim;282240;54:52.6
+865;36;Weetebula;21;wasim;282240;51:32.7
+866;66;Pancoran Mas Depok;2;wasim;282240;52:53.6
+867;88;Bandar Negeri;7;wasim;282240;54:14.4
+868;89;Berastagi;7;wasim;282240;59:45.4
+869;90;Sihepeng;7;wasim;282240;02:18.3
+870;62;Koto Mambang;8;wasim;282240;33:12.5
+871;67;Bandungan;2;wasim;282240;05:21.7
+872;64;Sungai Lasi;11;wasim;282240;12:30.6
+913;93;Bangun Pane;7;DATAFTI-PC;282240;24:03.9
+874;16;Karang Waru;33;wasim;282240;39:28.2
+875;71;bumiayu;3;wasim;282240;04:51.6
+1862;26;Tahuna;17;debrina;288632;18:28.5
+876;72;Weru;3;wasim;282240;45:17.4
+877;74;Masohi;19;wasim;282240;39:55.0
+878;75;Serui;19;wasim;282240;40:10.1
+879;76;Saluallo;19;wasim;282240;40:47.8
+880;77;Pattallassang;19;wasim;282240;41:37.5
+881;40;Amosilu;17;wasim;282240;42:12.9
+882;58;Arahan;2;wasim;282240;42:52.9
+883;68;Nibung;2;wasim;282240;43:51.3
+884;46;Maulafa;24;wasim;282240;44:57.7
+885;47;Kalabahi;24;wasim;282240;45:15.8
+886;45;Balai Karimun;9;wasim;282240;25:27.4
+887;69;Batahan;2;wasim;282240;54:37.6
+888;46;Tg. Balai Karimun;9;wasim;282240;49:48.8
+889;91;Pangaloan;7;wasim;282240;00:53.9
+890;40;Kambiolangi;18;wasim;282240;37:58.1
+891;41;Takalala;18;wasim;282240;38:22.1
+892;42;Munte;18;wasim;282240;38:36.3
+893;43;Panasea;18;wasim;282240;39:32.5
+894;44;Baraka;18;wasim;282240;39:53.5
+895;73;Kroya;3;wasim;282240;40:29.3
+896;34;Ulu Danau;26;wasim;282240;41:01.1
+897;51;Lebuai;12;mansyur;183309;35:58.0
+898;37;Larat;21;mansyur;183309;40:33.1
+899;70;Panggarangan;2;mansyur;183309;43:49.1
+914;74;Kapul;3;DATAFTI-PC;282240;42:19.8
+927;54;Jatimulyo;12;istn-54f2cb5db4;288632;13:03.2
+901;17;Sabulan;33;wasim;282240;45:48.1
+143;45;Toroh Grobogan;3;lili-PC;183309;17:57.6
+903;19;Koba;33;wasim;282240;46:26.4
+902;18;Serbelawan;33;wasim;282240;50:34.4
+904;71;Matangglumpangdua;2;wasim;282240;43:47.1
+905;72;Bunturaja;2;wasim;282240;44:12.3
+906;78;Pasanea;19;wasim;282240;44:41.0
+907;73;Babakan;2;mansyur;183309;12:11.4
+908;62;Sumberejo;5;wasim;282240;10:11.8
+909;92;Sirait Holbung;7;wasim;282240;11:18.5
+910;74;Panggarangan Lebak;2;wasim;282240;13:03.5
+915;94;Pardomuan Motung;7;DATAFTI-PC;282240;42:33.6
+916;63;Gunung Medan;8;sujatmo;183309;28:20.3
+917;38;Tebas;13;sujatmo;183309;35:43.1
+918;39;Ujung Said;13;sujatmo;183309;52:14.9
+1863;27;Kepl.Sangihe;17;debrina;288632;19:16.7
+920;65;Paldas;11;sujatmo;183309;58:26.0
+921;76;Cikajang;2;sujatmo;183309;01:00.2
+922;40;Murung Pudak;15;sujatmo;183309;04:18.9
+923;45;Kolonodale;18;sujatmo;183309;06:50.8
+924;41;Ondong;17;sujatmo;183309;10:11.8
+925;95;Pasarmelintang;7;DATAFTI-PC;282240;52:42.9
+939;20;Selanglet;33;sujatmo;183309;51:24.7
+926;52;Menggala;12;lili-PC;183309;54:24.6
+1864;28;Makaroyen;17;debrina;288632;28:36.3
+928;731;Kole Malimbong;19;lili-PC;183309;56:05.7
+940;4;Kelapa Kampit;35;sujatmo;183309;53:29.4
+941;67;Tangga Batu;11;lili-PC;183309;31:38.4
+930;36;Palambua;20;lili-PC;183309;07:51.7
+1865;29;Tomohon;17;debrina;288632;28:58.7
+931;79;Kole Malimbong;19;lili-PC;183309;09:27.7
+1866;1;Boalemo;86;debrina;288632;42:07.0
+806;61;Tanjung Menang Musi;11;Yunus-PC;183309;02:28.9
+933;66;Pangkalpinang;11;Yunus-PC;183309;03:55.4
+934;4;Pendopo;26;ringgo;183309;13:04.2
+935;8;Durian Rampak;6;ringgo;183309;13:49.9
+936;96;Nagori;7;ringgo;183309;14:33.8
+942;98;Tanggabatu;7;lili-PC;183309;16:04.9
+937;97;Marpaung Bagasan;7;ringgo;183309;15:35.0
+938;75;Bumi Harjo;3;DATAFTI-PC;282240;53:05.1
+943;99;Talun Kenas;7;lili-PC;183309;28:32.9
+944;55;Gunung Katun;12;lili-PC;183309;30:15.2
+945;47;Rengat;9;lili-PC;183309;30:55.4
+946;80;Sengkang;19;lili-PC;183309;30:34.9
+947;64;Barulak;8;lili-PC;183309;33:12.6
+948;77;Bangodua;2;lili-PC;183309;21:27.9
+949;40;Belitang;13;lili-PC;183309;11:09.2
+950;68;Belitang;11;lili-PC;183309;12:03.3
+951;48;Mbaumuku Ruteng;24;lili-PC;183309;23:51.8
+952;36;Wates;4;lili-PC;183309;24:54.3
+953;100;Sipitu Pitu;7;lili-PC;183309;27:23.9
+954;41;Tanjungsari;15;lili-PC;183309;42:50.4
+955;100;Madula;7;ISTN-PC;183309;14:06.8
+977;78;Astanajapura;2;lili-PC;183309;34:02.6
+956;101;Madula;7;ISTN-PC;183309;22:48.7
+978;71;Pagar Alam;11;istn;183309;36:28.0
+857;37;Parigi;18;ISTN-PC;183309;37:27.8
+957;22;Tolongano;18;ISTN-PC;183309;38:15.4
+357;36;Maluku Tenggara;21;debrina;288632;53:45.3
+958;69;Ulak Embacang;11;ISTN-PC;183309;40:27.3
+103;33;Bogor;2;debrina;291820;13:55.2
+960;56;Sendangrejo;12;ISTN-PC;183309;42:15.1
+961;57;Bumi Sari;12;ISTN-PC;183309;42:32.7
+962;59;Yukumjaya;12;ISTN-PC;183309;42:58.2
+963;10;Ngrame Ngawii;5;ISTN-PC;183309;44:27.3
+1867;94;Marotai;21;debrina;288632;54:59.1
+965;82;Madopolo;19;ISTN-PC;183309;46:00.5
+966;83;Wukir;19;ISTN-PC;183309;46:19.0
+967;84;Nata;19;ISTN-PC;183309;46:35.0
+968;85;Dobo;19;ISTN-PC;183309;47:03.0
+969;86;Tapalinna;19;ISTN-PC;183309;47:22.7
+970;87;Wotu;19;ISTN-PC;183309;47:40.3
+971;88;Wegok;19;ISTN-PC;183309;47:56.0
+972;89;Pincara;19;ISTN-PC;183309;48:13.6
+973;90;Lawo;19;ISTN-PC;183309;48:30.8
+981;100;Ujung Bandar;7;debrina;291820;19:36.4
+975;92;Buttu;19;ISTN-PC;183309;49:11.0
+976;63;Kotabatu;5;lili-PC;183309;29:49.7
+959;70;Kota Agung  Aji;11;sujatmo;183309;38:53.8
+974;91;Sungguminasa;19;sujatmo;183309;39:50.5
+964;81;Lewobelen;19;sujatmo;183309;40:58.5
+982;100;Ujung Bandar;7;debrina;291820;20:31.8
+983;43;Sampit;14;lili-PC;183309;46:46.5
+984;40;Sapta Mulya;10;lili-PC;183309;38:47.3
+985;48;Surau Gading;9;lili-PC;183309;41:04.8
+986;7;Pulau Seribu;1;istn;288646;11:01.9
+987;106;Tiga Dolok;7;lili-PC;183309;16:01.3
+988;64;Temanggung;5;lili-PC;183309;16:47.9
+989;79;Ciawigebang;2;istn;288646;22:47.5
+990;44;Muara Teweh;14;istn;288646;28:24.4
+991;100;Sidamanik;7;istn;288646;33:26.6
+992;60;Bandar Sakti;12;istn;288646;38:26.7
+993;1;Singapura;0;istn;288646;02:02.0
+994;100;Tiga Panah;7;istn;288646;27:22.8
+1159;51;Sei Meranti;9;ISTNDURENTIGA4;284396;05:27.1
+996;101;Tiga Panah;7;istn;288646;31:31.6
+997;35;Tais;26;istn;288646;41:33.8
+998;79;Lakbok;2;istn;288646;48:23.1
+93;2;Bogor;2;debrina;291820;54:47.9
+1869;11;Batu Macenno;19;debrina;288632;35:32.2
+99;24;Depok;2;debrina;291820;10:57.2
+1000;42;Tomohon;17;istn;288646;32:04.9
+1001;43;Dumoga;17;istn;288646;35:23.1
+1002;65;Campang Tiga;5;istn;288646;57:26.6
+1003;39;Curup;23;istn;288646;07:44.1
+1004;40;Banjaran;23;istn;288646;08:11.8
+1005;41;Padangsidimpuan;23;istn;288646;08:50.0
+1006;42;Cimanggis;15;istn;288646;07:04.4
+1007;61;Bangunrejo;12;ISTN-PC;183309;51:02.7
+1008;62;Batuliman Indah;12;ISTN-PC;183309;51:49.2
+1009;63;Muara Putih;12;ISTN-PC;183309;52:15.4
+1010;93;Elat;19;ISTN-PC;183309;52:54.2
+1011;94;Manatahan;19;ISTN-PC;183309;53:14.1
+1012;95;Malili;19;ISTN-PC;183309;53:29.0
+1013;96;Tallang;19;ISTN-PC;183309;53:42.1
+1014;97;Sadan;19;ISTN-PC;183309;53:55.1
+1015;98;Desa Baru;19;ISTN-PC;183309;54:09.2
+1016;98;Batusitanduk;19;ISTN-PC;183309;54:58.4
+1017;76;Karangsari;3;ISTN-PC;183309;55:52.3
+1018;1;Kapias Batu;48;ISTN-PC;183309;02:22.3
+1019;1;Sipangan Bolon;47;ISTN-PC;183309;03:21.3
+1020;1;Payi Wera;44;ISTN-PC;183309;03:41.5
+1021;23;Sungailiat;33;istn;288646;40:47.8
+277;1;Pontianak;13;debrina;291820;29:24.9
+1877;2;JEDDAH;53;debrina;288632;01:39.1
+1022;49;Bintan;9;yuli;288632;15:26.6
+1023;2;Pulomerak;34;lili-PC;183309;29:19.9
+1024;64;Lampung Barat;12;yuli;288632;34:24.7
+1025;100;Pokan Baru;7;istn;288646;15:38.0
+1026;24;Bintan;33;yuli;288632;20:41.2
+1870;88;Mopugad Selatan;17;debrina;288632;03:11.1
+1028;65;Kerinci;8;yuli;288632;02:31.1
+1029;72;Indragiri Hilir;11;yuli;288632;45:34.1
+1265;122;Malinnong;19;BAAK-PC;288646;52:49.7
+1871;54;Tongananga;24;debrina;288632;12:58.7
+1622;89;Langgur;21;istn-54f2cb5db4;288632;48:56.9
+1627;121;Pagar Gunung;7;istn-54f2cb5db4;288632;47:20.7
+1032;102;Porsea;7;BAAK-ISTN-PC;183309;21:35.5
+1033;50;Sungai Apit;9;BAAK-ISTN-PC;183309;23:32.1
+1034;37;Bombana;20;yuli;288632;32:55.8
+1035;22;Lampung Timur;12;yuli;288632;32:35.3
+695;67;Gunung Kelambu;7;istn;288646;20:07.2
+1036;100;Boddie;19;istn;288646;22:35.3
+1266;31;Lasalimu;20;BAAK-PC;288646;53:42.9
+1038;100;Toba Samosir;7;yuli;288632;55:08.9
+1039;77;Kreyo;3;istn;288646;32:05.5
+1040;49;Sarotari;24;istn;288646;34:19.4
+1041;103;Dolok Saribu;7;istn;288646;21:52.6
+1042;65;Hadimulyo;12;istn;288646;34:19.1
+1043;80;Banten;2;yuli;288632;51:46.1
+1044;3;Banten;34;yuli;288632;57:50.7
+1471;84;Batujungku;21;istn-54f2cb5db4;288632;29:37.0
+1046;42;Tukad Sumaga;22;istn;288646;47:24.8
+1047;78;Slawi;3;istn;288646;57:53.0
+1048;23;Painan;8;istn;288646;58:38.3
+1049;41;Lubuk Linggau;10;istn;288646;59:23.3
+1050;44;Mardosniuhur;17;istn;288646;09:43.7
+1051;73;Gumawang;11;istn;288646;13:06.3
+1052;66;Sekincau;12;istn;288646;15:34.3
+1053;99;Soroako;19;istn;288646;18:15.9
+1054;8;Bremen;1;istn;288646;20:50.0
+1872;55;Nagekeo;24;debrina;288632;13:43.7
+1056;67;Titipasan;12;istn;288646;28:27.2
+1057;41;Menpawah;13;istn;288646;04:01.9
+1058;5;Koba;35;istn;288646;05:56.4
+1059;5;Talang Rasau;26;istn;288646;09:15.2
+1060;11;Engganau;20;istn;288646;10:43.1
+1061;66;Andalas;8;istn;288646;12:03.9
+1062;43;Singkut;15;istn;288646;14:18.0
+1063;11;Ternate;21;istn;288646;16:15.6
+1064;4;Pamarayan;34;istn;288646;17:14.2
+1065;7;Pulau Bunyu;16;istn;288646;22:02.6
+1066;67;Saning Bakar;8;istn;288646;23:44.0
+1067;66;Babatan;5;istn;288646;27:21.6
+1875;87;BAU BAU;20;debrina;288632;40:11.6
+1069;74;Pelawe;11;istn;288646;30:52.6
+1070;22;Sihusapi;17;istn;288646;32:37.2
+1071;23;Laubaleng;17;istn;288646;33:49.5
+1072;24;Pemantang;17;istn;288646;35:16.4
+1073;75;Taba Baru I;11;istn;288646;36:46.2
+1074;100;Lakea II;19;istn;288646;38:00.9
+1075;68;Kurinci;12;istn;288646;51:48.6
+1076;46;Buol;18;istn;288646;55:44.5
+1632;94;Kopang;23;istn-54f2cb5db4;288632;04:20.5
+1078;79;Grobogan;3;istn;288646;00:02.2
+1636;132;Maccini Ayo;19;istn-54f2cb5db4;288632;03:49.4
+1080;43;Abepura;25;istn;288646;01:58.3
+1081;68;Dolok Sanggul;8;istn;288646;02:54.5
+1475;55;Oekusi;33;istn-54f2cb5db4;288632;04:46.1
+1083;50;Ngusu;24;istn;288646;04:03.8
+1084;69;Lombok;12;istn;288646;04:34.5
+1085;72;Uepai;19;istn;288646;05:30.6
+1086;100;Sagawele;19;istn;288646;06:03.5
+1087;47;Kali;18;istn;288646;06:58.4
+1088;15;Loleo;21;istn;288646;07:33.7
+1089;70;Bunut;12;istn;288646;07:58.3
+1090;48;Soni;18;istn;288646;08:41.2
+1091;100;Redak;19;istn;288646;09:02.7
+1092;100;Sipispis;7;istn;288646;09:32.2
+1093;44;Banjarmanis;15;man;288646;49:49.2
+1094;100;Parparean;7;istn;288646;13:45.5
+1095;100;Silencang;7;istn;288646;33:43.6
+1096;3;Paringin;15;istn;288646;55:56.3
+1097;4;Lombok;23;istn;288646;01:53.4
+1098;7;Kampung Muara Aman;26;istn;288646;52:06.0
+1876;91;Muratara;11;debrina;288632;37:09.4
+1100;71;Lampung Timur;12;yuli;288632;09:02.4
+1101;45;Kampung Dalam;15;ISTNDURENTIGA4;284396;20:53.2
+1102;76;Ambai Bawah;11;ISTNDURENTIGA4;284396;27:40.5
+1104;42;Koto Tangah;13;syaerozi-ba2768;284396;32:00.9
+1105;69;Lubuk Besar;8;ISTNDURENTIGA4;284396;40:27.6
+1106;1;Huddersfield;52;syaerozi-ba2768;284396;12:19.4
+1107;77;Aurkoto;11;KampusDuren3-13;284396;16:08.6
+1623;119;Berastagi;7;istn-54f2cb5db4;288632;47:41.5
+1109;6;BANGKA;35;yuli;288632;51:09.3
+1110;20;Pajar Bulan;11;User-PC;288646;00:47.5
+1111;72;Way Kanan;12;yuli;288632;03:08.6
+1112;3;Baturinggit;22;user-PC;288646;36:13.3
+1113;78;Kayuagung;11;user-PC;288646;39:18.0
+1114;73;Bengko;12;user-PC;288646;47:07.9
+1115;7;Melabun;35;user-PC;288646;49:11.2
+1116;100;Pargarutan;7;user-PC;288646;54:34.9
+1117;79;Ujung Batu Kampar;11;user-PC;288646;57:20.9
+362;31;Badung;22;yuli;288632;38:18.9
+1118;71;Belawan;11;User-PC;288646;51:51.1
+1119;121;Tapanuli;7;User-PC;288646;44:25.9
+1120;103;Lampa;19;User-PC;288646;38:59.7
+1121;17;Buleleng Bali;22;User-PC;288646;39:29.1
+1122;67;Kotagajan;12;User-PC;288646;39:54.7
+1123;122;Buah Bolon;7;User-PC;288646;38:56.9
+1124;72;Teluk Pinang;11;User-PC;288646;40:51.3
+1125;2;Koto Kabun;47;User-PC;288646;44:52.6
+1126;100;Pasar Simangambat;7;masterA;288646;39:47.7
+1127;25;Ramunia;33;BAAK-PC;288646;21:11.0
+1128;81;Lemahabang;2;BAAK-PC;288646;38:00.3
+1129;70;Limbanang;8;BAAK-PC;288646;34:41.3
+1130;82;Luragung;2;masterA;288646;20:21.2
+1131;100;Deniang;7;BAAK-PC;288646;52:43.7
+1132;43;Demulih;22;BAAK-PC;288646;52:17.6
+1133;49;Tentena;18;BAAK-PC;288646;53:25.3
+1134;100;Anggotoa;19;BAAK-PC;288646;54:17.7
+1135;101;Cikarro;19;BAAK-PC;288646;54:44.7
+1136;102;Bungi;19;BAAK-PC;288646;55:03.4
+1137;103;Nggele;19;BAAK-PC;288646;55:26.5
+1138;104;Cendana Putih-Palopo;19;BAAK-PC;288646;55:55.4
+1139;105;Redak;19;BAAK-PC;288646;56:38.9
+1140;106;Bottoe;19;BAAK-PC;288646;57:09.5
+1141;107;Bala'ba;19;BAAK-PC;288646;57:29.0
+1142;83;Waled Cirebon;2;BAAK-PC;288646;58:41.3
+1144;74;Margototo;12;BAAK-PC;288646;00:07.2
+1145;71;Ujung Gading;8;BAAK-PC;288646;00:48.8
+1146;50;Seasa;18;BAAK-PC;288646;01:21.6
+1147;51;Sausu Trans;18;BAAK-PC;288646;01:47.5
+1148;52;Malakosa;18;BAAK-PC;288646;02:07.3
+1149;53;Sibaluton;18;BAAK-PC;288646;02:30.3
+1879;47;Menukung;13;debrina;288632;47:47.0
+1151;38;Tidore;21;BAAK-PC;288646;04:47.2
+1152;75;Kedaton;12;BAAK-PC;288646;29:19.5
+1153;76;Muara Pinang;12;BAAK-PC;288646;29:37.7
+1154;72;Kubang ;8;ISTNDURENTIGA13;284396;24:29.1
+1878;46;Melawi;13;debrina;288632;48:11.8
+1156;77;kelirejo;12;ISTNDURENTIGA13;284396;51:08.4
+1157;73;Mair Haji ;8;ISTNDURENTIGA13;284396;15:02.3
+1158;74;Lubuk Nyiur ;8;ISTNDURENTIGA13;284396;24:01.3
+1161;52;Rokan Hulu;9;yuli;288632;19:21.0
+1880;74;NGEDULUSI;33;debrina;288632;15:08.9
+1165;45;Minahasa Tenggara;17;yuli;288632;19:46.9
+1166;72;Telap;12;admfmipa-PC;288646;35:33.7
+1168;74;Sekayu;11;BAAK-PC;288646;21:59.8
+1169;73;Krui;12;BAAK-PC;288646;22:30.9
+1170;23;Gamtala;21;BAAK-PC;288646;23:06.3
+1171;125;Guguk;7;BAAK-PC;288646;23:48.1
+1172;26;NAGEKEO;33;yuli;288632;34:08.3
+1881;75;TIMOR TENGAH UTARA;33;debrina;288632;21:25.1
+1174;19;Makarti Jaya;22;BAAK-PC;288646;03:39.1
+1175;20;Kembang Mertha;22;BAAK-PC;288646;03:59.2
+1176;23;Atambua;24;BAAK-PC;288646;04:38.1
+1177;24;Lamablawa;24;BAAK-PC;288646;04:57.6
+1178;25;Rate-Rate;24;BAAK-PC;288646;05:30.9
+1179;112;Belajen;19;BAAK-PC;288646;06:09.4
+1180;113;Petiro;19;BAAK-PC;288646;06:33.2
+1181;114;Bulu Siwa;19;BAAK-PC;288646;06:53.3
+1182;31;Ampana;18;BAAK-PC;288646;07:33.2
+1183;32;Salukaia;18;BAAK-PC;288646;08:09.5
+1184;17;Windesi;25;BAAK-PC;288646;08:54.0
+1882;13;Balai Kencana;12;debrina;288632;30:59.2
+1883;14;Pesisir Barat;12;debrina;288632;40:48.6
+1188;74;Labuhan Maringgai;12;BAAK-PC;288646;11:26.7
+1189;67;Padang Mahondang;8;BAAK-PC;288646;12:24.0
+1190;126;Aek Ngadol;7;BAAK-PC;288646;13:16.1
+1191;127;Namlea;7;BAAK-PC;288646;13:49.6
+1192;21;Nganganaumala;20;BAAK-PC;288646;14:54.7
+1193;128;Matio;7;BAAK-PC;288646;08:21.4
+1194;68;Panjalangan;8;BAAK-PC;288646;33:03.2
+1195;75;Batangharjo;12;BAAK-PC;288646;33:56.5
+1196;27;FLORES;33;yuli;288632;15:50.9
+1197;129;Buahbolon;7;AKADEMIKMIPA-PC;288646;37:39.3
+1198;8;PANGKAL PINANG;35;yuli;288632;11:41.9
+1267;3;Malaysia;0;BAAK-PC;288646;55:55.7
+1199;107;Mandailing Natal;7;yuli;288632;49:45.0
+1200;44;Tulang Bawang;22;yuli;288632;54:41.6
+1268;86;LDG. 4/ Puteh;28;BAAK-PC;288646;57:40.3
+1269;25;Sungai Pinyuh;13;BAAK-PC;288646;09:36.1
+1202;108;BATU ;7;yuli;288632;49:57.8
+1037;109;Toba Samosir;7;yuli;288632;50:39.7
+1270;79;Sindangbarang;2;BAAK-PC;288646;12:19.1
+1203;75;Pagar Alam;8;yuli;288632;24:55.9
+1204;28;Lembata;33;yuli;288632;15:08.7
+1205;29;Ndewel;33;BAAK-PC;288646;06:49.1
+1206;70;Koto Majidin;8;BAAK-PC;288646;25:55.6
+1207;13;Lareh Nan Panjang;33;ISTN-STTT;284396;46:43.6
+1208;39;Jayawijaya;21;yuli;288632;02:27.0
+1209;32;Kukuh;22;BAAK-PC;288646;28:45.3
+1239;2;Pongo;38;debrina;288632;58:53.2
+1271;80;Cipanas-Lebak;2;BAAK-PC;288646;13:17.1
+96;21;Tangerang;2;DUDY;admin;35:46.5
+1211;76;Gunung Sugih;12;BAAK-PC;288646;41:27.5
+1212;77;Tebing;12;BAAK-PC;288646;51:42.9
+1213;100;Simpang Tolang Lama;7;BAAK-PC;288646;24:49.8
+1214;40;Waiteba;21;BAAK-PC;288646;31:04.0
+1215;41;Hamlea;21;BAAK-PC;288646;34:02.1
+1216;33;Umbele;18;BAAK-PC;288646;20:00.8
+1472;81;Lirang;21;user-PC;2151322;37:39.0
+1218;76;Cibinong;2;BAAK-PC;288646;51:39.1
+1272;13;Cupat;26;BAAK-PC;288646;10:53.7
+1219;110;Sungai Guntung;7;DUDY;admin;22:55.8
+1201;100;Batu Bara;7;DUDY;admin;23:14.9
+1220;115;Batu-Batu;19;BAAK-PC;288646;35:32.8
+1221;26;Pamakayo;24;BAAK-PC;288646;36:44.6
+1222;27;Mbay Dam;24;BAAK-PC;288646;37:14.3
+1884;43;Talang Donok;26;debrina;288632;03:43.9
+1224;116;Tapparan;19;BAAK-PC;288646;39:15.2
+1885;44;Lebong;26;debrina;288632;04:22.0
+1226;27;Waekasar;21;BAAK-PC;288646;41:19.0
+1227;12;Pasar Baru;26;BAAK-PC;288646;42:26.1
+1228;41;Imandi;17;BAAK-PC;288646;43:09.5
+1229;117;Massamba;19;BAAK-PC;288646;43:55.5
+1230;22;Kasipute;20;BAAK-PC;288646;44:36.0
+1231;23;Toaha;20;BAAK-PC;288646;45:01.3
+1232;24;Langge;20;BAAK-PC;288646;45:26.2
+1233;25;Unaaha;20;BAAK-PC;288646;45:49.8
+1234;26;Pohu;20;BAAK-PC;288646;46:11.4
+1235;27;Bira;20;BAAK-PC;288646;46:25.6
+1236;28;Wawotobi;20;BAAK-PC;288646;46:59.5
+1237;30;Raha;20;BAAK-PC;288646;47:14.7
+1238;31;Bau-Bau;20;BAAK-PC;288646;47:34.9
+1886;47;Tembagapura;25;debrina;288632;11:24.7
+1887;48;Mimika;25;debrina;288632;12:05.7
+1241;34;Sambiut;18;BAAK-PC;288646;50:00.9
+1242;75;Cipta Praja;11;BAAK-PC;288646;51:20.0
+1243;78;Sukasari;12;BAAK-PC;288646;52:05.8
+1244;28;Banda Neira;21;BAAK-PC;288646;52:59.6
+1245;118;Bayondo;19;BAAK-PC;288646;53:44.0
+1246;135;Simaninggir;7;BAAK-PC;288646;54:43.1
+1247;76;Rawabening;11;BAAK-PC;288646;55:18.7
+1248;71;Sumarorong;8;BAAK-PC;288646;56:00.5
+1888;92;Cambai;11;debrina;288632;01:42.5
+1250;119;Leworeng;19;BAAK-PC;288646;57:37.6
+1251;79;Sendang Mulyo;12;BAAK-PC;288646;58:24.2
+1252;29;Labuha;21;BAAK-PC;288646;58:57.3
+1253;77;Sidawangi;2;BAAK-PC;288646;59:31.8
+1254;17;Alas;23;BAAK-PC;288646;00:17.7
+1255;30;Labuha;21;BAAK-PC;288646;00:59.6
+1256;31;Pai-Padaido;21;BAAK-PC;288646;01:44.0
+1257;77;Purwosari;11;BAAK-PC;288646;02:33.1
+1258;120;Sudu;19;BAAK-PC;288646;03:18.1
+1259;78;Cilongrang;2;BAAK-PC;288646;59:21.3
+1260;136;Sitatuan;7;Rohmi-PC;288646;24:37.9
+1294;1;Tokyo;58;yuli;288632;26:38.2
+1295;10;Bagan Siapiapi;9;BAAKISTN-PC;2151322;05:39.3
+1296;2;Paguyaman;17;BAAKISTN-PC;2151322;35:13.8
+1297;1;Sulit Air;8;BAAKISTN-PC;2151322;35:56.3
+1298;73;Bottotella;19;BAAKISTN-PC;2151322;15:36.1
+1299;13;Tanjung Pati;8;BAAKISTN-PC;2151322;30:32.8
+1300;13;Lintau;8;BAAKISTN-PC;2151322;47:38.7
+1301;12;Toraja Utara;7;BAAKISTN-PC;2151322;46:56.4
+1302;12;Siba'ta;7;BAAKISTN-PC;2151322;54:48.2
+1303;73;Suli;19;BAAKISTN-PC;2151322;19:10.4
+1304;52;Sengkol;23;BAAKISTN-PC;2151322;39:08.8
+1889;45;Air Periukan;26;debrina;288632;30:03.7
+1273;137;Pulo Siborna;7;BAAK-PC;288646;34:47.8
+1274;81;Cibinong Bogor;2;BAAK-PC;288646;35:48.1
+1275;17;Kuala Kapuas;14;BAAK-PC;288646;43:09.9
+1276;65;Klepu, Kab. Semarang;3;BAAK-PC;288646;46:34.2
+1277;76;Dharmasraya;8;yuli;288632;30:50.1
+1890;46;Tertik;26;debrina;288632;45:48.4
+1278;1;MEKKAH;53;yuli;288632;51:31.7
+1279;84;Banjar;2;yuli;288632;01:13.8
+1306;71;Liwutung;17;BAAKISTN-PC;2151322;51:12.7
+1281;35;Timor Tengah Selatan;33;yuli;288632;54:46.7
+1280;34;Timor Timur;33;yuli;288632;55:02.2
+1282;45;Lamandau;14;yuli;288632;30:02.1
+1283;36;Sungai Penuh;10;yuli;288632;09:30.9
+1284;80;Kota Metro;12;yuli;288632;26:47.5
+1285;45;Sebual;22;BAAKISTN-PC;2151322;14:35.3
+1286;51;Tengkudak;33;BAAKISTN-PC;2151322;13:24.3
+1287;32;Jawa Barat;2;BAAKISTN-PC;2151322;39:59.1
+1330;16;Kota Tengah;9;istn-54f2cb5db4;288632;26:50.2
+1289;53;Kuantan Singingi;9;yuli;288632;20:57.1
+1290;54;Banggai Kepulauan;18;yuli;288632;30:02.6
+1845;40;Kepahiang;26;debrina;288632;46:26.4
+1891;92;Selat Panjang;9;debrina;288632;16:11.5
+1293;2;Kawangkoan;0;yuli;288632;38:31.1
+1307;73;Tambunan;19;BAAKISTN-PC;2151322;47:18.4
+1308;12;Huraba;7;BAAKISTN-PC;2151322;07:25.8
+1309;74;Sendang Mulya Sari;20;BAAKISTN-PC;2151322;07:18.8
+1310;74;Sendang Muliasari;20;BAAKISTN-PC;2151322;14:45.3
+1311;74;Pomalaa;20;BAAKISTN-PC;2151322;28:55.0
+1312;102;Bekek;33;BAAKISTN-PC;2151322;39:59.1
+1354;32;Depok - Bogor;2;BAAKISTN-PC;2151322;53:40.7
+1314;42;Laiwui;21;BAAK-PC;2151322;35:58.6
+1334;74;Watorumbe;20;BAAKISTN-PC;2151322;04:16.1
+1316;36;Arga Makmur;26;BAAK-PC;2151322;41:14.1
+1317;100;Kisaran;7;BAAK-PC;2151322;42:57.4
+1318;100;Tano Saribu;7;BAAK-PC;2151322;47:39.1
+1319;81;Sidowaluyo;12;BAAK-PC;2151322;52:11.0
+1320;46;Untal-Untal;22;BAAK-PC;2151322;56:00.3
+1321;101;Lumban Tonga Tonga;7;ISTNAKADEMIK-PC;105;32:36.9
+1322;54;Tanjung Belit;9;BAAK-PC;2151322;00:34.6
+1323;36;Jud II (Muba];11;BAAKISTN-PC;2151322;16:53.7
+1324;16;Jud II (Muba);11;BAAKISTN-PC;2151322;20:59.9
+1325;77;Tungkar;8;BAAK-PC;2151322;30:20.8
+1326;73;Tampapute;19;BAAKISTN-PC;2151322;13:09.2
+1327;102;Marding Ding;7;BAAK-PC;2151322;39:39.1
+1328;102;Mardingding;7;BAAK-PC;2151322;40:48.2
+1329;103;Salusuhan;7;BAAK-PC;2151322;45:22.9
+1892;93;Kepulauan Meranti;9;debrina;288632;16:46.1
+1331;12;Sihusapi Sumut;7;BAAKISTN-PC;2151322;33:47.4
+1332;12;Lumban Holbung;7;BAAKISTN-PC;2151322;47:08.2
+1333;73;Lumbaja;19;BAAKISTN-PC;2151322;13:34.1
+1335;32;Rengasdengklok;2;BAAKISTN-PC;2151322;17:56.2
+1336;102;Wodon;33;BAAKISTN-PC;2151322;35:15.3
+1337;75;Tambuha;20;BAAK-PC;2151322;20:59.7
+1313;100;Siborongborong;7;ISTNAKADEMIK-PC;105;38:01.0
+1339;82;Jayaguna II;12;BAAK-PC;2151322;24:19.5
+1340;76;Sikeli;20;BAAK-PC;2151322;32:05.2
+1893;53;Kenawat Redelong;6;debrina;288632;02:33.5
+1342;83;Putih Doh;12;BAAK-PC;2151322;49:18.2
+1343;81;Sanahuni;21;BAAKISTN-PC;2151322;53:16.6
+1344;32;Bojonggede Bogor;2;BAAKISTN-PC;2151322;08:22.7
+1346;12;Panyambungan;7;BAAKISTN-PC;2151322;13:05.3
+1347;12;Panyabungan;7;user-PC;2151322;50:01.9
+1348;85;Cimanggis Bogor;2;user-PC;2151322;53:09.4
+1349;84;Tanggamus;12;yuli;288632;10:44.0
+1350;53;Atambua;33;user-PC;2151322;09:26.6
+1351;100;Sugitanga;19;BAAKISTN-PC;2151322;37:49.9
+1382;1;Perth;72;istn-54f2cb5db4;288632;08:45.9
+1359;85;Srengsem;12;yuli;288632;39:47.0
+1360;86;Bumiharjo;12;yuli;288632;40:06.1
+1361;87;Gaya Baru;12;yuli;288632;11:16.5
+1362;55;Rokan Hilir;9;yuli;288632;50:15.4
+1363;56;Bagansiapiapi;9;yuli;288632;50:46.1
+1364;1;Tawali;44;yuli;288632;27:49.5
+1365;80;Talang Batu;11;yuli;288632;54:16.0
+1366;77;Wale Ale;20;yuli;288632;24:29.3
+1355;32;Depok bogor;2;ISTNAKADEMIK-PC;105;10:26.7
+1624;120;Sidikalang;7;istn-54f2cb5db4;288632;12:52.0
+1357;86;Cileungsi;2;user-PC;2151322;50:31.6
+1358;33;Muntilan;3;BAAKISTN-PC;2151322;23:17.4
+267;34;Sukajadi/Lahat;11;yuli;288632;05:43.6
+1894;55;Bener Meriah;6;debrina;288632;03:05.7
+1629;52;Panigoran;22;istn-54f2cb5db4;288632;14:55.7
+1383;79;kolok;8;istn-54f2cb5db4;288632;09:55.9
+1370;43;Kepulaun Sula;21;yuli;288632;47:44.5
+1793;15;Keretak;35;debrina;288632;11:22.6
+1895;16;Bangka Tengah;35;debrina;288632;11:43.0
+1913;160;Lahat;7;debrina;288632;56:20.0
+1374;54;Manggarai Barat;33;yuli;288632;57:39.0
+1375;72;Bolang Mongondow;17;yuli;288632;06:59.1
+1376;100;Boepinang;19;yuli;288632;12:03.2
+1377;55;Banggai;18;yuli;288632;00:03.0
+1378;57;Karimun Kepulauan Riau;9;yuli;288632;28:25.9
+1379;82;Buru;21;yuli;288632;54:36.0
+1897;25;Kotatua;7;debrina;288632;32:59.0
+1381;100;Bantaeng;19;yuli;288632;56:34.5
+1473;72;Mamuju;18;user-PC;2151322;51:38.5
+1384;58;Selatpanjang;9;user-PC;2151322;41:22.6
+1385;100;Sibadoar;7;user-PC;2151322;30:53.0
+1386;87;Sukmajaya Depok;2;user-PC;2151322;59:19.9
+1387;80;Tanjung Alai;8;istn-54f2cb5db4;288632;24:16.9
+1388;5;Lombok Utara;23;istn-54f2cb5db4;288632;12:17.5
+1389;81;Nias Barat;8;istn-54f2cb5db4;288632;57:52.9
+1390;73;Talaud;17;istn-54f2cb5db4;288632;54:53.1
+1391;12;Kutaraja;7;BAAKISTN-PC;2151322;21:30.4
+1392;12;Hutaraja;7;BAAKISTN-PC;2151322;24:45.5
+1898;11;Padangsidimpuan;7;debrina;288632;47:11.6
+1476;11;Hutagurgur;7;istn-54f2cb5db4;288632;47:37.0
+285;1;Palangkaraya;14;user-PC;2151322;23:32.7
+1396;88;Pangandaran;2;istn-54f2cb5db4;288632;45:27.9
+1397;47;Mengwitani;22;user-PC;2151322;24:44.5
+1398;46;Pulau Mambulau;14;user-PC;2151322;39:10.1
+1399;59;Duara;9;user-PC;2151322;44:16.8
+1400;60;Salo Timur;9;user-PC;2151322;51:37.0
+1513;23;Mowewe;20;ISTNAKADEMIK-PC;105;08:08.7
+1401;9;Pulau Tengah;1;user-PC;2151322;53:21.7
+1633;83;Bontote'ne;11;istn-54f2cb5db4;288632;59:30.3
+1403;78;Liya Mawi;20;user-PC;2151322;07:09.0
+1404;88;Sabah Balau;12;user-PC;2151322;09:50.6
+1405;56;Balantak;18;user-PC;2151322;22:38.8
+1406;89;Negara Aji Tua;12;user-PC;2151322;26:24.1
+1407;57;Gintu;18;user-PC;2151322;17:12.6
+1408;58;Masigi;18;user-PC;2151322;33:56.6
+1409;74;Runggu;17;user-PC;2151322;41:34.3
+1410;67;Mulyorejo;5;user-PC;2151322;02:30.0
+1900;12;SIMANDUMA;7;debrina;288632;48:29.5
+1515;45;Lubuk Kelumpang;11;ISTNAKADEMIK-PC;105;03:44.9
+1411;79;Lapasi-pasi;20;user-PC;2151322;20:43.6
+1412;59;Morowali;18;user-PC;2151322;23:52.4
+1413;80;Mataoleo;20;user-PC;2151322;32:05.6
+1414;46;Malela;15;user-PC;2151322;37:48.3
+1415;1;Sabah Cocoa Lahad Datu;57;user-PC;2151322;50:38.7
+1416;90;Padang Manis;12;user-PC;2151322;53:24.5
+1417;100;Anabanua;19;user-PC;2151322;59:42.4
+1901;15;Tanggulangin;12;debrina;288632;36:18.7
+1902;44;Hoi;27;debrina;288632;43:34.7
+1903;20;Timor Tengah Selatan;27;debrina;288632;44:19.5
+1904;89;Duloduo;17;debrina;288632;59:25.4
+1422;47;Rantau Bahai;14;istn-54f2cb5db4;288632;39:06.7
+1423;60;Maliwuko;18;user-PC;2151322;24:05.8
+1424;53;Jago;23;user-PC;2151322;27:53.0
+1425;89;Cakra Negara;23;BAAKISTN-PC;2151322;32:57.5
+1426;16;Batu Gajah;11;BAAKISTN-PC;2151322;01:52.6
+1427;63;Amuntai;15;BAAKISTN-PC;2151322;21:32.6
+1428;63;Kalimantan Selatan;15;BAAKISTN-PC;2151322;25:55.3
+1429;100;Sianipar;7;istn-54f2cb5db4;288632;09:52.2
+1430;32;Kramatmulya;2;BAAKISTN-PC;2151322;25:13.1
+1431;52;Ntonggu;23;BAAKISTN-PC;2151322;51:34.6
+1432;52;Geguntur;23;BAAKISTN-PC;2151322;58:31.0
+1433;72;Seriti;18;BAAKISTN-PC;2151322;46:07.1
+141;43;Karanganyar;3;user-PC;2151322;55:41.3
+1434;102;Lombok;33;BAAKISTN-PC;2151322;41:28.3
+1435;102;Sukamulia;33;BAAKISTN-PC;2151322;42:41.5
+1436;91;Talang Baru;12;user-PC;2151322;06:08.5
+295;40;Pembuang Hulu;14;BAAKISTN-PC;2151322;49:27.9
+1438;51;Sukawati;22;BAAKISTN-PC;2151322;46:53.7
+1439;42;Ambai Atas;10;user-PC;2151322;15:22.3
+1440;61;PELALAWAN;9;istn-54f2cb5db4;288632;03:56.6
+1045;11;Aek Korsik;7;istn-54f2cb5db4;288632;22:59.1
+1082;12;Pareparean;7;istn-54f2cb5db4;288632;23:14.4
+1441;150;Lawe Perbunga;7;istn-54f2cb5db4;288632;24:39.6
+1442;36;Ngada;33;istn-54f2cb5db4;288632;05:47.9
+1443;37;Mataloko;33;istn-54f2cb5db4;288632;06:57.2
+1444;43;Tangkura;18;istn-54f2cb5db4;288632;49:57.0
+1445;72;Masani;18;BAAK-PC;105;21:44.3
+1446;73;Pollo Salu;19;BAAK-PC;105;36:26.7
+1447;16;Muara Abab;11;BAAK-PC;105;40:22.2
+1448;52;Maria Wawo Bima ;23;BAAK-PC;105;05:52.5
+1474;73;Sa'dan Ulusalu;19;user-PC;2151322;43:40.8
+1449;12;Bangun Sari;7;BAAK-PC;105;17:42.4
+1450;81;Pelauw ;21;BAAK-PC;105;37:44.4
+1451;102;Peot;33;BAAK-PC;105;46:07.1
+1452;74;Tombula;20;BAAK-PC;105;54:01.2
+1453;73;Taneteriaja;19;BAAK-PC;105;58:40.6
+1454;73;Toraja;19;BAAK-PC;105;02:28.7
+1455;71;Mopuya;17;BAAK-PC;105;14:55.4
+1779;31;Jeranglah Rendah;26;BAAKISTN-PC;2151322;01:59.8
+1456;72;Bakke;19;BAAK-PC;105;19:56.3
+1457;12;Bangun Sari;7;BAAK-PC;105;26:46.1
+1780;13;Kambang;8;BAAKISTN-PC;2151322;35:02.0
+1459;18;Kota Gajah;12;BAAK-PC;105;15:01.7
+1460;14;Ujung Batu Kampar  ;9;BAAK-PC;105;43:38.7
+1461;52;Dori Dungga ;23;ISTNAKADEMIK-PC;105;51:40.9
+1462;16;Uludanau;11;ISTNAKADEMIK-PC;105;23:57.0
+471;49;Kaban Jahe;7;ISTNAKADEMIK-PC;105;39:09.8
+1463;16;Lubuk Linggau ;11;ISTNAKADEMIK-PC;105;11:37.7
+1464;33;Gerung;33;BAAKISTN-PC;2151322;49:18.8
+1465;43;Rantau Alai;10;istn-54f2cb5db4;288632;56:55.0
+1466;44;Merangin;10;istn-54f2cb5db4;288632;57:40.3
+1467;6;Muko Muko;26;istn-54f2cb5db4;288632;29:53.3
+1477;45;Sungai Tanang;10;istn-54f2cb5db4;288632;57:13.5
+1478;75;Beo;17;user-PC;2151322;31:39.6
+1479;62;Sungai Pakning;9;user-PC;2151322;49:33.5
+1480;123;Suppirang;19;user-PC;2151322;12:48.6
+1481;64;Berian Baru;15;user-PC;2151322;51:35.5
+1482;63;Cerenti;9;user-PC;2151322;59:40.3
+1483;124;Baranti;19;user-PC;2151322;57:53.1
+1484;64;Kabun;9;user-PC;2151322;25:28.6
+1485;76;Sengir;17;user-PC;2151322;42:16.6
+1486;108;Bala;19;user-PC;2151322;57:33.5
+1487;77;Tatelu;17;user-PC;2151322;34:05.1
+1488;78;Dimembe;17;user-PC;2151322;36:30.0
+1489;125;Ammerung;19;user-PC;2151322;44:43.1
+1490;79;Maririk;17;user-PC;2151322;54:51.8
+1491;65;Pulau Jambu;9;user-PC;2151322;11:44.2
+1492;93;Kampung Baru;12;user-PC;2151322;30:01.6
+1493;69;Lewong;5;user-PC;2151322;40:08.2
+1494;89;Cibalong Tasikmalaya;2;user-PC;8669;10:20.6
+1781;17;Muara Aman;26;BAAKISTN-PC;2151322;32:37.3
+1496;57;Tandiallo;33;user-PC;2151322;40:32.5
+1497;81;Asinua;20;user-PC;2151322;25:09.6
+1498;110;Baruara;7;user-PC;8669;44:02.6
+1499;1;Cikedung;29;user-PC;8669;52:42.9
+1500;90;Sukaraja;2;user-PC;8669;02:54.6
+1501;82;Usuku;20;user-PC;2151322;06:08.0
+1502;126;Malangke;19;user-PC;2151322;09:25.6
+1503;73;Lokotoy;18;user-PC;2151322;23:59.3
+1504;103;Dalo;33;user-PC;2151322;27:38.6
+1505;83;Inalahi;20;user-PC;2151322;49:49.7
+1506;85;Madapolo;21;user-PC;2151322;54:51.1
+1507;9;Batu Betumpang;35;user-PC;2151322;31:36.8
+1508;55;Pohgading;23;user-PC;2151322;11:20.6
+1509;56;Janapria;23;user-PC;2151322;18:19.5
+1510;48;Bahu;14;user-PC;2151322;27:29.3
+1511;111;Purbatua Barung;7;user-PC;2151322;42:28.0
+584;15;Pangkalan Berandan;7;user-PC;2151322;05:16.7
+1549;99;gelombang;33;debrina;291820;29:04.6
+1550;84;Sijunjung;8;istn-54f2cb5db4;288632;07:00.7
+1551;100;Tungkam;7;user-PC;2151322;09:32.1
+350;22;Tarafu;20;BAAKISTN-PC;2151322;49:07.6
+1516;40;Belani;11;ISTNAKADEMIK-PC;105;32:01.5
+1517;80;Ngaringan;3;user-PC;2151322;14:27.2
+1783;12;Maranti Timur;7;BAAKISTN-PC;2151322;42:32.7
+1519;22;Singkarak;8;ISTNAKADEMIK-PC;105;53:14.9
+1520;56;Tule;17;ISTNAKADEMIK-PC;105;36:31.4
+1521;50;Taturan;17;ISTNAKADEMIK-PC;105;05:07.3
+1553;12;Hutagurgur;7;BAAKISTN-PC;2151322;54:22.2
+1784;52;Salama;23;BAAKISTN-PC;2151322;54:33.7
+1524;90;Besikama;33;ISTNAKADEMIK-PC;105;17:29.3
+1525;82;Balai Gurah;8;user-PC;2151322;11:52.8
+1526;2;Gunung Sindur;29;user-PC;2151322;12:39.4
+1527;83;Kolok Sawahlunto;8;user-PC;2151322;03:41.6
+1528;22;Simpang Tolang;7;ISTNAKADEMIK-PC;105;23:48.6
+1554;91;Keroya;23;istn-54f2cb5db4;288632;46:46.7
+1529;22;Sibuntuon;7;ISTNAKADEMIK-PC;105;19:32.9
+1530;112;Silangkitang;7;user-PC;2151322;01:36.5
+1785;17;Jeranglah Tinggi;26;BAAKISTN-PC;2151322;46:56.7
+1532;110;Hela;7;user-PC;2151322;52:03.2
+1533;40;Tengkudak;22;BAAKISTN-PC;2151322;40:18.0
+1534;46;Lubuk Sepuh;10;istn-54f2cb5db4;288632;49:56.4
+1535;47;Sarolangun;10;istn-54f2cb5db4;288632;51:57.3
+1536;94;Balinuraga;12;istn-54f2cb5db4;288632;06:20.7
+1537;12;Hutabalang;7;BAAKISTN-PC;2151322;13:39.1
+1555;11;Sarko;35;istn-54f2cb5db4;288632;15:46.4
+1538;10;TANJUNGPANDAN;35;istn-54f2cb5db4;288632;38:50.0
+1539;81;KEMU;11;istn-54f2cb5db4;288632;47:28.8
+1540;44;BUANGIN;25;istn-54f2cb5db4;288632;41:53.5
+1541;90;Praya;23;istn-54f2cb5db4;288632;31:54.0
+1556;96;Rejo Agung;12;istn-54f2cb5db4;288632;30:14.8
+1079;11;Rantetiku;19;istn-54f2cb5db4;288632;29:16.6
+1625;75;Tanah Lanto;18;istn-54f2cb5db4;288632;29:33.9
+1522;80;Taturan;17;istn-54f2cb5db4;288632;59:03.7
+1544;81;RAANAN LAMA;17;istn-54f2cb5db4;288632;59:56.6
+1545;100;Makasar;19;user-PC;2151322;40:23.9
+1546;102;Wakuru;33;BAAKISTN-PC;2151322;07:30.8
+1547;66;Tanjung Labu;9;istn-54f2cb5db4;288632;00:05.6
+1548;62;Desa Babai;14;BAAKISTN-PC;2151322;25:03.3
+1786;13;Paninggahan;8;BAAKISTN-PC;2151322;14:56.0
+1557;127;Rantepao;19;istn-54f2cb5db4;288632;31:15.9
+1558;128;Luwu Timur;19;istn-54f2cb5db4;288632;44:56.1
+1630;69;Tambelan;9;istn-54f2cb5db4;288632;41:30.2
+1559;92;Tanak Awu;23;istn-54f2cb5db4;288632;44:57.9
+1560;129;Sukamaju;19;istn-54f2cb5db4;288632;26:41.5
+1634;70;Sawit Permai;9;istn-54f2cb5db4;288632;13:16.6
+1637;17;Bontomate'ne;37;istn-54f2cb5db4;288632;08:07.8
+1639;71;Kemang Manis;9;istn-54f2cb5db4;288632;16:07.3
+1641;120;Aek Popo;7;istn-54f2cb5db4;288632;27:40.3
+1643;8;Suka Rami;26;istn-54f2cb5db4;288632;48:59.3
+1562;3;Bornoh;47;istn-54f2cb5db4;288632;50:45.0
+1563;86;Kepulauan Aru;21;istn-54f2cb5db4;288632;51:50.5
+1564;43;Afdling III;13;istn-54f2cb5db4;288632;20:11.4
+1565;97;Bandar Sari;12;istn-54f2cb5db4;288632;50:29.3
+1788;16;Sumber Alam;11;BAAKISTN-PC;2151322;11:51.3
+1567;85;Maninjau;8;istn-54f2cb5db4;288632;34:16.8
+1568;87;Titawai;21;istn-54f2cb5db4;288632;42:16.4
+1569;151;Delitua;7;istn-54f2cb5db4;288632;23:33.8
+1570;44;Muara Jekak;13;istn-54f2cb5db4;288632;18:45.9
+1571;98;Saputih Raman;12;istn-54f2cb5db4;288632;54:32.3
+1789;16;Lampung;11;BAAKISTN-PC;2151322;04:30.5
+1573;74;Anjungan;18;istn-54f2cb5db4;288632;11:04.4
+1574;152;Asam Jawa;7;istn-54f2cb5db4;288632;45:24.7
+1575;84;Lapai;20;istn-54f2cb5db4;288632;50:50.8
+1576;130;Kalo Bani;19;istn-54f2cb5db4;288632;53:12.0
+1644;114;Manufui;33;istn-54f2cb5db4;288632;44:47.6
+1578;104;Manggarai Timur;33;istn-54f2cb5db4;288632;13:33.9
+1579;109;Padacenga;19;istn-54f2cb5db4;288632;48:11.7
+1580;105;Gunung Terang;33;istn-54f2cb5db4;288632;50:48.9
+1581;67;Ujung Tanjung;9;istn-54f2cb5db4;288632;36:37.0
+1582;45;Rantebua;25;istn-54f2cb5db4;288632;38:27.9
+1583;153;Tetehosi;7;istn-54f2cb5db4;288632;05:54.0
+1584;48;Rantau Harapan;10;istn-54f2cb5db4;288632;58:46.4
+1585;154;Tetesua;7;istn-54f2cb5db4;288632;24:02.0
+1586;106;Borong;33;istn-54f2cb5db4;288632;26:12.5
+1587;107;Nusa Tenggara Timur;33;istn-54f2cb5db4;288632;26:55.9
+1588;86;Silungkang;8;istn-54f2cb5db4;288632;04:10.9
+1589;155;Palipi;7;istn-54f2cb5db4;288632;13:55.3
+1590;73;Paung;33;user-PC;105;07:43.8
+1591;73;Darra;19;BAAKISTN-PC;2151322;49:11.2
+1592;6;Tangerang Selatan;34;istn-54f2cb5db4;288632;24:19.1
+1593;4;Muara Delang;0;istn-54f2cb5db4;288632;09:23.3
+1620;118;Hutadangka;7;istn-54f2cb5db4;288632;47:21.2
+1626;157;Gotong Royong;7;istn-54f2cb5db4;288632;35:14.0
+1631;82;Pahang Asri;11;istn-54f2cb5db4;288632;59:34.4
+1790;16;Kotabumi;11;BAAKISTN-PC;2151322;05:11.1
+1791;18;Kotabumi;12;BAAKISTN-PC;2151322;06:09.4
+1635;8;Bulo;16;istn-54f2cb5db4;288632;54:11.6
+1638;95;Benete;23;istn-54f2cb5db4;288632;12:40.9
+1640;133;Langke Raya;19;istn-54f2cb5db4;288632;19:21.8
+1595;113;Simalungun;7;istn-54f2cb5db4;288632;29:20.7
+1596;114;Saribudolok;7;istn-54f2cb5db4;288632;30:26.4
+1597;12;Sungai Liat;35;istn-54f2cb5db4;288632;31:09.9
+1598;131;Kalo' Bani;19;user-PC;2151322;27:19.2
+1599;108;SIKKA;33;istn-54f2cb5db4;288632;29:26.1
+1642;113;Sariak Laweh;33;istn-54f2cb5db4;288632;36:02.9
+1600;70;Jatiroto;5;istn-54f2cb5db4;288632;07:22.2
+0;0; Ussaga;0;istn-54f2cb5db4;288632;36:45.9
+1792;12;Samosir;7;BAAKISTN-PC;2151322;27:04.3
+1602;10;Kepulauan Seribu;1;istn-54f2cb5db4;288632;49:42.7
+1603;109;EMPAT LAWANG;33;istn-54f2cb5db4;288632;11:53.2
+1604;110;LENDUR;33;istn-54f2cb5db4;288632;12:29.7
+1605;0;MUARA PINANG;11;istn-54f2cb5db4;288632;17:27.1
+1645;13;Bencah;35;istn-54f2cb5db4;288632;09:41.5
+1646;14;Bangka Selatan;35;istn-54f2cb5db4;288632;11:37.5
+1647;85;Kowane;20;istn-54f2cb5db4;288632;19:48.5
+1648;49;Pasar Muara Siau;10;istn-54f2cb5db4;288632;02:28.5
+1649;50;Sirolangun Bangko;10;istn-54f2cb5db4;288632;03:30.0
+1651;82;Akesimbeka;17;istn-54f2cb5db4;288632;27:05.1
+1652;83;Siau Tagulandang Biaro;17;istn-54f2cb5db4;288632;33:46.7
+1653;96;Garupuk;23;istn-54f2cb5db4;288632;44:26.8
+1572;99;Penengahan;12;istn-54f2cb5db4;288632;47:12.4
+1654;72;Singingi;9;istn-54f2cb5db4;288632;25:41.5
+1394;15;Batu Belah;9;istn-54f2cb5db4;288632;26:08.5
+1393;17;Muarajalai;9;istn-54f2cb5db4;288632;27:14.1
+1542;1;KULAMPU;37;istn-54f2cb5db4;288632;10:55.7
+1561;2;Boven Digoel;37;istn-54f2cb5db4;288632;11:15.6
+1150;3;Kokas;37;istn-54f2cb5db4;288632;11:34.1
+1185;4;Windesi;37;istn-54f2cb5db4;288632;11:49.8
+1210;5;Wawena;37;istn-54f2cb5db4;288632;12:03.3
+900;6;Biak;37;istn-54f2cb5db4;288632;12:19.7
+1030;8;Paniai;37;istn-54f2cb5db4;288632;12:42.3
+1031;9;Jayawijaya;37;istn-54f2cb5db4;288632;12:57.1
+1108;10;Jayapura;37;istn-54f2cb5db4;288632;13:26.0
+1217;11;Fakfak;37;istn-54f2cb5db4;288632;13:52.9
+1288;12;Timika;37;istn-54f2cb5db4;288632;14:09.3
+1367;13;Kepulauan Yapen;37;istn-54f2cb5db4;288632;14:27.7
+1369;14;Mimika;37;istn-54f2cb5db4;288632;14:55.7
+1607;15;MAYBRAT;37;istn-54f2cb5db4;288632;15:10.8
+1794;11;Desa Cot;6;BAAKISTN-PC;2151322;15:38.1
+1608;115;Padang Lawas;7;istn-54f2cb5db4;288632;09:01.0
+1609;116;Sibuhuan;7;istn-54f2cb5db4;288632;09:38.2
+1610;111;KUPANG;33;istn-54f2cb5db4;288632;36:24.1
+1611;112;Larantuka;33;istn-54f2cb5db4;288632;52:15.9
+1612;88;Seram Bagian Timur;21;istn-54f2cb5db4;288632;07:57.7
+1613;40;Kacaribu;7;istn-54f2cb5db4;288632;44:02.1
+1614;68;Siak;9;istn-54f2cb5db4;288632;48:52.1
+1615;1;Karang Endah;12;istn-54f2cb5db4;288632;23:23.3
+1616;37;Seluma;26;istn-54f2cb5db4;288632;32:54.2
+1617;156;Batang Serangan;7;istn-54f2cb5db4;288632;18:48.3
+1618;93;Tepas;23;istn-54f2cb5db4;288632;51:16.1
+1619;38;Suka Merindu;26;istn-54f2cb5db4;288632;16:43.3
+1795;4;Pancor;23;BAAKISTN-PC;2151322;43:36.5
+1621;117;Sosor Bagot;7;istn-54f2cb5db4;288632;09:57.3
+1027;18;Bintan;9;istn-54f2cb5db4;288632;27:54.1
+1796;19;Kotabaru Seberida;9;BAAKISTN-PC;2151322;59:24.3
+559;20;Gantung;9;istn-54f2cb5db4;288632;29:41.6
+1187;27;Sungai Lang;9;istn-54f2cb5db4;288632;30:45.4
+1797;37;Wotan Ulumado;24;BAAKISTN-PC;2151322;47:50.1
+1650;28;Seram Bagian Barat;9;istn-54f2cb5db4;288632;32:18.1
+1160;29;Laut Tador;9;istn-54f2cb5db4;288632;32:38.2
+1655;30;Lubuk Ambacang;9;istn-54f2cb5db4;288632;34:19.5
+1798;100;Janjimatogu;7;BAAKISTN-PC;2151322;05:12.8
+1656;9;Dusun Baru II;26;istn-54f2cb5db4;288632;10:53.5
+1657;10;Darat Sawah;26;istn-54f2cb5db4;288632;28:27.9
+1658;13;Pulau Morotai;21;istn-54f2cb5db4;288632;00:58.1
+1659;4;Tempel, Sleman;4;istn-54f2cb5db4;288632;23:06.4
+1660;4;Jembrana;22;istn-54f2cb5db4;288632;33:47.7
+1661;3;Pangkalan Bun;14;istn-54f2cb5db4;288632;52:33.1
+1799;11;Jaman Mesjid;6;BAAKISTN-PC;2151322;51:11.0
+1800;12;Kampung Sennah;7;BAAKISTN-PC;2151322;14:07.1
+1801;36;Epil;11;BAAKISTN-PC;2151322;29:44.6
+1915;82;Grobogan;3;debrina;288632;08:45.0
+1566;11;MISLAK;33;istn-54f2cb5db4;288632;09:27.9
+1663;18;Waropen;37;istn-54f2cb5db4;288632;29:48.9
+1402;16;Papua;37;istn-54f2cb5db4;288632;30:16.2
+1664;45;Landak;13;istn-54f2cb5db4;288632;01:39.3
+1802;44;Bangodua;2;BAAKISTN-PC;2151322;47:13.1
+751;19;Sinar Toba;9;BAAKISTN-PC;2151322;33:37.6
+1803;16;Batumarta;12;BAAKISTN-PC;2151322;57:26.7
+420;9;Lhok Parom;6;BAAKISTN-PC;2151322;13:03.5
+1804;24;Kota Jantho;6;BAAKISTN-PC;2151322;42:15.3
+1805;35;Aikmel;23;BAAKISTN-PC;2151322;00:29.1
+1806;14;Lingkungan;9;BAAKISTN-PC;2151322;57:14.4
+1807;36;Sidomulyo;12;BAAKISTN-PC;2151322;30:03.0
+1808;54;Muntung;33;BAAKISTN-PC;2151322;53:22.2
+1809;57;Sededap;10;debrina;288632;26:31.2
+1810;81;Natuna;9;debrina;288632;31:44.2
+1811;82;Tanjung Balai Karimun;9;debrina;288632;42:14.4
+274;23;Marga Lestari;12;istn-54f2cb5db4;288632;03:50.7
+275;24;Lampung Tengah;12;istn-54f2cb5db4;288632;04:09.0
+1523;26;Tanjung Bintang;12;istn-54f2cb5db4;288632;04:50.7
+437;27;Kotabumi;12;istn-54f2cb5db4;288632;05:12.9
+438;28;Bandarjaya;12;istn-54f2cb5db4;288632;05:35.5
+452;29;Sumbersari;12;istn-54f2cb5db4;288632;05:59.7
+479;30;Pasar Liwa;12;istn-54f2cb5db4;288632;06:19.4
+489;31;Metro;12;istn-54f2cb5db4;288632;06:38.8
+519;32;Manna;12;istn-54f2cb5db4;288632;07:00.0
+683;33;Agromulyo;12;istn-54f2cb5db4;288632;07:27.6
+1458;34;Tanjung Iman;12;istn-54f2cb5db4;288632;08:31.2
+1420;35;Gaya Baru II;12;istn-54f2cb5db4;288632;08:43.1
+1305;36;Lampung Selatan;12;istn-54f2cb5db4;288632;08:54.4
+719;37;Kartaraharja;12;istn-54f2cb5db4;288632;09:04.5
+423;38;Lampung;12;istn-54f2cb5db4;288632;09:15.9
+1594;39;Margo Dadi;12;istn-54f2cb5db4;288632;09:29.1
+1665;40;Pesawaran;12;istn-54f2cb5db4;288632;10:02.2
+273;59;Bandar Lampung;12;istn-54f2cb5db4;288632;10:50.6
+999;53;Bumi Agung;12;istn-54f2cb5db4;288632;11:57.0
+932;55;Menggala;12;istn-54f2cb5db4;288632;13:18.4
+1666;73;Tanjung Uban;9;user-PC;2151322;52:24.6
+1667;90;Hative Besar Ambon;21;istn-54f2cb5db4;288632;03:44.6
+1812;102;TERUWAI;23;debrina;288632;55:16.9
+1813;83;Gunung Malelo;9;debrina;288632;14:23.9
+1814;103;Peresak;23;debrina;288632;34:04.9
+1669;87;Lubuk Alung;8;user-PC;8990;14:11.9
+1815;11;Pangli Palawa;38;debrina;288632;39:45.7
+1719;10;Seludengen;38;debrina;288632;39:58.9
+1672;12;Sileang;7;BAAKISTN-PC;2151322;28:21.4
+1673;74;Bagan Batu;9;user-PC;2151322;03:28.7
+1674;7;Tangerang;34;user-PC;2151322;01:25.0
+1675;158;Sarulla;7;user-PC;2151322;47:17.9
+1676;131;Kalo' Bani;19;user-PC;8990;24:46.4
+1677;115;korleko;33;debrina;288632;34:23.6
+1678;97;Dasan Lekong;23;debrina;288632;23:01.8
+1679;51;Lubuk Lawas;10;debrina;288632;38:00.3
+1680;19;SORONG SELATAN;37;debrina;288632;23:35.9
+1816;104;Kekale;23;debrina;288632;49:39.9
+1681;5;Talion;0;debrina;288632;30:15.5
+1682;6;Malinau Kota;0;debrina;288632;33:04.1
+1683;84;Rantau Kasih;11;debrina;288632;41:13.2
+1684;52;Sridadi;10;debrina;288632;19:28.6
+1817;105;Gundul;23;debrina;288632;52:17.5
+1685;134;Pangli;19;debrina;288632;14:20.4
+1687;86;Muna Barat;20;debrina;288632;12:33.4
+1688;88;LASI MUDO;8;debrina;288632;51:26.1
+1291;52;Lumbaja;33;debrina;288632;03:24.6
+1689;116;Lekebai;33;debrina;288632;04:26.6
+1690;53;Tanjung Pauh;10;debrina;288632;17:56.5
+1691;75;Batu Bersurat;9;debrina;288632;32:51.6
+1818;84;BUATAN;9;debrina;288632;53:51.1
+1819;85;Peranap;9;debrina;288632;07:23.6
+1820;106;Karang Langko;23;debrina;288632;14:36.6
+1695;136;Marassi;19;debrina;288632;24:29.1
+1696;76;Sedinginan;9;debrina;288632;30:41.2
+1697;98;Penangsak;23;debrina;288632;38:34.3
+1698;84;Tarun;17;debrina;288632;44:08.5
+1699;85;Kepulauan Taland;17;debrina;288632;44:48.4
+1700;159;Securai;7;debrina;288632;04:30.2
+1701;54;SUNGAI SAHUT;10;debrina;288632;18:37.7
+1702;99;MONTONG TINGI;23;debrina;288632;24:14.5
+1703;85;MUKTI KARYA;11;debrina;288632;37:19.6
+1704;81;TANAH JAWA;3;debrina;288632;36:41.4
+1706;117;Alorongga;33;debrina;288632;14:11.4
+979;21;Weoe;33;debrina;288632;26:27.6
+1708;86;SIDO GEDE;11;debrina;288632;35:57.0
+980;22;Malaka;33;debrina;288632;28:56.0
+1671;4;Panjang Bandar Lampung;12;debrina;288632;52:53.9
+1670;5;Buay Nyerupa;12;debrina;288632;53:04.8
+1711;118;LAWAR;33;debrina;288632;03:42.4
+1712;119;ALOR;33;debrina;288632;04:27.0
+1713;87;TANJUNG KEPAYANG;11;debrina;288632;40:17.0
+1821;95;Halmahera Utara;21;debrina;288632;40:48.9
+1822;1;Wondama;79;debrina;288632;02:44.4
+1714;120;JANJIMATOGU;7;debrina;288632;59:00.4
+1715;76;Makapa;18;debrina;288632;03:26.8
+1716;120;SALAKAN;33;debrina;288632;24:56.4
+1717;20;TELUK BINTUNI;37;debrina;288632;32:06.7
+1823;2;Wasior;79;debrina;288632;03:04.7
+1824;3;Teluk Wondama;79;debrina;288632;09:40.1
+1826;87;Kandis;9;debrina;288632;44:44.0
+1827;140;Buntu Datu;19;debrina;288632;49:51.0
+929;1;Tanjung Batu Majene;38;debrina;288632;58:44.6
+1240;3;Polewali;38;debrina;288632;59:06.3
+1249;4;Sumarorong;38;debrina;288632;59:15.5
+1373;5;Mamasa;38;debrina;288632;59:28.5
+1380;6;Polewali Mandar;38;debrina;288632;00:29.4
+1692;7;Waigamo;38;debrina;288632;00:36.9
+1693;8;Majene;38;debrina;288632;00:44.9
+1694;9;Wonomulyo;38;debrina;288632;00:54.0
+1828;8;Sukasari;12;debrina;288632;14:04.5
+1552;12;Deah Pangwa;6;debrina;288632;32:44.9
+1668;10;Sumbok Dayek;6;debrina;288632;14:58.6
+1782;12;Kuala Keupeng;6;debrina;288632;33:05.5
+1787;12;Janarata;6;debrina;288632;33:23.8
+1437;12;Peusangan;6;debrina;288632;15:30.5
+1162;13;Uteun Pulo;6;debrina;288632;15:50.9
+1163;14;Putus Sibau;6;debrina;288632;16:11.5
+1173;15;Bireuen;6;debrina;288632;16:21.8
+1186;16;Porang;6;debrina;288632;16:38.6
+202;17;Aceh Selatan;6;debrina;288632;16:49.6
+1223;18;Takengon;6;debrina;288632;16:59.9
+1225;19;Rumah Kampung;6;debrina;288632;17:09.9
+203;20;Aceh Tenggara;6;debrina;288632;17:30.4
+204;21;Aceh Timur;6;debrina;288632;17:45.6
+205;22;Aceh Tengah;6;debrina;288632;18:05.2
+206;23;Aceh Barat;6;debrina;288632;18:24.0
+207;24;Aceh Besar;6;debrina;288632;18:52.2
+208;25;Aceh Utara;6;debrina;288632;19:26.5
+209;26;Pidie;6;debrina;288632;20:30.2
+804;27;Lhokseumawe;6;debrina;288632;20:42.3
+839;28;Langsa;6;debrina;288632;20:56.1
+873;29;Takengon Aceh Tengah;6;debrina;288632;21:10.5
+919;30;Jambur Lak-Lak;6;debrina;288632;21:23.7
+1055;31;Kuala Simpang;6;debrina;288632;21:39.9
+1068;32;Capeung;6;debrina;288632;22:56.3
+1099;33;Nagan Raya;6;debrina;288632;23:19.9
+1103;34;Meulaboh;6;debrina;288632;23:35.9
+1155;35;Upah;6;debrina;288632;24:04.8
+1292;36;Blangkejeren;6;debrina;288632;24:24.9
+1368;37;Sigli;6;debrina;288632;24:42.4
+1371;38;Gayo Lues;6;debrina;288632;25:04.1
+1372;39;Terangun;6;debrina;288632;25:23.8
+1418;40;Semadam Awal;6;debrina;288632;25:48.3
+1419;41;Subulussalam;6;debrina;288632;26:02.8
+1421;42;Kuta Batu;6;debrina;288632;26:30.2
+1495;43;Biara Barat;6;debrina;288632;26:44.8
+1518;45;Blangkejeren;6;debrina;288632;27:26.2
+1514;46;Rikit Gaib;6;debrina;288632;27:56.8
+1628;47;Cot Kumbang;6;debrina;288632;28:17.0
+1720;48;Krueng Batee;6;debrina;288632;28:55.6
+1721;49;Aceh Barat Daya;6;debrina;288632;31:59.3
+1722;50;Aceh Jaya;6;debrina;288632;42:54.7
+1723;6;Sabedo;23;debrina;288632;36:44.9
+1724;121;Labuan Bajo;33;debrina;288632;42:47.9
+1725;7;Tambah Dadi;12;debrina;288632;54:20.0
+1726;86;Belang;17;debrina;288632;58:48.9
+1727;91;Tual;21;debrina;288632;56:07.3
+1728;120;Parulohan;7;debrina;288632;08:23.3
+1729;92;Namsina;21;debrina;288632;40:46.7
+1730;88;Datar Lebar;11;debrina;288632;44:22.1
+1731;122;Kefamananu;33;debrina;288632;08:15.2
+1732;55;SUKA DAMAI;10;debrina;288632;14:53.6
+1733;56;TEBO;10;debrina;288632;15:58.8
+1734;46;GE'TENGAN;25;debrina;288632;19:42.6
+1735;77;PEMATANG REBA;9;debrina;288632;23:06.4
+1736;78;INDRAGILIR HULU;9;debrina;288632;25:31.3
+1737;79;Kura Taji;9;debrina;288632;19:11.5
+1829;51;KENYARAN;6;debrina;288632;33:57.7
+1830;52;GAYOLUES;6;debrina;288632;34:31.8
+1077;110;Wairiang;19;debrina;288632;53:13.8
+1831;88;RUMBIO JAYA;9;debrina;288632;51:53.7
+1832;89;ALAM PANJANG;9;debrina;288632;52:11.4
+1833;58;KARYA INDAH;10;debrina;288632;31:54.1
+1738;137;Tempe;19;debrina;288632;55:11.8
+548;138;Sempangnge;19;debrina;288632;55:36.9
+1739;100;Lendang Nangka;23;user-PC;8669;46:58.0
+1740;18;Braja Sakti;12;BAAKISTN-PC;2151322;12:46.0
+1742;52;Montong Belae;23;BAAKISTN-PC;2151322;14:51.4
+1743;8;Makkah;34;user-PC;8669;47:07.5
+1744;12;Sibitara;7;BAAKISTN-PC;2151322;01:51.8
+1745;123;Otan;33;user-PC;8669;03:40.6
+1746;73;Baras IV;19;BAAKISTN-PC;2151322;29:56.7
+1747;16;Remban;11;BAAKISTN-PC;2151322;56:41.9
+1748;52;Gelogor Mapong;23;BAAKISTN-PC;2151322;08:25.9
+1749;93;Sofifi;21;user-PC;8669;40:17.0
+1750;160; Galang;7;user-PC;8669;24:11.0
+1751;94;Tulehu;21;user-PC;8669;29:28.7
+1752;100;Lombongan;19;user-PC;8669;33:22.4
+1753;139;Wara;19;user-PC;8669;38:19.1
+1834;59;SALAM BUKU;10;debrina;288632;25:44.8
+1755;80;Pelintung;9;user-PC;8669;46:25.0
+1756;102;Raka;33;BAAKISTN-PC;2151322;02:04.8
+1757;14;Tamora;9;BAAKISTN-PC;2151322;34:39.7
+1758;102;Baru;33;BAAKISTN-PC;2151322;23:47.2
+1759;102;Lela;33;BAAKISTN-PC;2151322;34:59.1
+1760;102;Lela;33;BAAKISTN-PC;2151322;37:47.4
+1761;73;Tana Toraja;19;BAAKISTN-PC;2151322;41:13.1
+1762;53;Pernang;24;BAAKISTN-PC;2151322;52:58.4
+1763;14;Simpang Kelayang;9;BAAKISTN-PC;2151322;59:43.2
+1764;52;Korleko;23;BAAKISTN-PC;2151322;05:36.9
+1765;74;Lipu;20;BAAKISTN-PC;2151322;21:53.3
+1835;60;Kembang Paseban;10;debrina;288632;31:57.9
+1768;101;Dasan Lian,Aikmel Utara;23;user-PC;8669;37:11.7
+1531;5;Cibeber-Lebak;34;BAAKISTN-PC;2151322;55:18.0
+1769;52;Masbagik;23;BAAKISTN-PC;2151322;59:58.6
+1770;18;Itik Randai;12;BAAKISTN-PC;2151322;13:26.9
+2099;2;Ngaso;9;debrina;288632;23:51.2
+1772;102;Baru;33;BAAKISTN-PC;2151322;49:54.4
+1773;102;Lengor;33;BAAKISTN-PC;2151322;19:24.6
+1774;102;Parinding;33;BAAKISTN-PC;2151322;23:07.9
+1775;52;Rempung;23;BAAKISTN-PC;2151322;42:04.2
+1776;35;Lamongan;5;BAAKISTN-PC;2151322;45:12.5
+1777;71;Tondano;17;BAAKISTN-PC;2151322;49:35.5
+1778;71;Palelon;17;BAAKISTN-PC;2151322;03:30.8
+862;43;Suai;27;BAAKISTN-PC;2151322;40:39.1
+1951;90;Pasaman Barat;8;debrina;288632;14:13.4
+1952;91;Balai Tinggi;8;debrina;288632;08:58.6
+1947;11;Sengkang;19;debrina;288632;27:39.5
+1931;35;Wonosari;12;debrina;288632;49:16.8
+1922;13;PEA JANGGUT;7;debrina;288632;32:56.7
+1896;2;Waur;21;debrina;288632;16:18.6
+1916;1;MALUKU;21;debrina;288632;16:27.6
+1917;48;Kalimantan Barat;13;debrina;288632;17:54.3
+1918;33;Mesuji;12;debrina;288632;29:32.4
+1919;34;Way Nangka;12;debrina;288632;37:02.8
+1920;8;Lumbirejo;12;debrina;288632;49:26.7
+1921;3;Halmahera Selatan;21;debrina;288632;01:03.6
+1948;166;Aek Rau;7;user-PC;8669;58:43.0
+1923;89;BALAI SELASA;8;debrina;288632;02:01.4
+1924;83;WONODADI;3;debrina;288632;15:35.7
+1925;95;Suka Mukti;11;debrina;288632;45:51.3
+1926;140;Rumoong Atas;19;debrina;288632;56:57.0
+1927;90;Pakuure;17;debrina;288632;31:04.7
+1928;91;Minahasa Selatan;17;debrina;288632;31:38.6
+1929;4;Dakulamo;21;debrina;288632;39:53.7
+1932;14;RAJAMALIGAS;7;debrina;288632;33:28.2
+1934;94;GERINGGING BARU;9;debrina;288632;47:40.9
+1935;95;KUANTAN SINGINGI;9;debrina;288632;48:39.2
+1936;9;Limbur Tembesi;10;debrina;288632;20:48.4
+1937;10;Sarolangun;10;debrina;288632;21:17.0
+1938;15;Gunung Sitoli;7;debrina;288632;40:52.7
+1939;4;Keerom;79;debrina;288632;21:41.9
+1940;92;Amurang;17;debrina;288632;47:59.7
+1941;93;Sonder;17;debrina;288632;04:29.3
+753;124;Galur;33;debrina;288632;09:24.3
+1662;125;Kajong;33;debrina;288632;10:08.8
+760;126;Betun;33;debrina;288632;10:38.7
+1942;127;Maki;33;debrina;288632;11:14.7
+1943;36;Negeri Jemanten;12;debrina;288632;17:12.6
+1944;16;Sinar Gunung;7;debrina;288632;30:06.6
+1945;5;Guwang;22;debrina;288632;08:57.0
+1946;17;Manik Hataran;7;debrina;288632;09:58.4
+1949;167;Maga Lombang;7;user-PC;8669;51:33.4
+1950;62;Rantau Rasau;10;user-PC;8669;36:13.1
+2100;9;Sinar Banten;34;debrina;288632;24:18.6
+2103;101;Rejosari;11;debrina;288632;30:24.9
+621;92;Padang Sibusuk;8;debrina;288632;14:02.3
+1771;93;Silago;8;debrina;288632;14:30.2
+1953;94;Lima Puluh Kota;8;debrina;288632;15:08.5
+1954;88;Wakatobi;20;debrina;288632;50:32.3
+1955;37;Sukapura;12;debrina;288632;16:46.7
+2106;89;Lapangi-Pangi;20;debrina;288632;21:14.5
+1956;91;Wanaraja Garut;2;debrina;288632;18:23.8
+1957;5;Lanny Jaya;79;debrina;288632;57:54.8
+2109;169;Parratusan;7;debrina;288632;24:30.8
+1958;95;Guguk Sarai;8;debrina;288632;11:00.5
+1959;5;Sidangoli;21;debrina;288632;52:55.9
+1961;38;Raman Endra;12;debrina;288632;46:27.8
+1962;39;Sidorejo;12;debrina;288632;40:11.1
+1963;108;Sakra;23;debrina;288632;47:48.2
+1964;109;Kore;23;debrina;288632;55:50.3
+1965;56;Pulau Tiga;6;debrina;288632;04:33.8
+1966;57;ACEH TAMIANG;6;debrina;288632;07:48.0
+1967;47;Babakan Baru;26;debrina;288632;00:22.7
+1968;110;SENGKEREK;23;debrina;288632;08:18.8
+1969;45;OSSU;27;debrina;288632;57:55.8
+1970;40;Gunung Agung;12;debrina;288632;03:46.4
+1971;97;Sukamoro;11;debrina;288632;05:10.7
+1972;41;Wonoharjo;12;debrina;288632;59:44.0
+1973;42;Way Kanan;12;debrina;288632;00:47.9
+1974;64;Kuamang;10;debrina;288632;06:42.4
+1975;43;Mulyosari;12;debrina;288632;31:42.6
+1836;90;SUNGAI MANAU;9;debrina;288632;55:14.5
+1838;91;Sialang Jaya;9;debrina;288632;03:49.4
+1976;44;Gayabaru;12;debrina;288632;25:50.0
+1977;48;Sekunyit;26;debrina;288632;39:44.7
+1978;49;Kaur;26;debrina;288632;40:04.5
+1840;87;Noongan;17;debrina;288632;52:57.3
+1841;96;BUNTU;21;debrina;288632;05:17.9
+1842;9;Jabung;12;debrina;288632;40:08.5
+1843;161;Pematang Siantar;7;debrina;288632;00:04.8
+1979;6;Geser;21;debrina;288632;14:27.4
+1983;141;Luwu;19;debrina;288632;54:29.9
+1980;111;Narmada;23;debrina;288632;28:00.9
+1981;7;Popjetur;21;debrina;288632;34:33.5
+1982;140;Battang;19;debrina;288632;54:09.2
+1984;142;Sindereng Rappang;19;debrina;288632;16:01.6
+1985;112;Kerembong;23;debrina;288632;04:15.0
+1986;65;Nipah Panjang;10;debrina;288632;09:58.6
+1987;66;Tanjung Jabung Timur;10;debrina;288632;13:22.5
+1988;45;Purwa Agung;12;debrina;288632;17:15.3
+1989;67;Alang Alang;10;debrina;288632;56:22.8
+1991;143;Selulemo;19;debrina;288632;35:59.8
+1992;6;Sa'dan Matallo;79;debrina;288632;42:28.0
+1993;7;Pegunungan Bintang;79;debrina;288632;42:58.5
+1994;18;Suka;7;debrina;288632;53:12.7
+1995;46;Makartitama;12;debrina;288632;11:25.4
+1996;113;SEDAYU;23;debrina;288632;17:12.2
+1997;68;Teluk Kuali;10;debrina;288632;58:28.0
+1998;47;Lintik;12;debrina;288632;39:11.7
+1999;8;Siwa;79;debrina;288632;46:38.8
+2000;8;Waesili;21;debrina;288632;20:06.7
+2001;69;Rantau Panjang;10;debrina;288632;27:01.1
+2002;144;Padangrora;19;debrina;288632;31:31.0
+2003;160;Sihorbo;7;debrina;288632;06:02.6
+2005;49;Bunga Mayang;12;debrina;288632;18:37.4
+2006;2;Kuala Lumpur;57;debrina;288632;22:34.4
+2007;96;Kualu;9;debrina;288632;08:03.6
+2009;19;Tinjowan;7;debrina;288632;09:47.3
+2010;7;Tanjung Lapang;0;debrina;288632;33:05.2
+2011;9;Waton Ulu Mado;21;debrina;288632;59:16.7
+2101;3;EMIRAT ARAB;53;debrina;288632;25:32.9
+2104;10;Rangkas Bitung;34;debrina;288632;23:27.3
+2107;79;Rawajitu;12;DESKTOP-JJT9RCV;288632;44:23.7
+2012;101;Nataea;33;debrina;288632;25:09.6
+2013;46;Tualang;27;debrina;288632;44:00.6
+2014;17;Delas;35;debrina;288632;23:24.4
+2015;58;Simpang IV Upah;6;debrina;288632;27:08.2
+2016;18;Toboali;35;debrina;288632;47:54.4
+2017;98;Tanah Agung;11;debrina;288632;49:08.7
+2018;114;Rato;23;debrina;288632;56:56.6
+2019;21;Maget. B;37;debrina;288632;06:36.6
+2020;20;Rao;7;debrina;288632;28:11.0
+2021;50;Sekampung;12;debrina;288632;56:05.3
+2022;51;Panjang;12;debrina;288632;06:01.0
+2023;52;Comok Sinar Jaya;12;debrina;288632;12:12.6
+2024;53;Sribasuki;12;debrina;288632;38:21.5
+2025;85;Kab.Semarang;3;debrina;288632;48:24.4
+2026;63;Pangkoh;14;debrina;288632;16:10.7
+2027;54;Pugungraharjo;12;debrina;288632;31:43.3
+2028;55;Rawa Pitu;12;debrina;288632;41:13.9
+2029;56;Sukamara;12;debrina;288632;43:22.0
+2030;57;Keputran;12;debrina;288632;45:12.8
+2031;59;Ulee Glee;6;debrina;288632;53:49.7
+2032;58;B.Lampung;12;debrina;288632;56:41.0
+2033;60;Pinto Makmur;6;debrina;288632;48:37.1
+2034;96;Pasar Rao;8;user-PC;8669;55:51.3
+2035;18;Gisting Bawah;12;BAAKISTN-PC;2151322;48:58.8
+2036;15;Ulee Gle;6;BAAKISTN-PC;2151322;59:38.8
+2037;75;Saludengen;38;BAAKISTN-PC;2151322;20:22.2
+2038;15;Pondok Tinggi;10;BAAKISTN-PC;2151322;44:15.3
+2039;120;Kabanjahe;7;user-PC;8669;04:47.8
+2040;1;Situngir;7;BAAKISTN-PC;2151322;14:06.5
+2041;59;Gunung Besar;12;istn-54f2cb5db4;288632;52:30.5
+2042;60;Kalipapan;12;istn-54f2cb5db4;288632;59:04.2
+2043;61;Banjar Agung;12;istn-54f2cb5db4;288632;06:33.1
+2044;62;Punggur;12;istn-54f2cb5db4;288632;11:52.7
+2045;19;Surantih;8;istn-54f2cb5db4;288632;22:11.4
+2046;97;Baluk;9;istn-54f2cb5db4;288632;38:17.0
+2047;50;Palak Bengkerung;26;istn-54f2cb5db4;288632;21:13.5
+2048;99;Nyukang Harjo;11;debrina;288632;12:29.6
+2049;97;Koto Baru;8;debrina;288632;10:43.3
+2110;81;Talang Jawa;12;debrina;288632;58:07.2
+2115;129;Uwa;33;DESKTOP-U7V8A28;8669;05:41.8
+2051;98;Paguh Duku;8;debrina;288632;38:12.5
+2050;63;Simpang Luas;12;debrina;288632;48:38.6
+2052;64;Pekondoh;12;debrina;288632;49:03.2
+2053;21;NATUMINGKA;7;debrina;288632;31:54.0
+2054;70;MANDIANGIN;10;debrina;288632;27:49.6
+2102;64;Pir Butong;14;debrina;288632;34:20.2
+2056;10;Lubuk Lungkang;11;debrina;288632;09:36.2
+2057;66;Negeri Ratu;12;debrina;288632;18:31.8
+2059;68;MANGGALA;12;debrina;288632;57:41.6
+2060;69;DAYA MURNI;12;debrina;288632;33:54.5
+2061;61;PANGWA;6;debrina;288632;48:40.2
+2105;78;Tulung Pasik;12;debrina;288632;43:01.2
+2063;71;TELUK SINGKAWANG;10;debrina;288632;08:25.8
+2108;80;WAYMILI;12;debrina;288632;55:04.4
+2064;12;Rawalpindi;11;debrina;288632;50:35.9
+2062;11;Air Itam;11;debrina;288632;50:55.9
+2066;110;Rote Ndao;33;debrina;288632;10:27.4
+2067;70;Bandarjaya;12;debrina;288632;08:20.2
+2068;22;SERUI;37;debrina;288632;27:01.2
+2069;62;Matang Kumbang;6;debrina;288632;38:01.2
+2070;63;BULUDURI;6;debrina;288632;01:39.0
+2072;71;RATNA KHATON;12;debrina;288632;44:59.8
+2071;72;Kebagusan;12;debrina;288632;31:26.2
+2073;73;TOTOKATON;12;debrina;288632;31:51.0
+2074;74;Suputih Banyak;12;debrina;288632;29:36.0
+2075;116;Bareng;23;debrina;288632;11:24.3
+2076;77;Tomoli;18;debrina;288632;15:54.0
+2077;22;SUMBUL;7;debrina;288632;31:33.8
+2078;168;P. SUSU;7;debrina;288632;22:44.2
+2079;64;Lae Hole;6;debrina;288632;43:02.8
+2080;65;L.Pakam;6;debrina;288632;50:00.2
+2082;23;Persunian;7;debrina;288632;35:25.2
+2083;49;LOALO;25;debrina;288632;21:40.8
+2084;13;Biaro Lama;11;debrina;288632;58:28.5
+2085;75;Mengandungsari;12;debrina;288632;37:23.7
+2086;53;Sibangkaja;22;debrina;288632;37:44.2
+2087;24;Batu Horpak;7;debrina;288632;42:06.6
+2088;14;Karang Jaya;11;debrina;288632;18:54.4
+2089;94;Minsei;17;debrina;288632;26:20.6
+2090;76;Way Seputih;12;debrina;288632;01:43.6
+2091;100;Kampung Tanjung;11;debrina;288632;35:25.3
+2111;102;Paga;33;DESKTOP-MG98F4F;8990;10:59.4
+2092;77;Mumbang Jaya;12;debrina;288632;08:40.8
+2093;25;Motung;7;debrina;288632;08:19.7
+2094;19;Cit Belinyu;35;debrina;288632;17:23.4
+2112;100;Dabo Singkep;9;DESKTOP-MG98F4F;8990;29:32.6
+2095;98;Perawang;9;debrina;288632;24:37.8
+2096;99;TAPUS;9;debrina;288632;39:10.7
+401;32;Argamakmur;26;DESKTOP-MG98F4F;8990;46:04.7
+2097;1;BANDAR SEI KIJANG;9;debrina;288632;46:44.7
+2098;15;PENANGGIRAN;11;debrina;288632;41:28.3
+2113;100;Onolimbu;7;DESKTOP-MG98F4F;8990;22:17.2
+2114;10;Simodong;7;DESKTOP-MG98F4F;8990;28:17.7
+2116;65;Kotawaringin Timur;14;DESKTOP-U7V8A28;8669;50:41.6
+2117;232;Ujung Tanduk;7;DESKTOP-U7V8A28;8669;03:37.6
+2118;100;Jaya Tinggi;12;DESKTOP-U7V8A28;8669;17:26.6
+2119;101;Bangun Rejo;12;DESKTOP-U7V8A28;8669;22:57.7
+2120;102;Seputih Raman;12;DESKTOP-U7V8A28;8669;30:43.6
+2121;99;Sumani;8;DESKTOP-U7V8A28;8669;52:05.6
+2122;170;Urung Pane;7;DESKTOP-U7V8A28;8669;40:39.4
+2123;102;Teruwai;23;DESKTOP-U7V8A28;8669;33:53.0
+2125;117;Kombo - Wawo;23;DESKTOP-U7V8A28;8669;46:12.9
+2126;34;Pahae Julu;7;DESKTOP-QFC16ML;2151322;55:52.4
+2127;34;Pahae Julu;7;DESKTOP-QFC16ML;2151322;57:14.0
+2128;75;Kefamenanu;33;DESKTOP-QFC16ML;2151322;17:42.1
+2129;4;Kab. Semarang;3;DESKTOP-QFC16ML;2151322;32:58.6
+2130;71;Sukosari;5;DESKTOP-U7V8A28;8669;37:01.9
+2131;100;Padang Koto Gadang;8;DESKTOP-U7V8A28;8669;06:59.4
+2132;95;Doloduo;17;DESKTOP-U7V8A28;8669;03:21.5
+2133;100;Buatan II;9;DESKTOP-U7V8A28;8669;02:09.9
+2134;118;Sape - Bima;23;DESKTOP-U7V8A28;8669;12:40.2
+2135;96;Makaaroyen;17;DESKTOP-U7V8A28;8669;21:59.3
+2136;100;Morotai;21;DESKTOP-U7V8A28;8669;30:56.4
+2137;100;Malua;19;DESKTOP-QFC16ML;2151322;14:00.3
+2138;23;Samabusa;37;DESKTOP-U7V8A28;8669;21:53.3
+2146;100;Paleri;21;DESKTOP-U7V8A28;8669;10:56.2
+2139;100;Kurai Taji;8;DESKTOP-U7V8A28;8669;25:21.7
+2140;145;Bone - Bone;19;DESKTOP-U7V8A28;8669;21:53.3
+2141;146;Sumarambu;19;DESKTOP-U7V8A28;8669;50:22.3
+2142;59;Gunung Sari;12;DESKTOP-QFC16ML;2151322;09:10.0
+2143;18;banjit;12;DESKTOP-QFC16ML;2151322;43:46.6
+2144;18;Banjit;12;DESKTOP-QFC16ML;2151322;45:18.3
+2145;15;Muara Sabak;10;DESKTOP-QFC16ML;2151322;10:38.0
+2147;18;Ramayana;12;DESKTOP-QFC16ML;2151322;28:49.6
+2148;102;Sepang;11;DESKTOP-U7V8A28;8669;43:49.3
+2149;4;Karangwangi;2;DESKTOP-QFC16ML;2151322;47:06.9
+2150;36;Bangunan;12;DESKTOP-QFC16ML;2151322;48:04.2
+2151;51;Pelajaran;26;DESKTOP-U7V8A28;8669;57:31.9
+2152;52;Sumber Urip;26;DESKTOP-U7V8A28;8669;06:00.1
+2153;171;Tanjung Kubah;7;DESKTOP-U7V8A28;8669;14:48.8
+2154;172;Sitorang;7;DESKTOP-U7V8A28;8669;37:22.4
+2155;42;Pisang Indah;12;DESKTOP-QFC16ML;2151322;52:19.1
+2157;24;Bandar Jaya;12;DESKTOP-QFC16ML;2151322;38:40.8
+2158;102;Weetebula;33;DESKTOP-QFC16ML;2151322;01:31.5
+2159;73;Padang Kalua;19;DESKTOP-QFC16ML;2151322;23:16.1
+2160;62;Palangka Raya;14;DESKTOP-QFC16ML;2151322;39:01.9
+2161;24;Sumber Bahagia;12;DESKTOP-QFC16ML;2151322;47:43.8
+2162;31;Hiliweto;7;DESKTOP-QFC16ML;2151322;05:50.0
+2163;1;Pematang Panggang;11;DESKTOP-QFC16ML;2151322;59:07.2
+2164;10;Mauwa;79;DESKTOP-U7V8A28;8669;01:44.9
+1167;9;Sebulu;16;DESKTOP-U7V8A28;8669;02:54.6
+309;10;Tarakan;16;DESKTOP-U7V8A28;8669;02:58.4
+310;11;Berau;16;DESKTOP-U7V8A28;8669;03:03.0
+311;12;Bulungan;16;DESKTOP-U7V8A28;8669;03:06.9
+312;13;Kutai;16;DESKTOP-U7V8A28;8669;03:12.6
+313;14;Pasir;16;DESKTOP-U7V8A28;8669;03:19.9
+832;15;Kaili;16;DESKTOP-U7V8A28;8669;03:24.6
+1143;16;Muara Lawa;16;DESKTOP-U7V8A28;8669;03:29.0
+1345;17;Loa Janan;16;DESKTOP-U7V8A28;8669;03:33.2
+1766;19;Lolo;16;DESKTOP-U7V8A28;8669;03:45.1
+2165;20;Tator;16;DESKTOP-U7V8A28;8669;03:58.0
+2166;170;Bandar Baru;7;DESKTOP-U7V8A28;8669;17:23.7
+2167;62;Pangi;14;DESKTOP-QFC16ML;2151322;13:52.6
+2168;14;Rajamaligas;7;DESKTOP-MG98F4F;8990;58:47.2
+2169;3;Rangkas Bitung-Lebak;29;DESKTOP-MG98F4F;8990;16:12.9
+2170;4;Punggul;29;DESKTOP-MG98F4F;8990;23:17.4
+2171;130;Punggul , Badung;33;DESKTOP-MG98F4F;8990;15:05.2
+2172;11;Rangkasbitung-Lebak;34;DESKTOP-MG98F4F;8990;17:05.0
+2173;1;Alam Panjang;80;DESKTOP-MG98F4F;8990;41:32.8
+2174;2;Toli Toli;80;DESKTOP-MG98F4F;8990;49:34.4
+2175;72;Sido Binangun;5;DESKTOP-MG98F4F;8990;51:37.8
+2176;3;Girian;80;DESKTOP-MG98F4F;8990;53:06.3
+2177;101;Maluku;21;DESKTOP-MG98F4F;8990;56:22.2
+2178;73;Kresno Widodo;5;DESKTOP-MG98F4F;8990;53:33.5
+2179;103;Pagar Alam;11;DESKTOP-MG98F4F;8990;55:02.5
+2180;65;Tanjung Karang;15;DESKTOP-MG98F4F;8990;56:18.6
+2181;74;Restu Rahayu;5;DESKTOP-MG98F4F;8990;57:10.3
+2182;104;Bajubang;11;DESKTOP-MG98F4F;8990;59:10.9
+2183;105;Sei Mati;11;DESKTOP-MG98F4F;8990;00:37.9
+2184;106;Sungai Manau;11;DESKTOP-MG98F4F;8990;02:47.0
+2185;4;Salam Buku;80;DESKTOP-MG98F4F;8990;27:24.7
+2186;5;Lumban Gorat;80;DESKTOP-MG98F4F;8990;15:59.7
+2187;12;Pollung;7;DESKTOP-QFC16ML;2151322;32:08.4
+2188;6;Kab. Semarang;80;DESKTOP-MG98F4F;8990;18:26.6
+2189;34;Tikong;21;DESKTOP-QFC16ML;2151322;40:01.6
+2190;24;Sukmajaya Depok Bogor;2;DESKTOP-QFC16ML;2151322;22:02.1
+2191;100;Sei Muka;7;DESKTOP-QFC16ML;2151322;07:17.3
+2192;32;Ratatotok;17;DESKTOP-QFC16ML;2151322;32:54.0
+2193;12;Emplasment PTTN Hutabaru Nangka;7;DESKTOP-QFC16ML;2151322;15:21.1
+2194;15;Lambur;10;DESKTOP-QFC16ML;2151322;36:14.2
+2195;31;Selali;26;DESKTOP-QFC16ML;2151322;11:03.6
+2196;35;Loyok;23;DESKTOP-QFC16ML;2151322;27:14.5
+2197;17;Talang Kabu;26;DESKTOP-QFC16ML;2151322;00:19.2
+2198;81;Seram Bagian Barat;21;DESKTOP-QFC16ML;2151322;36:51.9
+2199;81;Kawa;21;DESKTOP-QFC16ML;2151322;38:03.4
+2200;48;Pulu - Pulu;19;DESKTOP-QFC16ML;2151322;55:18.2
+2201;22;Sadar Sriwijaya;12;DESKTOP-QFC16ML;2151322;22:42.6
+2202;16;Batumarta II;11;DESKTOP-QFC16ML;2151322;37:49.4
+2203;12;Medan Jaya;7;DESKTOP-QFC16ML;2151322;43:58.2
+2204;12;lumban dairi;7;DESKTOP-QFC16ML;2151322;26:54.6
+2205;12;Lumban Dairi;7;DESKTOP-QFC16ML;2151322;27:15.2
+2206;75;Tabang Barat;38;DESKTOP-QFC16ML;2151322;51:55.2
+2207;16;Lumpatan;11;DESKTOP-QFC16ML;2151322;59:10.8
+2208;18;Banyuasin;12;DESKTOP-QFC16ML;2151322;01:47.7
+2209;18;Pakuan Aji;12;DESKTOP-QFC16ML;2151322;01:59.0
+2210;102;Kenari;33;DESKTOP-QFC16ML;2151322;13:26.6
+2211;12;Siringoringo;7;DESKTOP-QFC16ML;2151322;27:52.0
+2212;17;Talang Indah;26;DESKTOP-QFC16ML;2151322;32:40.7
+2213;34;Pringgarata;23;DESKTOP-QFC16ML;2151322;16:07.4
+2214;2;Sarik Alahan Tigo;8;DESKTOP-QFC16ML;2151322;33:52.9
+2215;73;Rappang;19;DESKTOP-QFC16ML;2151322;44:42.0
+2216;55;Batui;18;acer-PC;2151322;52:10.5
+2217;64;Kuaro;16;acer-PC;2151322;14:08.6
+2218;81;Maluku Tengah;21;acer-PC;2151322;30:20.5
+2219;32;Tihuana;21;acer-PC;2151322;31:33.9
+2220;14;Muara Jalai;9;acer-PC;2151322;11:01.4
+87;1;Lebak Bulus;1;acer-PC;2151322;20:43.1
+2222;13;Padang Kunik;8;acer-PC;2151322;29:14.8
+2223;73;Pebulian;19;acer-PC;2151322;50:55.6
+2224;72;Marsaoleh;18;acer-PC;2151322;59:41.7
+2225;72;Bungku Barat;18;acer-PC;2151322;03:58.6
+2226;63;Marabahan;15;acer-PC;2151322;45:55.0
+2227;17;Lubuk Sanai;26;acer-PC;2151322;11:37.4
+2228;18;Lubuklinggau;12;acer-PC;2151322;23:06.4
+2229;64;Awayan;16;acer-PC;2151322;41:54.8
+2230;18;Lampung Timur;12;acer-PC;2151322;04:52.5
+2231;18;Batu Badak;12;acer-PC;2151322;06:54.7
+2232;21;Tampakan;16;acer-PC;2151322;31:01.5
+217;31;Hilisimaetano;7;acer-PC;2151322;53:30.0
+374;34;Leneng;23;acer-PC;2151322;09:20.5
+2233;100;Lombok Tengah;23;acer-PC;2151322;12:40.6
+2234;100;Pugung Raharjo;12;acer-PC;2151322;26:10.1
+2235;100;Permai Indah;12;DESKTOP-MG98F4F;8990;28:55.4
+2236;1;Tanjung Kepayang;11;DESKTOP-MG98F4F;8990;29:02.1
+327;2;Pare - Pare;19;DESKTOP-MG98F4F;8990;01:48.9
+2237;24;Candi Rejo;12;DESKTOP-QFC16ML;2151322;10:16.3
+2238;66;Rantau Indah;9;DESKTOP-MG98F4F;8990;30:11.9
+2239;1;Sengkerek;9;DESKTOP-MG98F4F;8990;44:10.6
+2240;1;We'oe;24;DESKTOP-MG98F4F;8990;01:24.5
+2241;73;Tokke;19;acer-PC;2151322;33:03.7
+375;35;Kembang Kerang;23;acer-PC;2151322;23:38.7
+1825;86;Kampar;9;acer-PC;2151322;35:16.0
+2242;100;Kualu Nenas;9;acer-PC;2151322;36:35.5
+2243;1;Natalea;33;DESKTOP-MG98F4F;8990;18:43.8
+2244;2;Lenek;24;DESKTOP-MG98F4F;8990;26:23.6
+1990;110;Lemo;19;DESKTOP-MG98F4F;8990;27:15.5
+1686;135;Tawau;19;DESKTOP-MG98F4F;8990;25:13.3
+2156;73;Ratte;19;DESKTOP-MG98F4F;8990;39:32.8
+2245;99;Buntu;19;DESKTOP-MG98F4F;8990;41:28.9
+2246;100;Rajawali;12;DESKTOP-QFC16ML;2151322;53:43.3
+2247;12;Cengkareng;1;DESKTOP-QFC16ML;2151322;02:57.7
+2004;48;Way Limau;12;DESKTOP-MG98F4F;8990;13:04.4
+2248;100;Lombok Timur;23;DESKTOP-QFC16ML;2151322;18:32.6
+2249;72;Bajubang;10;DESKTOP-QFC16ML;2151322;06:05.2
+1960;63;Sei. Jambat;10;DESKTOP-QFC16ML;2151322;47:34.5
+2250;120;Montong Sari;23;DESKTOP-QFC16ML;2151322;01:42.8
+2251;81;Popjetur;21;DESKTOP-QFC16ML;2151322;12:47.3
+2252;73;Parepare;19;DESKTOP-QFC16ML;2151322;03:21.3
+2253;101;Kumbung;8;DESKTOP-QFC16ML;2151322;37:58.3
+2254;102;Lunang;8;DESKTOP-QFC16ML;2151322;38:24.5
+2255;53;Serami Baru;26;DESKTOP-QFC16ML;2151322;48:51.3
+2256;78;Tangkiang;18;DESKTOP-QFC16ML;2151322;02:35.2
+2257;79;Banggai;18;DESKTOP-QFC16ML;2151322;04:51.5
+2258;7;Sedayu;80;DESKTOP-MG98F4F;8990;51:11.7
+2259;12;Pematang Siantar;7;DESKTOP-QFC16ML;2151322;05:44.0
+2260;18;Tanjung Sari;12;DESKTOP-QFC16ML;2151322;27:28.1
+2261;103;Pasar Banjit;12;DESKTOP-U7V8A28;8669;05:05.5
+2262;75;Sidogede;5;DESKTOP-U7V8A28;8669;16:45.8
+2263;103;Tarusan;8;DESKTOP-U7V8A28;8669;43:46.3
+2264;54;Bali Nuraga;22;DESKTOP-U7V8A28;8669;07:59.2
+2265;100;Lonthoir;21;DESKTOP-U7V8A28;8669;09:56.7
+2266;37;Tegal Rejo;4;DESKTOP-U7V8A28;8669;53:50.3
+2267;104;Bonjol;8;DESKTOP-U7V8A28;8669;08:16.1
+2268;32;Depok Bogor;2;DESKTOP-QFC16ML;2151322;25:41.6
+2269;18;Kota Bumi;12;DESKTOP-QFC16ML;2151322;35:34.5
+2270;100;Natar Lampung Selatan;12;DESKTOP-QFC16ML;2151322;40:05.4
+2271;49;Antan;13;DESKTOP-QFC16ML;2151322;55:06.4
+2272;100;Lonthoir;21;DESKTOP-QFC16ML;2151322;22:25.5
+2273;76;Sumenep,Kab.Sumenep;5;DESKTOP-U7V8A28;8669;21:32.3
+2274;101;Ganjar Agung;12;DESKTOP-U7V8A28;8669;32:05.8
+2275;159;TELUK PANJI;7;DESKTOP-U7V8A28;8669;36:55.4
+2276;24;Noanemani;37;DESKTOP-U7V8A28;8669;27:58.5
+2277;121;Kuang Busir;23;DESKTOP-U7V8A28;8669;34:20.8
+2278;147;Wanua  Waru;19;DESKTOP-U7V8A28;8669;45:16.5
+2279;130;Sampie;19;DESKTOP-U7V8A28;8669;03:33.2
+2280;301;Jeddah;53;DESKTOP-QFC16ML;2151322;29:34.1
+2281;104;Adijaya;12;DESKTOP-U7V8A28;8669;00:20.2
+2282;11;Elelim;79;DESKTOP-U7V8A28;8669;02:40.9
+2283;111;Betung Kuning;12;DESKTOP-U7V8A28;8669;07:54.1
+2284;77;Bancangan Sambit Ponorogo;5;DESKTOP-QFC16ML;2151322;47:58.9
+2285;112;Budi Aji;12;DESKTOP-U7V8A28;8669;58:42.6
+2286;113;Pandan Surat;12;DESKTOP-U7V8A28;8669;38:59.9
+2287;100;Sorek Satu;9;DESKTOP-U7V8A28;8669;46:30.8
+2288;122;Tente;23;DESKTOP-U7V8A28;8669;24:38.2
+2289;101;Lubuk Gaung;9;DESKTOP-U7V8A28;8669;57:14.7
+2290;2;Paninggahan;8;acer-PC;2151322;26:12.0
+2291;131;Tentang;33;acer-PC;2151322;45:55.0
+2292;100;Ambalutu;7;acer-PC;2151322;40:38.3
+2293;130;Torok;33;acer-PC;2151322;21:19.5
+2294;54;Tanah Rekah;26;acer-PC;2151322;31:18.5
+2295;148;Bangkeng Tabbing;19;acer-PC;2151322;44:50.1
+2296;149;Baru Tancung;19;acer-PC;2151322;18:59.6
+2297;150;Luwu Utara;19;acer-PC;2151322;21:35.4
+2298;151;Rantetayo;19;acer-PC;2151322;37:04.8
+2299;114;Sukamulya;12;acer-PC;2151322;48:06.0
+2300;47;Pante Macassar;27;acer-PC;2151322;03:47.3
+2301;80;Barati;18;DESKTOP-U7V8A28;8669;56:01.1
+2302;73;Harapan Mukti;10;DESKTOP-U7V8A28;8669;20:26.9
+2303;102;Ujung Batu;9;DESKTOP-U7V8A28;8669;00:41.5
+2304;66;Hulu Sungai Utara;15;DESKTOP-U7V8A28;8669;30:00.5
+2305;55;Padang Siring;26;DESKTOP-U7V8A28;8669;09:09.4
+2306;115;Kecubung Jaya;12;DESKTOP-U7V8A28;8669;21:31.5
+2307;103;Bangko Jaya;9;DESKTOP-U7V8A28;8669;00:38.6
+2308;173;Aek Napultak;7;DESKTOP-U7V8A28;8669;03:32.3
+2309;107;Markisa;11;acer-PC;2151322;29:10.1
+2310;50;Beloyang;13;acer-PC;2151322;03:58.1
+2311;56;Kasuk Baru;26;acer-PC;2151322;22:58.5
+2312;57;Padang Jati;26;acer-PC;2151322;29:03.3
+2313;90;Ranomeeto;20;DESKTOP-U7V8A28;8669;46:21.4
+2314;58;Beringin Datar;26;DESKTOP-U7V8A28;8669;59:58.7
+2315;108;Perjaya;11;DESKTOP-U7V8A28;8669;04:23.0
+2316;59;Retak Mudik;26;DESKTOP-U7V8A28;8669;39:25.8
+2317;60;Muara Tetap;26;DESKTOP-U7V8A28;8669;46:57.6
+2318;74;Lawang Agung;10;DESKTOP-U7V8A28;8669;03:26.8
+2319;92;Cengkong;2;DESKTOP-QFC16ML;2151322;17:31.1
+2320;100;Air Tawar;8;DESKTOP-U7V8A28;8669;53:13.4
+2321;61;Talang Tais;26;DESKTOP-U7V8A28;8669;32:36.7
+2322;65;Ujoh Bilang;16;acer-PC;2151322;58:55.5
+2323;78;Bungkuk;5;acer-PC;2151322;01:53.4
+2324;56;Singaraja;22;acer-PC;2151322;45:17.6
+2325;12;Sarmi;79;acer-PC;2151322;48:55.0
+2327;116;Wiralaga;12;DESKTOP-U7V8A28;8669;06:21.6
+2328;174;Aek Simanat;7;DESKTOP-U7V8A28;8669;32:58.7
+2329;62;Semelako;26;DESKTOP-U7V8A28;8669;23:36.0
+2330;100;KEPRI;9;acer-PC;2151322;30:23.7
+2331;104;Tanjungpinang;9;acer-PC;2151322;31:57.6
+2332;175;Sei Daun;7;acer-PC;2151322;38:58.1
+2333;11;Lenteng Agung;1;acer-PC;2151322;08:59.0
+2221;11;Jagakarsa;1;acer-PC;2151322;09:15.6
+2334;120;Pabatu;7;acer-PC;2151322;36:00.3
+2335;120;Buntu Turunan;7;acer-PC;2151322;50:30.6
+2336;109;Anyar;11;DESKTOP-U7V8A28;8669;48:41.2
+2337;13;Jakarta Selatan;1;DESKTOP-QFC16ML;2151322;14:56.1
+2338;117;Pauh Tanjung Iman;12;DESKTOP-QFC16ML;2151322;42:59.0
+2339;118;Onoharjo;12;acer-PC;2151322;41:15.7
+2340;63;Bengkulu Utara;26;acer-PC;2151322;32:02.5
+2341;66;Lhoksukon;6;acer-PC;2151322;09:30.5
+2342;100;Pematang Sapat;9;acer-PC;2151322;50:29.8
+2343;100;Batu Raja;12;acer-PC;2151322;58:17.9
+2344;64;Gunung Ayu;26;acer-PC;2151322;03:51.1
+2345;105;Seberang Taluk;9;acer-PC;2151322;08:44.6
+2346;106;Riau;9;acer-PC;2151322;11:56.2
+2347;20;Tanjungpandan;35;acer-PC;2151322;22:32.1
+2348;21;Bangka Belitung;35;acer-PC;2151322;24:38.4
+2349;56;Santong Barat;24;acer-PC;2151322;52:45.7
+2350;123;Plampang;23;acer-PC;2151322;59:18.2
+2351;91;Waonu;20;acer-PC;2151322;05:41.2
+2352;99;Lampung Selatan;12;acer-PC;2151322;50:12.9
+2354;105;Sumatera Barat;8;DESKTOP-QFC16ML;2151322;07:01.3
+2355;92;Lauru;20;DESKTOP-QFC16ML;2151322;14:16.6
+2356;93;Sulawesi Tenggara;20;DESKTOP-QFC16ML;2151322;18:35.9
+2357;1;Hutabulu;7;DESKTOP-CHACMKN;8990;03:55.0
+2358;1;Way Isem;12;DESKTOP-CHACMKN;8990;27:21.2
+2359;1;Air Hitam;16;DESKTOP-CHACMKN;8990;54:50.2
+2360;2;Tanjungpinang;9;DESKTOP-CHACMKN;8990;26:27.7
+2361;106;Lalan;8;DESKTOP-QFC16ML;2151322;49:01.2
+2362;11;Pangwa;6;DESKTOP-QFC16ML;2151322;39:41.1
+2363;75;Desa Danau;10;DESKTOP-QFC16ML;2151322;23:17.8
+2364;120;Buluduri;7;DESKTOP-QFC16ML;2151322;56:03.9
+2365;100;Ratnakhaton;12;DESKTOP-QFC16ML;2151322;12:16.5
+2366;105;Wono Agung;12;DESKTOP-QFC16ML;2151322;23:15.5
+2367;100;Daya Murni;12;DESKTOP-QFC16ML;2151322;05:01.5
+2368;93;Pancoran Mas Depok Bogor;2;DESKTOP-QFC16ML;2151322;40:03.3
+2369;110;Inderalaya;11;DESKTOP-QFC16ML;2151322;16:14.5
+1933;96;Ogan Ilir;11;DESKTOP-QFC16ML;2151322;18:59.2
+2370;110;Karang Cahaya;11;DESKTOP-QFC16ML;2151322;32:59.8
+2371;57;Tenganan;22;DESKTOP-QFC16ML;2151322;44:17.5
+2372;18;Tegal Ombo;12;DESKTOP-QFC16ML;2151322;47:39.4
+2373;120;Rantauprapat;7;DESKTOP-QFC16ML;2151322;12:03.7
+2374;119;Menggala;12;DESKTOP-QFC16ML;2151322;27:38.2
+1707;44;Beureugang;6;DESKTOP-CHACMKN;8990;08:02.1
+2375;51;Sungai Kakap;13;DESKTOP-CHACMKN;8990;49:01.3
+2376;99;Rantau Kasai;9;DESKTOP-CHACMKN;8990;06:59.4
+2377;1;Maget - B;2;DESKTOP-CHACMKN;8990;26:39.5
+2378;176;Natumingka;7;DESKTOP-QFC16ML;2151322;21:16.6
+2379;86;Purwogondo;3;DESKTOP-QFC16ML;2151322;56:23.4
+2380;94;Wora;2;DESKTOP-CHACMKN;8990;23:36.9
+2381;1;Bah Sidua Dua;7;DESKTOP-CHACMKN;8990;55:36.1
+2382;76;Jambi;10;DESKTOP-QFC16ML;2151322;26:49.1
+2383;120;Sinar Tanjung;12;DESKTOP-QFC16ML;2151322;15:22.6
+2384;107;Pekan Baru;9;DESKTOP-QFC16ML;2151322;27:51.3
+2385;120;Lae Hole;7;DESKTOP-QFC16ML;2151322;53:14.5
+2386;66;Seruyan;14;DESKTOP-QFC16ML;2151322;31:43.4
+2387;87;Sukoharjo II;3;DESKTOP-QFC16ML;2151322;47:24.5
+2388;109;Parsunian;7;DESKTOP-QFC16ML;2151322;14:56.0
+2389;102;Dokulamo;21;DESKTOP-QFC16ML;2151322;25:38.5
+2390;97;Wuwuk;17;DESKTOP-QFC16ML;2151322;37:43.7
+2391;110;Sukamukti;11;DESKTOP-QFC16ML;2151322;56:00.2
+2392;57;Longko;24;DESKTOP-QFC16ML;2151322;15:05.8
+2394;65;Bukit Peninjauan I;26;DESKTOP-CHACMKN;8990;27:58.6
+2395;121;Sribawono;12;DESKTOP-QFC16ML;2151322;05:06.9
+2396;130;Paringgonan;7;DESKTOP-QFC16ML;2151322;00:47.5
+2397;108;Geringging Baru;9;DESKTOP-QFC16ML;2151322;15:41.9
+2398;4;Ungaran;3;DESKTOP-QFC16ML;2151322;57:50.8
+2399;66;Talang Alai;26;acer-PC;2151322;59:55.9
+2401;152;Lamasi;19;DESKTOP-QFC16ML;2151322;14:37.4
+2402;25;Teminabuan;37;DESKTOP-QFC16ML;2151322;21:00.8
+2404;67;Bungkang;15;DESKTOP-QFC16ML;2151322;17:34.0
+2405;82;Belitang;12;DESKTOP-QFC16ML;2151322;27:18.6
+2406;123;Blitang;12;DESKTOP-QFC16ML;2151322;30:45.3
+2407;68;Murung Abuin;15;DESKTOP-QFC16ML;2151322;36:38.6
+2408;111;Margo Mulyo;11;DESKTOP-QFC16ML;2151322;44:09.3
+2409;107;Pinang Awan;8;DESKTOP-QFC16ML;2151322;19:30.5
+2410;112;Patila;11;DESKTOP-QFC16ML;2151322;49:05.1
+2411;109;Teluk Paman;9;DESKTOP-QFC16ML;2151322;00:30.5
+2412;95;Bandung Barat;2;acer-PC;2151322;18:40.8
+2413;177;Batu Binumbun;7;acer-PC;2151322;27:01.5
+2414;12;Sumatera Utara;7;acer-PC;2151322;29:22.2
+2415;69;Tapin;15;acer-PC;2151322;53:48.0
+2416;153;Malakiri;19;DESKTOP-QFC16ML;2151322;38:16.0
+2417;1;Br. Medahan;22;DESKTOP-U7V8A28;8990;47:47.5
+2418;1;Rejowinangun;15;DESKTOP-U7V8A28;8990;02:39.2
+2419;10;Mekarsari;12;DESKTOP-U7V8A28;8990;36:01.0
+2420;98;Tenggara;17;DESKTOP-QFC16ML;2151322;03:11.8
+2422;108;Aur Tajungkang;8;DESKTOP-QFC16ML;2151322;15:01.5
+2423;48;Dili;27;DESKTOP-QFC16ML;2151322;25:02.4
+2424;124;Ganti;12;DESKTOP-QFC16ML;2151322;43:37.2
+2425;88;Ganti Warno;3;DESKTOP-QFC16ML;2151322;47:49.5
+2426;49;Covalima;27;DESKTOP-QFC16ML;2151322;05:16.6
+2427;2;Seririt;22;DESKTOP-U7V8A28;8990;25:52.4
+2428;94;Timor Leste;28;DESKTOP-U7V8A28;8990;35:50.9
+2429;1;Penggentungan;26;DESKTOP-U7V8A28;8990;22:09.7
+2430;1;Kota Makassar;19;DESKTOP-U7V8A28;8990;34:36.7
+2431;67;Suka Merindu ;26;DESKTOP-QFC16ML;2151322;55:47.3
+2432;1;Muara Bulian;10;DESKTOP-U7V8A28;8990;03:11.2
+2433;111;Pamibak;19;DESKTOP-QFC16ML;2151322;50:21.3
+2434;154;Sulawesi Selatan;19;DESKTOP-QFC16ML;2151322;57:43.7
+2435;111;Sungai Dusun;9;DESKTOP-QFC16ML;2151322;25:51.9
+2436;125;Totokaton;12;DESKTOP-QFC16ML;2151322;50:17.7
+2437;100;Muara Kandis;8;DESKTOP-QFC16ML;2151322;51:26.9
+2438;67;Peudaya;6;DESKTOP-QFC16ML;2151322;52:39.3
+2439;70;Kayakah;15;DESKTOP-QFC16ML;2151322;53:24.2
+2440;71;Murung Kupang;15;DESKTOP-QFC16ML;2151322;54:02.3
+2441;126;Mekar Sari ;12;DESKTOP-QFC16ML;2151322;55:05.7
+2443;127;Siswo Bangun;12;DESKTOP-QFC16ML;2151322;49:57.1
+2444;8;Kalimantan Utara;0;DESKTOP-QFC16ML;2151322;52:49.8
+2445;68;Idi;6;DESKTOP-QFC16ML;2151322;39:23.5
+2446;128;Tegal Rejo;12;DESKTOP-QFC16ML;2151322;40:15.9
+2447;129;Gisting Jaya;12;DESKTOP-QFC16ML;2151322;40:35.1
+2448;109;Muara Kandis;8;DESKTOP-QFC16ML;2151322;41:30.7
+2449;110;Sungai Beringin;8;DESKTOP-QFC16ML;2151322;41:48.5
+2450;100;Padang-padang;19;DESKTOP-QFC16ML;2151322;51:37.9
+2451;100;Padang - padang;19;DESKTOP-QFC16ML;2151322;52:04.3
+2452;77;Sanggaran Agung;10;DESKTOP-QFC16ML;2151322;53:14.0
+2453;78;Air Tenang;10;DESKTOP-QFC16ML;2151322;53:52.7
+2454;79;Sungai Jering;10;DESKTOP-QFC16ML;2151322;54:16.9
+2455;58;Penyaringan;22;DESKTOP-QFC16ML;2151322;55:05.7
+2456;155;Maruang;19;DESKTOP-QFC16ML;2151322;55:51.9
+2457;156;Padang - Padang;19;DESKTOP-QFC16ML;2151322;45:22.6
+2458;80;Pelawan;10;DESKTOP-QFC16ML;2151322;31:09.2
+2459;113;Trikarya;11;DESKTOP-QFC16ML;2151322;36:08.5
+2460;110;Makale;19;DESKTOP-QFC16ML;2151322;54:01.2
+2462;157;To' Katimbang;19;DESKTOP-QFC16ML;2151322;09:29.1
+2463;130;Panaragan Jaya;12;DESKTOP-QFC16ML;2151322;35:26.4
+2464;69;Lueng Bimba;6;DESKTOP-QFC16ML;2151322;27:28.0
+2465;70;Aceh;6;DESKTOP-QFC16ML;2151322;36:27.9
+2466;81;Merlung;10;DESKTOP-QFC16ML;2151322;27:42.1
+2467;82;Lempur Tengah;10;DESKTOP-QFC16ML;2151322;51:00.4
+2468;114;OKI;11;DESKTOP-QFC16ML;2151322;57:52.1
+2469;131;Bagelen;12;DESKTOP-QFC16ML;2151322;16:30.1
+2470;115;Sumatera Selatan;11;DESKTOP-QFC16ML;2151322;54:21.4
+2471;72;Bati-Bati;15;DESKTOP-QFC16ML;2151322;11:59.7
+2472;94;Lapulu ;20;DESKTOP-QFC16ML;2151322;52:28.9
+2473;13;Numfor;79;DESKTOP-QFC16ML;2151322;16:35.0
+2474;26;Numfor;37;DESKTOP-QFC16ML;2151322;21:16.9
+2475;66;Kota Bangun;16;DESKTOP-QFC16ML;2151322;02:03.2
+2478;67;Kutai Kartanegara;16;DESKTOP-QFC16ML;2151322;07:04.8
+2479;68;Kalimantan Timur;16;DESKTOP-QFC16ML;2151322;07:50.4
+2480;68;Bengkulu;26;DESKTOP-QFC16ML;2151322;45:58.5
+2481;69;Lubuk Mukti;26;DESKTOP-QFC16ML;2151322;47:32.5
+2482;106;Sindang Pagar;12;DESKTOP-QFC16ML;2151322;52:10.8
+2484;27;Pasang Kaliba;37;DESKTOP-QFC16ML;2151322;22:22.1
+2486;100;Pengkores;23;DESKTOP-QFC16ML;2151322;49:49.3
+2487;130;Sinartanjung;12;DESKTOP-QFC16ML;2151322;00:20.3
+403;21;Dili;27;DESKTOP-CHACMKN;8990;29:06.9
+276;25;Subik;12;DESKTOP-QFC16ML;2151322;49:40.6
+2488;62;Puruk Cahu;14;DESKTOP-QFC16ML;2151322;33:20.4
+2489;67;Kalimantan Tengah;14;DESKTOP-QFC16ML;2151322;35:13.6
+2490;68;Murung Raya;14;DESKTOP-QFC16ML;2151322;38:09.4
+2491;83;Tanah Periuk;10;DESKTOP-QFC16ML;2151322;45:26.4
+2492;100;Simpang Penawar;12;DESKTOP-QFC16ML;2151322;02:11.9
+2493;71;Tualang Cut;6;DESKTOP-QFC16ML;2151322;21:52.4
+2494;70;Maras;26;DESKTOP-QFC16ML;2151322;38:34.4
+2495;132;Lampung Utara;12;DESKTOP-QFC16ML;2151322;58:03.2
+2496;59; Werdhi Agung;22;DESKTOP-QFC16ML;2151322;09:04.6
+2497;99;Sulawesi Utara;17;DESKTOP-QFC16ML;2151322;18:01.9
+2498;96;Malimping;2;DESKTOP-QFC16ML;2151322;27:38.1
+2499;12;Malingping;34;DESKTOP-QFC16ML;2151322;30:27.8
+2500;132;Wudu;33;DESKTOP-QFC16ML;2151322;01:32.2
+2501;116;Darat;11;DESKTOP-QFC16ML;2151322;26:45.2
+2502;24;Sendang Agung;12;DESKTOP-QFC16ML;2151322;27:03.4
+2503;112;Tj. Alai Kampar;9;DESKTOP-QFC16ML;2151322;32:11.9
+2504;21;Manggar;35;DESKTOP-QFC16ML;2151322;50:58.1
+2505;22;Belitung Timur;35;DESKTOP-QFC16ML;2151322;53:03.3
+2506;117;Sumatera Selatan;11;DESKTOP-QFC16ML;2151322;10:52.1
+2507;133;Sanam;33;DESKTOP-QFC16ML;2151322;25:48.7
+2508;73;Barabat;15;DESKTOP-QFC16ML;2151322;26:38.9
+2509;133;Bandar Agung;12;DESKTOP-QFC16ML;2151322;27:24.2
+2510;134;Bandar Abung;12;DESKTOP-QFC16ML;2151322;47:46.0
+2511;74;Barabai;15;DESKTOP-QFC16ML;2151322;53:01.3
+2512;80;Baradatu;12;DESKTOP-QFC16ML;2151322;46:34.9
+2513;120;Riding;11;DESKTOP-QFC16ML;2151322;52:16.9
+2514;135;Srikaton;12;DESKTOP-QFC16ML;2151322;36:41.2
+2515;120;Paringgonan;7;DESKTOP-QFC16ML;2151322;26:35.8
+2516;18;Toto Mulyo;12;DESKTOP-QFC16ML;2151322;38:28.3
+2517;102;Mataloko;33;DESKTOP-QFC16ML;2151322;46:40.3
+2518;11;Mata Ie ;6;DESKTOP-QFC16ML;2151322;22:47.3
+2519;34;Togoreba Sungi;21;DESKTOP-QFC16ML;2151322;10:29.8
+2520;136;Sukabanjar;12;DESKTOP-QFC16ML;2151322;30:49.9
+2521;18;Sumber Sari;12;DESKTOP-QFC16ML;2151322;44:30.5
+2522;100;Bunut Seberang;12;DESKTOP-QFC16ML;2151322;53:44.5
+2523;9;Pembeliangan;0;DESKTOP-QFC16ML;2151322;02:50.5
+2524;69;Sungai Aji Kuning;16;DESKTOP-QFC16ML;2151322;54:39.2
+2525;113;Parsaoran Nauli;9;DESKTOP-QFC16ML;2151322;24:18.9
+2526;158;Bonepute;19;DESKTOP-QFC16ML;2151322;53:40.6
+2527;100;Borgo;17;DESKTOP-QFC16ML;2151322;43:12.7
+2528;134;Papela;33;DESKTOP-QFC16ML;2151322;10:17.8
+2529;135;Rotendao;33;DESKTOP-QFC16ML;2151322;12:36.1
+2530;71;Mukomuko;26;DESKTOP-QFC16ML;2151322;29:40.5
+2531;118;Merpang;11;DESKTOP-QFC16ML;2151322;19:49.6
+2532;136;Macope;33;DESKTOP-QFC16ML;2151322;03:19.6
+2533;137;Gunung Labuhan;12;DESKTOP-QFC16ML;2151322;19:24.6
+2534;137;Maumbi;33;DESKTOP-QFC16ML;2151322;49:00.2
+2535;72;Bungin Tambun;26;DESKTOP-QFC16ML;2151322;42:39.8
+2536;138;Gunung Madu;12;DESKTOP-QFC16ML;2151322;53:23.9
+2537;84;Pelabuhan Dagang;10;DESKTOP-QFC16ML;2151322;03:32.1
+2538;23;Penyak;35;DESKTOP-QFC16ML;2151322;10:52.3
+2539;159;Pattedong;19;DESKTOP-QFC16ML;2151322;21:33.4
+2540;139;Rama Indra;12;DESKTOP-QFC16ML;2151322;21:58.5
+2541;120;Kebun Binanga;7;DESKTOP-QFC16ML;2151322;26:19.9
+2543;100;Babat;11;DESKTOP-QFC16ML;2151322;45:25.2
+2544;121;Lunggaian;11;DESKTOP-QFC16ML;2151322;52:09.9
+2545;124;Bangket Tengak;23;DESKTOP-QFC16ML;2151322;52:54.5
+2546;121;Pakuan Ratu;11;DESKTOP-QFC16ML;2151322;54:17.3
+2547;121;Pujiharjo;11;DESKTOP-QFC16ML;2151322;55:07.7
+2548;31;Teluk Kayu Putih;10;DESKTOP-QFC16ML;2151322;00:31.2
+2549;75;Parenggean;15;DESKTOP-QFC16ML;2151322;16:59.1
+2081;128;Nadda;33;DESKTOP-CHACMKN;8990;21:58.2
+2065;115;Repok Prine;23;DESKTOP-CHACMKN;8990;10:10.5
+2551;1;Moanemani;79;DESKTOP-CHACMKN;8990;26:16.2
+1705;2;Gedung Raja;12;DESKTOP-CHACMKN;8990;07:14.1
+1709;3;Pasar Banjit;12;DESKTOP-CHACMKN;8990;07:39.9
+1859;12;Sido Binangun;12;DESKTOP-CHACMKN;8990;08:13.8
+1710;6;Bangunan;12;DESKTOP-CHACMKN;8990;08:36.8
+1754;26;Kotaagung;12;DESKTOP-CHACMKN;8990;09:05.9
+2393;120;Kalirejo;12;DESKTOP-CHACMKN;8990;10:28.6
+1543;95;Restu Rahayu;12;DESKTOP-CHACMKN;8990;12:59.0
+2552;14;Asam Jawa;1;DESKTOP-CHACMKN;8990;14:18.8
+2055;65;Sinar Tanjung;12;DESKTOP-CHACMKN;8990;18:00.0
+2553;99;Sinar Rejeki;12;DESKTOP-CHACMKN;8990;20:47.7
+2554;101;P. Susu;17;DESKTOP-CHACMKN;8990;22:48.9
+2008;9;Biak Numfor;79;DESKTOP-CHACMKN;8990;24:10.8
+2555;10;Loalo;79;DESKTOP-CHACMKN;8990;24:36.7
+1899;93;Banyuasin;11;DESKTOP-CHACMKN;8990;27:09.9
+2556;35;Bangko-Jambi;10;DESKTOP-QFC16ML;2151322;41:10.6
+1164;73;OKU Timur;11;DESKTOP-QFC16ML;2151322;56:08.4
+2557;17;Parda Suka;26;DESKTOP-QFC16ML;2151322;30:58.2
+2558;1;Pulu - Pulu';19;DESKTOP-CHACMKN;8990;56:50.7
+2559;85;Mampun Baru;10;DESKTOP-QFC16ML;2151322;07:15.7
+2560;89;Teluk Singkawang;10;DESKTOP-QFC16ML;2151322;57:56.8
+2058;67;Sukobinangun;12;DESKTOP-QFC16ML;2151322;20:54.1
+2561;100;Pematang Panggang Oki;12;DESKTOP-QFC16ML;2151322;41:49.7
+2562;121;Sumbul;7;DESKTOP-QFC16ML;2151322;08:03.3
+2563;18;Sukoharjo III;12;DESKTOP-QFC16ML;2151322;51:20.6
+2564;12;Pea Janggut;7;DESKTOP-QFC16ML;2151322;07:33.3
+2565;13;Tabing;8;DESKTOP-QFC16ML;2151322;00:24.6
+2566;12;PT. Torganda;7;DESKTOP-QFC16ML;2151322;04:36.5
+2567;32;Bojonggede, Bogor;2;DESKTOP-QFC16ML;2151322;44:21.0
+2568;178;Kota Batak;7;DESKTOP-QFC16ML;2151322;14:59.2
+2569;50;Kamenasa;27;DESKTOP-QFC16ML;2151322;08:28.4
+2570;51;Kamenasa Timor Timur;27;DESKTOP-QFC16ML;2151322;08:56.7
+2571;99;Uwuran Dua;17;DESKTOP-QFC16ML;2151322;13:51.8
+2572;34;Oba;21;DESKTOP-QFC16ML;2151322;21:17.2
+2573;140;Mekar Asri;12;DESKTOP-QFC16ML;2151322;58:34.2
+2574;31;Koto Tengah;10;DESKTOP-QFC16ML;2151322;13:25.8
+2575;141;Panaragan;12;DESKTOP-QFC16ML;2151322;15:35.0
+2576;123;Perigi;11;DESKTOP-QFC16ML;2151322;22:13.5
+2577;18;Muara Tenang;12;acer-PC;2151322;46:50.3
+2578;18;Kenali;12;acer-PC;2151322;05:56.2
+2579;142;Raman Utara;12;DESKTOP-283P160;123;14:59.9
+2580;143;Kegeringan;33;DESKTOP-283P160;123;48:36.7
+2581;144;Kibang Budi Jaya;33;DESKTOP-283P160;123;56:41.9
+2582;144;Pasar Lubuk Jambi;33;DESKTOP-283P160;123;57:45.9
+2583;145;Sumber Agung;33;DESKTOP-283P160;123;08:37.5
+2584;145;Balerejo;33;DESKTOP-283P160;123;18:37.0
+2585;146;Sugihwaras;33;DESKTOP-283P160;123;37:43.8
+2586;147;Pulau Baru;33;DESKTOP-283P160;123;48:31.9
+2587;148;Tete Induk;33;DESKTOP-283P160;123;21:18.7
+2588;149;Sei Hanyo;33;DESKTOP-283P160;123;11:02.4
+2589;150;Tajur;33;DESKTOP-283P160;123;15:55.7
+2590;151;Beka;33;DESKTOP-283P160;123;57:20.8
+2591;100;Sipitu pitu;7;DESKTOP-QFC16ML;2151322;45:43.6
+2592;152;Lela;33;DESKTOP-283P160;123;11:39.1
+2593;153;Pujoasri;33;DESKTOP-283P160;123;05:59.9
+2594;154;Pahayu Jaya;33;DESKTOP-283P160;123;07:43.4
+2595;155;Bangun Jaya;33;DESKTOP-283P160;123;38:27.2
+2596;156;Taman Cari;33;DESKTOP-283P160;123;30:25.6
+2597;157;Sulawesi Tengah;33;DESKTOP-283P160;123;10:22.1
+2598;158;Karta;33;DESKTOP-283P160;123;46:17.6
+2599;159;Pulau Burung;33;DESKTOP-283P160;123;23:24.3
+2600;160;Mulia Agung;33;DESKTOP-283P160;123;28:01.7
+2601;143;Tegalbinangun;12;DESKTOP-QFC16ML;2151322;35:47.2
+2602;1;Tanjung Agung;11;DESKTOP-QFC16ML;2151322;00:34.2
+2603;73;Pondok Baru;26;DESKTOP-QFC16ML;2151322;35:51.5
+2604;1;Kepala Curup;26;DESKTOP-QFC16ML;2151322;42:51.5
+2605;160;Mulyasari;33;DESKTOP-283P160;123;43:36.0
+2606;161;Rajabasa Jaya;33;DESKTOP-283P160;123;45:18.8
+2607;18;Sumbergede;12;DESKTOP-QFC16ML;2151322;17:19.7
+2608;162;Mokupa;33;DESKTOP-283P160;123;43:10.8
+2609;163;Passippo;33;DESKTOP-283P160;123;04:13.9
+2610;17;Penarik;26;acer-PC;2151322;36:53.1
+2611;18;Negara Batin;12;acer-PC;2151322;33:28.6
+2612;145;Kibeng Yekti Jaya;12;acer-PC;2151322;18:13.8
+2613;70;Talisayan;16;acer-PC;2151322;30:56.4
+2614;124;Pangkalan Balai;11;acer-PC;2151322;03:43.6
+2615;90;Pekan Gedang;10;acer-PC;2151322;15:48.2
+2616;164;Rowang;33;acer-PC;2151322;20:08.6
+2617;146;Adiluwih;12;acer-PC;2151322;27:00.1
+2618;18;Pagar Baru;12;acer-PC;2151322;44:22.0
+2619;164;Senaung;33;DESKTOP-283P160;123;38:59.5
+2620;165;Mukomuko;88;DESKTOP-283P160;123;52:01.3
+2621;165;Suka Pindah;33;DESKTOP-283P160;123;59:46.9
+2622;166;Munggu;88;DESKTOP-283P160;123;23:57.6
+2623;166;Lematang Ilir;33;DESKTOP-283P160;123;53:05.8
+2624;167;Apahapsili;33;DESKTOP-283P160;123;58:54.8
+2625;168;Payang;33;DESKTOP-283P160;123;57:31.0
+2626;169;Terusan  Menang;33;DESKTOP-283P160;123;44:54.9
+2627;170;Wele;33;DESKTOP-283P160;123;30:50.7
+2628;170;Ongka;33;DESKTOP-283P160;123;50:29.3
+2629;170;P. Penanian;33;DESKTOP-283P160;123;57:27.8
+2630;171;Air Menganyau;33;DESKTOP-283P160;123;17:15.5
+2631;172;Dwi Warga Tunggal Jaya;33;DESKTOP-283P160;123;09:53.0
+2632;173;Negeri  Kaya;33;DESKTOP-283P160;123;03:15.8
+2633;174;Tanjonge;33;DESKTOP-283P160;123;19:15.5
+2634;174;Durian Tarung;33;DESKTOP-283P160;123;26:47.5
+2635;175;Terap;33;DESKTOP-283P160;123;22:17.2
+2636;176;Ajallasse;33;DESKTOP-283P160;123;56:42.2
+2637;177;Bah Sidua dua;33;DESKTOP-283P160;123;05:28.6
+2638;177;Lohong;33;DESKTOP-283P160;123;11:11.1
+2639;178;Talang Boseng;33;DESKTOP-283P160;123;22:20.2
+2640;179;Durian Kilangan;33;DESKTOP-283P160;123;10:23.8
+2641;180;Panangsak;33;DESKTOP-GPBDJOJ;123;26:09.1
+2642;181;Surau Tinggi;33;DESKTOP-GPBDJOJ;123;02:40.1
+2643;182;Haloban;33;DESKTOP-GPBDJOJ;123;38:11.2
+2644;183;Pematang Riding;33;DESKTOP-GPBDJOJ;123;00:47.7
+2645;184;Timbulun;33;DESKTOP-GPBDJOJ;123;43:04.6
+2646;185;Sungai Bahar;33;DESKTOP-GPBDJOJ;123;05:06.0
+2647;186;Pakanbaru;33;LAPTOP-LOI2A4L1;123;21:23.8
+2648;187;Jayaloka;33;LAPTOP-LOI2A4L1;123;19:23.2
+2649;188;Ladang Panjang;33;LAPTOP-LOI2A4L1;123;29:13.5
+2650;189;Ampana;33;LAPTOP-LOI2A4L1;123;38:23.2
+2651;190;Tanjung Beringin;33;LAPTOP-LOI2A4L1;123;02:29.4
+2652;191;Niukbaun;33;LAPTOP-LOI2A4L1;123;18:46.7
+2653;192;Sukamarga;33;LAPTOP-LOI2A4L1;123;26:58.1
+2654;193;Nopuya;33;DESKTOP-283P160;123;23:23.6
+2655;194;Mopuya;33;DESKTOP-283P160;123;12:21.5
+2656;195;Lubuk Baja;33;DESKTOP-283P160;123;32:16.8
+2657;196;Gading Tua;33;DESKTOP-283P160;123;42:19.4
+2658;197;Tindoli;33;DESKTOP-283P160;123;22:07.4
+2659;198;Tanjung Sakti;33;DESKTOP-283P160;123;35:50.1
+2660;199;Padrah;33;DESKTOP-283P160;123;42:26.5
+2661;200;Pandrah;33;DESKTOP-283P160;123;43:04.7
+2662;201;Batang Tian;33;DESKTOP-283P160;123;24:23.9
+2663;202;Gedung Nyapah;33;DESKTOP-283P160;123;54:25.4
+2664;203;Seruway;33;DESKTOP-283P160;123;39:01.4
+2665;204;Cahaya Negeri;33;DESKTOP-283P160;123;59:39.7
+2666;205;Purwotani;33;DESKTOP-GPBDJOJ;3;38:49.1
+2667;206;rantau kadam;33;DESKTOP-GPBDJOJ;3;53:57.8
+2668;207;tanjung alam;33;DESKTOP-GPBDJOJ;3;31:00.3
+2669;208;Taba Terunjam;33;DESKTOP-GPBDJOJ;3;42:59.2
+2670;125;Ogan Komering Ulu Timur;11;DESKTOP-QFC16ML;2151322;32:46.6
+2671;209;Damuli Kebun;33;DESKTOP-EVO3DT8;3;14:38.2
+2672;210;Batu Sura;33;DESKTOP-283P160;123;58:47.0
+2673;211;Kota;33;DESKTOP-283P160;123;22:44.8
+2674;212;Karya Makmur;33;DESKTOP-283P160;123;41:42.4
+2675;213;Karang Dapo;33;DESKTOP-283P160;123;46:54.6
+2676;110;Talang Padang;8;DESKTOP-GPBDJOJ;3;03:07.6
+2677;120;Sukadana;7;DESKTOP-GPBDJOJ;3;28:01.5
+2678;12;Messawa;38;DESKTOP-GPBDJOJ;3;13:09.3
+2679;214;Parsibarungan;33;DESKTOP-283P160;123;02:24.6
+2680;215;Setiang;33;DESKTOP-283P160;123;02:20.7
+2681;91;Mandiangin;10;DESKTOP-QFC16ML;2151322;30:11.3
+2682;216;Mungguk Ombak;33;DESKTOP-283P160;123;06:18.6
+2683;217;Negara Ratu;33;DESKTOP-283P160;123;44:22.2
+2684;147;Adipuro;12;DESKTOP-GPBDJOJ;3;10:17.6
+2685;74;Taba Santing;26;DESKTOP-QFC16ML;2151322;52:00.5
+2686;92;Muara Kumpeh;10;DESKTOP-GPBDJOJ;3;57:15.5
+1741;18;Desa Bangun Rejo;16;DESKTOP-QFC16ML;2151322;47:36.7
+2688;120;Sabungan Jae;7;DESKTOP-GPBDJOJ;3;48:12.2
+2689;100;Panggentungan;19;DESKTOP-QFC16ML;2151322;10:35.0
+2690;179;Tanjungbalai;7;DESKTOP-QFC16ML;2151322;01:51.6
+2691;218;Aek Nauli;33;DESKTOP-283P160;123;13:07.9
+2692;111;Paraman Ampalu;8;DESKTOP-GPBDJOJ;3;54:07.4
+2693;219;Desa Pawoh;33;DESKTOP-283P160;123;52:56.1
+2694;220;Tanjung Raja;33;DESKTOP-283P160;123;59:09.3
+2695;221;Semandino;33;DESKTOP-283P160;123;10:27.0
+2696;222;Lampur;33;DESKTOP-283P160;123;40:36.3
+2697;223;Alabio;33;DESKTOP-283P160;123;10:56.3
+2698;224;Tanjung Serang;33;DESKTOP-283P160;123;54:02.4
+1855;1;Cempaka;11;DESKTOP-QFC16ML;2151322;40:44.6
+2699;114;Lipat Kain;9;DESKTOP-GPBDJOJ;3;09:23.8
+2700;225;Pagar Bukit;33;DESKTOP-283P160;123;18:12.8
+2701;180;Pangasean;7;DESKTOP-QFC16ML;2151322;33:36.0
+2702;226;Lewa;33;DESKTOP-GPBDJOJ;3;13:40.3
+2703;12;Pardomuan;7;DESKTOP-QFC16ML;2151322;27:08.3
+2704;227;Kletek Rainain;33;DESKTOP-QFC16ML;2151322;02:40.1
+2705;13;Ciputat;34;DESKTOP-QFC16ML;2151322;39:03.1
+2706;228;Lubuk Sikaping;33;DESKTOP-283P160;123;17:58.5
+2707;73;Buntudatu;19;DESKTOP-QFC16ML;2151322;32:56.8
+2708;229;Ulu Siau;33;DESKTOP-283P160;123;33:55.4
+2709;230;Padang Baru;33;DESKTOP-283P160;123;23:11.5
+2710;231;Negara Agung;33;DESKTOP-283P160;123;34:07.8
+2711;232;Seputih Banyak;33;DESKTOP-283P160;123;33:20.4
+2712;233;Tanjung Berikat;33;DESKTOP-283P160;123;15:54.5
+2713;234;Padang  Cermin;33;DESKTOP-283P160;123;33:49.1
+2714;235;Ngaol;33;DESKTOP-283P160;123;40:26.0
+2715;236;Manegen;33;DESKTOP-283P160;123;53:06.0
+2716;237;Kayu Agung;33;DESKTOP-283P160;123;28:48.1
+2717;238;Linggau;33;DESKTOP-283P160;123;56:21.2
+2718;13;Simawang Padang;8;DESKTOP-QFC16ML;2151322;01:19.9
+2719;239;Padang Ratu;33;DESKTOP-283P160;123;38:25.0
+2720;12;Huta Dangka;7;DESKTOP-QFC16ML;2151322;36:31.0
+2721;240;Hohawungo ;33;DESKTOP-283P160;123;51:52.9
+2722;241;Jelojok;33;DESKTOP-283P160;123;04:55.0
+2723;242;Rhieng Blang;33;DESKTOP-283P160;123;14:50.5
+2724;243;Mamuju Utara ;33;DESKTOP-283P160;123;22:30.0
+2725;244;Cahaya Batin;33;DESKTOP-283P160;123;25:14.7
+2726;120;Jawa Tongah;7;DESKTOP-GPBDJOJ;3;27:00.5
+2727;148;Pulung Kencana;12;DESKTOP-GPBDJOJ;3;57:42.2
+2728;245;Aneuk Paya;33;DESKTOP-283P160;123;12:01.8
+2729;246;Bidar Alam;33;DESKTOP-283P160;123;20:57.1
+2730;247;Cemara jaya, Halmahera Timur;33;DESKTOP-283P160;123;28:33.3
+2731;248;Cemara jaya;33;DESKTOP-283P160;123;30:30.5
+2732;249;Saung Naga;33;DESKTOP-283P160;123;14:53.9
+2733;103;Latta;21;DESKTOP-GPBDJOJ;3;03:24.0
+2734;72;Serbajadi;6;DESKTOP-GPBDJOJ;3;57:06.5
+2735;73;Tangse;6;DESKTOP-GPBDJOJ;3;07:12.5
+2736;74;Ujong Tanoh;6;DESKTOP-GPBDJOJ;3;01:05.7
+2737;250;Tanasumpu;33;DESKTOP-283P160;123;51:34.6
+2738;251;Mekarpura;33;DESKTOP-283P160;123;02:20.1
+2739;21;Lampur, Sungaiselan;35;DESKTOP-QFC16ML;2151322;34:02.1
+2740;252;Rantau Jaya Ilir;33;DESKTOP-283P160;123;06:14.9
+2741;253;Bandar Masilam;33;DESKTOP-283P160;123;33:43.3
+2742;253;Ratna Chaton;33;DESKTOP-283P160;123;43:30.8
+2743;254;Pandak;33;DESKTOP-283P160;123;20:01.4
+2744;255;Pancasila;33;DESKTOP-283P160;123;58:48.1
+2745;256;UNTORO;33;DESKTOP-283P160;123;53:58.6
+2746;257;Lembah Binuang;33;DESKTOP-283P160;123;58:04.9
+2747;258;Lawe Desky;33;DESKTOP-283P160;123;42:58.8
+2748;259;Tumbang Samba ;33;DESKTOP-283P160;123;53:39.3
+2749;260;Branti Raya, ;33;DESKTOP-283P160;123;37:02.5
+2750;261;Gunung Meraksa Baru;33;DESKTOP-283P160;123;41:23.3
+2751;262;Yukum Jaya;33;DESKTOP-283P160;123;42:35.4
+2752;263;Sawah Lunto;33;DESKTOP-283P160;123;56:32.6
+2753;264;Sungai  Kambut ;33;DESKTOP-283P160;123;59:56.5
+2754;265;Siraman;33;DESKTOP-283P160;123;24:13.4
+2755;266;Waena;33;DESKTOP-283P160;123;22:20.0
+2756;267;Rimba Samak;33;DESKTOP-283P160;123;45:34.0
+2757;268;Kinali;33;DESKTOP-283P160;123;30:22.3
+2758;148;Gaya Baru VIII;12;DESKTOP-EVO3DT8;3;57:40.6
+2759;269;Samalanga;33;DESKTOP-283P160;123;30:46.5
+2760;270;Pasar Kambang;33;DESKTOP-283P160;123;58:59.3
+2761;271;Pungasan;33;DESKTOP-283P160;123;35:32.8
+2762;272;Sawah Taluk;33;DESKTOP-283P160;123;51:04.2
+2763;273;Semaran ;33;DESKTOP-283P160;123;37:56.5
+2764;274;Terate;33;DESKTOP-283P160;123;10:54.9
+2765;149;Kuripan Kota Agung;12;DESKTOP-EVO3DT8;3;23:32.5
+2766;75;Ujong Tanoh Darat;6;DESKTOP-EVO3DT8;3;46:04.8
+2767;275;Pulo Naleueng;33;DESKTOP-283P160;123;01:50.3
+2768;276;Simpang Pujud;33;DESKTOP-283P160;123;15:56.6
+2769;277;Montallat;33;DESKTOP-283P160;123;23:46.7
+2770;278;Pematang Tahalo;33;DESKTOP-283P160;123;47:11.5
+2771;279;Sribhawono;33;DESKTOP-283P160;123;26:35.0
+2772;150;Biha;12;DESKTOP-EVO3DT8;3;35:33.8
+2773;280;Pasar Tamiai;33;DESKTOP-283P160;123;07:18.9
+2774;281;Parsaoran;33;DESKTOP-283P160;123;20:45.0
+2775;282;Grujugan II;33;DESKTOP-283P160;123;43:08.2
+2776;126;Karang Caya;11;DESKTOP-EVO3DT8;3;27:35.9
+2777;160;Paojepe;19;DESKTOP-1G5I28M;3;31:01.4
+2778;283;Babiat Sosunggulon;33;DESKTOP-283P160;123;03:15.1
+2779;284;PENYABUNGAN;33;DESKTOP-283P160;123;25:56.5
+2780;285;Pematang Panjang;33;DESKTOP-283P160;123;31:06.0
+2400;122;Gedongtataan;12;DESKTOP-CHACMKN;8990;45:35.1
+2781;14;Tanah Merah;9;DESKTOP-QFC16ML;2151322;27:35.3
+2782;18;Jati Mulyo;12;DESKTOP-QFC16ML;2151322;35:47.4
+2783;14;Ujungbatu;9;DESKTOP-QFC16ML;2151322;03:05.2
+2784;161;Desa pakkasalo;19;DESKTOP-1G5I28M;3;21:23.6
+2785;186;Parindu;33;DESKTOP-283P160;123;51:02.9
+2786;286;Air Kemang;33;DESKTOP-283P160;123;23:26.2
+2787;139;Gantiwarno;12;DESKTOP-CHACMKN;8990;04:28.4
+2788;2;Brawijaya;12;DESKTOP-CHACMKN;8990;22:16.3
+2789;17;Beriang Tinggi;26;DESKTOP-QFC16ML;2151322;17:12.0
+2790;18;Pasar Krui;12;DESKTOP-QFC16ML;2151322;29:32.6
+2791;18;Cengkong Abang;35;DESKTOP-QFC16ML;2151322;53:17.3
+2792;12;Sisarahili Oyo;7;DESKTOP-QFC16ML;2151322;51:39.7
+2793;36;Wonodadi;12;DESKTOP-QFC16ML;2151322;09:29.4

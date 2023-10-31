@@ -1,0 +1,6 @@
+f_jenjang_id;f_kodejenjang;f_namajenjang;f_lamastudi;f_urutan;f_komputer;f_username;f_tanggalupdate;f_kodekopertis
+0;0;-;0;0;pusdatik-01;admin;13/06/2004 02:10;
+1;D3;Diploma;10;1;asus-pc;supervisor;26/04/2004 06:12;E
+2;S1;Sarjana;14;2;pusdatik-outside;admin;26/04/2004 06:14;C
+3;S2;Magister;8;3;asus-pc;supervisor;26/04/2004 06:14;B
+4;PR;Profesi;6;4;asus-pc;supervisor;26/04/2004 06:15;J
