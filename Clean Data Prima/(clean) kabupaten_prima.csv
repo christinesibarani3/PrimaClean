@@ -1,0 +1,2396 @@
+f_kabupaten_id;f_kodekabupaten;f_namakabupaten;f_propinsi_id;f_komputer;f_username
+0;0; Ussaga;0;istn-54f2cb5db4;288632
+87;1;Lebak Bulus;1;acer-PC;2151322
+93;2;Bogor;2;debrina;291820
+96;21;Tangerang;2;DUDY;admin
+99;24;Depok;2;debrina;291820
+101;31;Pandeglang;2;Akademik;282240
+103;33;Bogor;2;debrina;291820
+121;1;Magelang;3;yuli;288632
+141;43;Karanganyar;3;user-PC;2151322
+143;45;Toroh Grobogan;3;lili-PC;183309
+166;4;Pasuruan;5;administrator;282240
+202;17;Aceh Selatan;6;debrina;288632
+203;20;Aceh Tenggara;6;debrina;288632
+204;21;Aceh Timur;6;debrina;288632
+205;22;Aceh Tengah;6;debrina;288632
+206;23;Aceh Barat;6;debrina;288632
+207;24;Aceh Besar;6;debrina;288632
+208;25;Aceh Utara;6;debrina;288632
+209;26;Pidie;6;debrina;288632
+213;4;Pematangsiantar;7;Akademik;282240
+217;31;Hilisimaetano;7;acer-PC;2151322
+230;3;Sawahlunto;8;user-PC;2151322
+237;33;Muaro Bodi;8;istn-dev;1991065
+251;1;Lubuk Jambi;10;istn-dev;1991065
+267;34;Sukajadi/Lahat;11;yuli;288632
+272;11;Tanjungkarang;12;debrina;288632
+273;59;Bandar Lampung;12;istn-54f2cb5db4;288632
+274;23;Marga Lestari;12;istn-54f2cb5db4;288632
+275;24;Lampung Tengah;12;istn-54f2cb5db4;288632
+276;25;Subik;12;DESKTOP-QFC16ML;2151322
+277;1;Pontianak;13;debrina;291820
+285;1;Palangkaraya;14;user-PC;2151322
+295;40;Pembuang Hulu;14;BAAKISTN-PC;2151322
+309;10;Tarakan;16;DESKTOP-U7V8A28;8669
+310;11;Berau;16;DESKTOP-U7V8A28;8669
+311;12;Bulungan;16;DESKTOP-U7V8A28;8669
+312;13;Kutai;16;DESKTOP-U7V8A28;8669
+313;14;Pasir;16;DESKTOP-U7V8A28;8669
+327;2;Pare - Pare;19;DESKTOP-MG98F4F;8990
+350;22;Tarafu;20;BAAKISTN-PC;2151322
+357;36;Maluku Tenggara;21;debrina;288632
+362;31;Badung;22;yuli;288632
+374;34;Leneng;23;acer-PC;2151322
+375;35;Kembang Kerang;23;acer-PC;2151322
+401;32;Argamakmur;26;DESKTOP-MG98F4F;8990
+403;21;Dili;27;DESKTOP-CHACMKN;8990
+420;9;Lhok Parom;6;BAAKISTN-PC;2151322
+421;0;Jakarta;1;istnprima;admin
+422;60;Solo;3;istnprima;admin
+423;38;Lampung;12;istn-54f2cb5db4;288632
+424;42;Berastagi;7;BAAKISTN-PC;2151322
+425;93;Brisbane;28;istnprima;admin
+426;61;Kutoarjo;3;kepegawaian;288630
+427;62;Gombong;3;kepegawaian;288630
+428;63;Ketanggungan;3;kepegawaian;288630
+429;64;Sragen;3;kepegawaian;288630
+430;65;Kroya;3;PMB;288630
+431;37;Sape;23;developer;admin
+432;36;Daik;9;developer;admin
+433;39;Martapura;11;developer;admin
+434;66;Puring Kebumen;3;developer;admin
+435;43;Gunungsitoli;7;developer;admin
+436;37;Duri;9;developer;admin
+437;27;Kotabumi;12;istn-54f2cb5db4;288632
+438;28;Bandarjaya;12;istn-54f2cb5db4;288632
+439;39;Muaro Tantang;8;developer;admin
+440;40;Muaradua;11;istn-dev;11930005
+441;41;Sungai Bungin;11;istn-dev;11930005
+442;40;Sentani;25;pmb;1991065
+443;43;Parit Tiga Jebus;11;istn-dev;1991065
+444;40;Lubuk Basung;8;pmb;1991065
+445;42;Pagaralam;11;istn-dev;1991065
+446;44;Limbong;7;istn-dev;1991065
+447;51;Rangkasbitung;2;istn-dev;1991065
+448;38;Tembilahan;9;istn-dev;1991065
+449;41;Bapinang Hulu;14;istn-dev;1991065
+450;45;Sukaramai;7;pusdatik01;1991065
+451;44;Nanjungan;11;pusdatik01;1991065
+452;29;Sumbersari;12;istn-54f2cb5db4;288632
+453;41;Koto Alam;8;istn-dev;1991065
+454;42;Tapan;8;istn-dev;1991065
+455;46;Parongil;7;pusdatik01;282240
+456;45;sengir;11;wasim;282240
+457;46;Sungailiat;11;wasim;282240
+458;39;Tanjung Pinang;9;wasim;282240
+459;46;Bandar Dolok;7;wasim;282240
+460;43;Simpang Tiga Ophir;8;pusdatik-01;admin
+461;47;Balige;7;wasim;282240
+462;42;lewolwba;24;wasim;282240
+463;43;Habijanang;24;wasim;282240
+464;38;Ranggase;23;wasim;282240
+465;47;Tugu Mulyo;11;wasim;282240
+466;44;Bayur;8;pusdatik-01;admin
+467;35;SENGKANG;4;wasim;282240
+468;44;Mok;24;wasim;282240
+469;48;Rayamas;7;user-39d10cbd43;282240
+470;48;Naras;11;wasim;282240
+471;49;Kaban Jahe;7;ISTNAKADEMIK-PC;105
+472;50;Sidikalang;7;P2NR-Rudy;282240
+473;38;Rimbo Bujang;10;P2NR-Rudy;282240
+474;49;Mentok;11;P2NR-Rudy;282240
+475;51;Haranggaol;7;P2NR-Rudy;282240
+476;42;Kasongan;14;P2NR-Rudy;282240
+477;52;Sukarani;7;administrator;282240
+478;53;Sukarami;7;administrator;282240
+479;30;Pasar Liwa;12;istn-54f2cb5db4;288632
+480;41;Maumere;25;administrator;282240
+481;1;Kampong Speu;32;administrator;282240
+482;2;Preahyihear;32;administrator;282240
+483;54;Perdagangan;7;wasim;282240
+484;52;Makassar;19;wasim;282240
+485;52;Cikarang;2;administrator;282240
+486;39;Balinggi;22;administrator;282240
+487;42;Wamena;25;Akademik;282240
+488;35;Biak;17;administrator;282240
+489;31;Metro;12;istn-54f2cb5db4;288632
+490;39;Tanjung Jati;10;administrator;282240
+491;45;Flores;24;administrator;282240
+492;55;Karang Sari;7;administrator;282240
+493;56;Hutanagodang;7;administrator;282240
+494;45;Batu Palano;8;administrator;282240
+495;46;Parit;8;administrator;282240
+496;57;Pulau Rakyat;7;administrator;282240
+497;40;Bangkinang;9;administrator;282240
+498;5;Maumere;33;Akademik;282240
+499;47;Batusangkar;8;administrator;282240
+500;48;Tanjung Jati;8;administrator;282240
+501;6;usa;1;administrator;282240
+502;49;Kuala Simpang;8;administrator;282240
+503;40;Bali;22;administrator;282240
+504;58;Lumban Ganjang;7;administrator;282240
+505;50;Soroako;11;administrator;282240
+506;3;Kumbang;6;administrator;282240
+507;35;Nuwewang;21;administrator;282240
+508;7;Bandar Purba;7;administrator;282240
+509;2;Rasau Jaya;13;administrator;282240
+510;3;Koba;11;administrator;282240
+511;2;Lempur Mudik;4;administrator;282240
+512;2;Tenggarong;33;administrator;282240
+513;8;Sirombu;7;administrator;282240
+514;41;Lubuk Pakam;7;administrator;282240
+515;3;Ruteng;33;administrator;282240
+516;4;Langgam;33;administrator;282240
+517;53;Pungkalawaki;19;administrator;282240
+518;36;Tehoru;17;administrator;282240
+519;32;Manna;12;istn-54f2cb5db4;288632
+520;53;Sukarami;2;administrator;282240
+521;54;Kajuara Bone;19;administrator;282240
+522;55;Liangbai;19;administrator;282240
+523;35;Tolitoli;20;administrator;282240
+524;56;Cilellang;19;administrator;282240
+525;57;Jampoe;19;administrator;282240
+526;3;Putussibau;13;administrator;282240
+527;1;Lamangga;20;administrator;282240
+528;2;Bone;20;administrator;282240
+529;3;Penaraga;20;administrator;282240
+530;4;Mandonga;20;administrator;282240
+531;3;Allita;19;administrator;282240
+532;5;Pallengoreng;19;administrator;282240
+533;6;Watampone;19;administrator;282240
+534;7;Salobongko;19;administrator;282240
+535;8;Pure;19;administrator;282240
+536;3;Marah Haloq;16;administrator;282240
+537;2;Soahuku;21;administrator;282240
+538;4;Rantepao;19;administrator;282240
+539;1;Tolai;18;administrator;282240
+540;18;Pardasuka;12;debrina;288632
+541;7;Pariaman;8;administrator;282240
+542;3;banda;21;administrator;282240
+543;3;Lasusua;17;administrator;282240
+544;4;Toinasa;17;administrator;282240
+545;9;Taba;19;administrator;282240
+546;2;Sipi;18;administrator;282240
+547;10;S. Binangae Barru;19;user-39d10cbd43;282240
+548;138;Sempangnge;19;debrina;288632
+549;10;Pasir Pengarayan;7;administrator;282240
+550;11;Panyabungan I;7;administrator;282240
+551;19;Kalianda;12;debrina;288632
+552;8;Lubuk Landai;8;administrator;282240
+553;9;Purbasaribu;7;administrator;282240
+554;3;Karang Negara;9;administrator;282240
+555;4;Sapat;9;administrator;282240
+556;12;Palopo;19;administrator;282240
+557;12;Dolok Sanggul;7;administrator;282240
+558;13;Rantau Prapat;7;administrator;282240
+559;20;Gantung;9;istn-54f2cb5db4;288632
+560;4;Samakurok;6;administrator;282240
+561;14;Pardamuan Motung;7;administrator;282240
+562;5;Ranteangin;20;administrator;282240
+563;6;Lajoa;20;administrator;282240
+564;7;Tanrutedong;20;administrator;282240
+565;8;Bajo;20;administrator;282240
+566;20;Candimas;12;debrina;288632
+567;21;Muara Bungo;12;debrina;288632
+568;22;Way Jepara;12;debrina;288632
+569;23;Kebumen;12;debrina;288632
+570;4;Saparua;21;administrator;282240
+571;1;Masumeze;24;administrator;282240
+572;4;Nunukan;16;administrator;282240
+573;13;Pompanua;19;administrator;282240
+574;14;Sumatra;19;administrator;282240
+575;15;Mario;19;administrator;282240
+576;9;singkut;8;Akademik;282240
+577;58;Rantai Damai;19;nakum;282240
+578;51;Pulau Panggung;11;nakum;282240
+579;52;Kotamobagu;11;nakum;282240
+580;1;Nabire;25;nakum;282240
+581;5;Balinggi;17;Akademik;282240
+582;6;Kotamobagu;17;Akademik;282240
+583;24;Pulau Panggung;12;debrina;288632
+584;15;Pangkalan Berandan;7;user-PC;2151322
+585;16;Langsa;7;Akademik;282240
+586;17;Aekunsim;7;Akademik;282240
+587;18;Sibabangun;7;mansur;282240
+588;5;Labuan;2;Akademik;282240
+589;4;Tumahe;13;Akademik;282240
+590;4;Muarabulian;11;Akademik;282240
+591;57;Songka;17;debrina;288632
+592;19;Tarung-Tarung;7;Akademik;282240
+593;9;Koto Tangah;20;Akademik;282240
+594;5;Tanjung Pura;9;Akademik;282240
+595;5;Jungkat;13;mansur;282240
+596;5;Rohomoni;21;mansur;282240
+597;22;Pardomuan Motong;7;Akademik;282240
+598;6;Torganda;9;Akademik;282240
+599;6;Pamanukan;2;Akademik;282240
+600;16;Soe;19;Akademik;282240
+601;24;Tamayang;11;Akademik;282240
+602;23;Pagur;7;Akademik;282240
+603;10;Pakan Senayan;8;Akademik;282240
+604;24;Cubadak;7;Akademik;282240
+605;7;Rantepao;17;Akademik;282240
+606;8;Lewoleba;17;Akademik;282240
+607;9;Tompoh;17;Akademik;282240
+608;10;Parilangke;17;Akademik;282240
+609;7;Gedung Wani;2;Akademik;282240
+610;8;Bangil;5;Akademik;282240
+611;25;Enggal Mulyo;12;debrina;288632
+612;11;Tanjung Enim;8;Akademik;282240
+613;12;Rumbai;8;Akademik;282240
+614;7;Kabupaten Semarang;3;Akademik;282240
+615;6;Banjar Baru;13;Akademik;282240
+616;11;Plaju;12;Akademik;282240
+617;2;Bintuhan;26;Akademik;282240
+618;12;Simpang Sari;12;Akademik;282240
+619;17;Maleku;19;Akademik;282240
+620;8;Kabupaten Semarang;3;Akademik;282240
+621;92;Padang Sibusuk;8;debrina;288632
+622;22;Cepu;5;Akademik;282240
+623;2;Banjarbaru;15;Akademik;282240
+624;8;Rancaekek;2;Akademik;282240
+625;13;Wayberulu;12;Akademik;282240
+626;9;Ambarawa;5;Akademik;282240
+627;9;Talaga;2;Akademik;282240
+628;14;Tanjung Morawa;8;Akademik;282240
+629;15;Labuhan Ruku;8;Akademik;282240
+630;16;P. Siantar;8;Akademik;282240
+631;25;Sicincin;7;Akademik;282240
+632;14;Kuang Anyar;12;Akademik;282240
+633;15;Waiwada;12;Akademik;282240
+634;5;Mariana;11;Akademik;282240
+635;11;Ganda Soppeng;17;Akademik;282240
+636;12;Boneoge;17;Akademik;282240
+637;13;Korowalelo;17;Akademik;282240
+638;14;Maurole;17;Akademik;282240
+639;15;Konawe;17;Akademik;282240
+640;16;Tinggede;17;Akademik;282240
+641;17;Karanganyar;17;Akademik;282240
+642;5;Tanah Grogot;16;Akademik;282240
+643;18;Ganra Soppeng;17;Akademik;282240
+644;6;Werinama;21;Akademik;282240
+645;7;Pakandangan;9;Akademik;282240
+646;17;Padangsidimpuan;8;Akademik;282240
+647;20;Siunggas Julu;7;Akademik;282240
+648;26;Aek Kanopan;7;Akademik;282240
+649;8;Ranai;9;Akademik;282240
+650;59;Kotamobago;7;Akademik;282240
+651;16;Telukbetung;12;Akademik;282240
+652;17;Natar;12;Akademik;282240
+653;18;Sangbua;19;Akademik;282240
+654;27;Moutong;7;Akademik;282240
+655;28;Astina;7;Akademik;282240
+656;3;Wuasa;18;Akademik;282240
+657;7;Sanana;21;Akademik;282240
+658;19;Astina;17;Akademik;282240
+659;20;Moutong;17;Akademik;282240
+660;19;Parangloe;19;Akademik;282240
+661;18;Guguk Tinggi;8;Akademik;282240
+662;7;Mempawah;13;Akademik;282240
+663;20;Menado;19;Akademik;282240
+664;22;Dumai;8;mipa;282240
+665;23;Panti;8;mipa;282240
+666;1;Desa Suko Mullio;35;mipa;282240
+667;2;Madinah;35;mipa;282240
+668;4;Laguboti;18;Akademik;282240
+669;5;Amlapura;18;Akademik;282240
+670;9;Kelapa Kampit;9;Akademik;282240
+671;10;Pemangkat;2;Akademik;282240
+672;60;Sihiong;7;Akademik;282240
+673;61;Aek Negaga;7;Akademik;282240
+674;11;Liwa;2;Akademik;282240
+675;9;Pringsewu;3;Akademik;282240
+676;8;Malifut;13;Akademik;282240
+677;62;Lawe Beringin;7;Akademik;282240
+678;63;Pancur Batu;7;Akademik;282240
+679;59;Watu;19;Akademik;282240
+680;60;Palusu;19;Akademik;282240
+681;2;Mempawah;14;Akademik;282240
+682;12;Sedong;2;Akademik;282240
+683;33;Agromulyo;12;istn-54f2cb5db4;288632
+684;64;Salak;7;Akademik;282240
+685;2;Tanjung Pandan;10;Akademik;282240
+686;1;Muba;33;Akademik;282240
+687;54;Karangampel;2;Akademik;282240
+688;1;Molonggota;23;Akademik;282240
+689;6;Biaro Baru;11;Akademik;282240
+690;29;Stabat;7;Akademik;282240
+691;65;Merek Raya;7;Akademik;282240
+692;66;Parsoburan;7;Akademik;282240
+693;6;Sei Guntung;18;Akademik;282240
+694;7;Tamboli;11;Akademik;282240
+695;67;Gunung Kelambu;7;istn;288646
+696;6;Bajawa;33;Akademik;282240
+697;1;Nusa Penida;22;Akademik;282240
+698;8;MPL Pasir Talang;11;Akademik;282240
+699;7;Sanggau;33;Akademik;282240
+700;2;Kananga;23;Akademik;282240
+701;21;Pasang Lambe;19;Akademik;282240
+702;37;Tomini;17;Akademik;282240
+703;61;Pasang Lambe/Buakayu;19;Akademik;282240
+704;11;Teluk Betung;9;Akademik;282240
+705;10;Ajibarang;3;Akademik;282240
+706;68;Kutabuluh;7;Akademik;282240
+707;9;Pulau Raja;13;Akademik;282240
+708;9;Belimbingan;11;Akademik;282240
+709;70;Balimbingan;7;Akademik;282240
+710;13;Rangkasbitung;2;yanti_d3;282240
+711;3;Sritejokencono;4;uptdata_fti;282240
+712;71;Simangulampe;7;fti-uptdata;282240
+713;10;Nunukan;11;Akademik;282240
+714;11;Limbung;11;Akademik;282240
+715;12;Sopu;11;Akademik;282240
+716;13;Luwuk;11;Akademik;282240
+717;14;Tarra Matekkeng;11;Akademik;282240
+718;15;Tanjung;11;Akademik;282240
+719;37;Kartaraharja;12;istn-54f2cb5db4;288632
+720;19;Bangko;12;Akademik;282240
+721;20;Sibabangun;12;Akademik;282240
+722;2;Sanggar Buana;22;Akademik;282240
+723;14;Klangenan;2;Akademik;282240
+724;8;Betun;33;Akademik;282240
+725;53;Sungai Guntung;11;Akademik;282240
+726;8;Seith;21;Akademik;282240
+727;3;Meliau;10;Akademik;282240
+728;9;Buntok;33;Akademik;282240
+729;10;Mengkatip;33;Akademik;282240
+730;7;Gisting;18;Akademik;282240
+731;22;Tanjung Rusa;9;Akademik;282240
+732;72;Tarutung;7;Akademik;282240
+733;22;Gandeng;19;Akademik;282240
+734;5;Alue He Puteh;6;Akademik;282240
+735;4;Sarang Elang;10;Akademik;282240
+736;9;Batu Sori;21;dodol;282240
+737;12;Muaramais Jambur;9;Akademik;282240
+738;16;Kuala Tungkal;11;Akademik;282240
+739;5;Kuala Tungkal;10;Akademik;282240
+740;73;Tapiannauli;7;Akademik;282240
+741;54;Muara Enim;11;Akademik;282240
+742;11;Manggar;33;Akademik;282240
+743;23;Tanjung Rejo;9;Akademik;282240
+744;24;Pasir Kota Baru;9;Akademik;282240
+745;25;Kaduas;9;Akademik;282240
+746;26;Surau Munai;9;Akademik;282240
+747;11;Tulungagung;3;Akademik;282240
+748;12;Gunungkidul;3;Akademik;282240
+749;13;Karanganyar, Solo;3;Akademik;282240
+750;6;Lawe Sigala-Gala;6;Akademik;282240
+751;19;Sinar Toba;9;BAAKISTN-PC;2151322
+752;67;Pangebatan;3;Akademik;282240
+753;124;Galur;33;debrina;288632
+754;74;Lumban Sitorus;7;Akademik;282240
+755;62;Tariang Lama;19;Akademik;282240
+756;55;Rangkas Bitung;2;Akademik;282240
+757;50;Padang Genting;8;Akademik;282240
+758;23;Belawa Wajo;19;Akademik;282240
+759;24;Cenrana;19;Akademik;282240
+760;126;Betun;33;debrina;288632
+761;14;Waingapu;33;Akademik;282240
+762;13;Sering;9;Akademik;282240
+763;75;Cotgirek;7;Akademik;282240
+764;68;Gadingrejo;3;Akademik;282240
+765;26;Cilegon;2;Akademik;282240
+766;76;Dahana;7;Akademik;282240
+767;7;Desa Mesjid;6;Akademik;282240
+768;63;Kayumalue Pajeko;19;Akademik;282240
+769;56;Sukahaji;2;Akademik;282240
+770;64;Tampiala;19;Akademik;282240
+771;57;Panyabungan Jae;2;Akademik;282240
+772;21;Gisting;12;Akademik;282240
+773;51;Kotabaru;8;Akademik;282240
+774;55;Serinanti Oki;11;Akademik;282240
+775;56;Sang Agung;11;Akademik;282240
+776;57;Tanjung Raja;11;Akademik;282240
+777;58;Sidakersa;11;Akademik;282240
+778;10;Sei-Putat;13;Akademik;282240
+779;65;Kotaraya;19;Akademik;282240
+780;59;Tulung Selapan;11;Akademik;282240
+781;58;Gunung Kemala;2;Akademik;282240
+782;59;Batu Marta;2;Akademik;282240
+783;60;Situbondo;5;Akademik;282240
+784;61;Kemranjen Banyumas;5;Akademik;282240
+785;3;Belinyu;35;pusdatik-02;282240
+786;60;Melati I;2;Akademik;282240
+787;6;Munte;10;Akademik;282240
+788;11;Bontang;13;Akademik;282240
+789;77;Bintang Meriah, Karo;7;Akademik;282240
+790;78;Makale;7;Akademik;282240
+791;52;Baturusa;8;Akademik;282240
+792;53;Batu Sangkar;8;Akademik;282240
+793;69;Pringsewu;3;Akademik;282240
+794;79;Sibolangit;7;Akademik;282240
+795;60;Silau Malela;11;Akademik;282240
+796;41;Lirik;9;Akademik;282240
+797;10;Onowaembo;21;Akademik;282240
+798;3;Manna;26;Akademik;282240
+799;66;Balusu;19;Akademik;282240
+800;61;Cibaru;2;Akademik;282240
+801;62;Plumbon;2;Akademik;282240
+802;54;Sidenreng Rappang;8;Akademik;282240
+803;55;Loka;8;Akademik;282240
+804;27;Lhokseumawe;6;debrina;288632
+805;41;Terbanggi Ilir;12;Akademik;282240
+806;61;Tanjung Menang Musi;11;Yunus-PC;183309
+807;63;Marga Cinta;2;Akademik;282240
+808;80;Pauh;7;Akademik;282240
+809;6;Murung Pudak;16;Akademik;282240
+810;2;Biak;25;Akademik;282240
+811;56;Andaleh;8;Akademik;282240
+812;7;Pematang Sapat;10;Akademik;282240
+813;10;Besu;20;Akademik;282240
+814;81;Partibi Lama;7;Akademik;282240
+815;42;Belimbingsari;12;Akademik;282240
+816;67;Palita;19;Akademik;282240
+817;57;Pematangsiantar;8;Akademik;282240
+818;58;Pangkalpinang;8;Akademik;282240
+819;8;Teluk Nilau;10;Akademik;282240
+820;15;Selong;33;Akademik;282240
+821;42;K. Pinang;9;Akademik;282240
+822;62;Tani Makmur;11;Akademik;282240
+823;62;Parsorminan;7;Akademik;282240
+824;38;Pomalaa;17;Akademik;282240
+825;82;Partibilama;7;admin;282240
+826;12;Leppangeng;21;admin;282240
+827;1;Padaherang;34;admin;282240
+828;43;Air Balui;12;admin;282240
+829;44;Margoyoso;12;admin;282240
+830;45;Rukti Endah;12;admin;282240
+831;46;Sumber Asri;12;admin;282240
+832;15;Kaili;16;DESKTOP-U7V8A28;8669
+833;43;Teguhan;9;admin;282240
+834;68;Kalimporo;19;admin;282240
+835;69;Mapane;19;admin;282240
+836;70;Nosu;19;admin;282240
+837;71;Makale;19;admin;282240
+838;72;Tagari;19;admin;282240
+839;28;Langsa;6;debrina;288632
+840;73;Salaka;19;admin;282240
+841;47;Bukit Kemuning;12;admin;282240
+842;64;Argamakmur;2;admin;282240
+843;83;Huta Tongah;7;wasim;282240
+844;39;Langowan;17;admin;282240
+845;48;Sanggaran;12;admin;282240
+846;49;Bandar Agung;12;admin;282240
+847;3;Ruteng;23;admin;282240
+848;84;Laguboti;7;admin;282240
+849;59;Pardasuka;8;admin;282240
+850;65;Kampiri;2;admin;282240
+851;85;Batuhoda;7;wasim;282240
+852;86;Parapat;7;wasim;282240
+853;41;Gumbrih;22;wasim;282240
+854;87;Silamosik;7;wasim;282240
+855;60;Sungai Tunu;8;wasim;282240
+856;70;Purwodadi;3;wasim;282240
+857;37;Parigi;18;ISTN-PC;183309
+858;38;Mebali;18;wasim;282240
+859;39;Nanggala;18;wasim;282240
+860;50;Banding Agung;12;wasim;282240
+861;44;Tanjung Karang;9;wasim;282240
+862;43;Suai;27;BAAKISTN-PC;2151322
+863;63;Ketiau;11;wasim;282240
+864;61;Kumpulan;8;wasim;282240
+865;36;Weetebula;21;wasim;282240
+866;66;Pancoran Mas Depok;2;wasim;282240
+867;88;Bandar Negeri;7;wasim;282240
+868;89;Berastagi;7;wasim;282240
+869;90;Sihepeng;7;wasim;282240
+870;62;Koto Mambang;8;wasim;282240
+871;67;Bandungan;2;wasim;282240
+872;64;Sungai Lasi;11;wasim;282240
+873;29;Takengon Aceh Tengah;6;debrina;288632
+874;16;Karang Waru;33;wasim;282240
+875;71;bumiayu;3;wasim;282240
+876;72;Weru;3;wasim;282240
+877;74;Masohi;19;wasim;282240
+878;75;Serui;19;wasim;282240
+879;76;Saluallo;19;wasim;282240
+880;77;Pattallassang;19;wasim;282240
+881;40;Amosilu;17;wasim;282240
+882;58;Arahan;2;wasim;282240
+883;68;Nibung;2;wasim;282240
+884;46;Maulafa;24;wasim;282240
+885;47;Kalabahi;24;wasim;282240
+886;45;Balai Karimun;9;wasim;282240
+887;69;Batahan;2;wasim;282240
+888;46;Tg. Balai Karimun;9;wasim;282240
+889;91;Pangaloan;7;wasim;282240
+890;40;Kambiolangi;18;wasim;282240
+891;41;Takalala;18;wasim;282240
+892;42;Munte;18;wasim;282240
+893;43;Panasea;18;wasim;282240
+894;44;Baraka;18;wasim;282240
+895;73;Kroya;3;wasim;282240
+896;34;Ulu Danau;26;wasim;282240
+897;51;Lebuai;12;mansyur;183309
+898;37;Larat;21;mansyur;183309
+899;70;Panggarangan;2;mansyur;183309
+900;6;Biak;37;istn-54f2cb5db4;288632
+901;17;Sabulan;33;wasim;282240
+902;18;Serbelawan;33;wasim;282240
+903;19;Koba;33;wasim;282240
+904;71;Matangglumpangdua;2;wasim;282240
+905;72;Bunturaja;2;wasim;282240
+906;78;Pasanea;19;wasim;282240
+907;73;Babakan;2;mansyur;183309
+908;62;Sumberejo;5;wasim;282240
+909;92;Sirait Holbung;7;wasim;282240
+910;74;Panggarangan Lebak;2;wasim;282240
+911;37;Lubuklinggau;13;DATAFTI-PC;282240
+912;75;Panawangan;2;DATAFTI-PC;282240
+913;93;Bangun Pane;7;DATAFTI-PC;282240
+914;74;Kapul;3;DATAFTI-PC;282240
+915;94;Pardomuan Motung;7;DATAFTI-PC;282240
+916;63;Gunung Medan;8;sujatmo;183309
+917;38;Tebas;13;sujatmo;183309
+918;39;Ujung Said;13;sujatmo;183309
+919;30;Jambur Lak-Lak;6;debrina;288632
+920;65;Paldas;11;sujatmo;183309
+921;76;Cikajang;2;sujatmo;183309
+922;40;Murung Pudak;15;sujatmo;183309
+923;45;Kolonodale;18;sujatmo;183309
+924;41;Ondong;17;sujatmo;183309
+925;95;Pasarmelintang;7;DATAFTI-PC;282240
+926;52;Menggala;12;lili-PC;183309
+927;54;Jatimulyo;12;istn-54f2cb5db4;288632
+928;731;Kole Malimbong;19;lili-PC;183309
+929;1;Tanjung Batu Majene;38;debrina;288632
+930;36;Palambua;20;lili-PC;183309
+931;79;Kole Malimbong;19;lili-PC;183309
+932;55;Menggala;12;istn-54f2cb5db4;288632
+933;66;Pangkalpinang;11;Yunus-PC;183309
+934;4;Pendopo;26;ringgo;183309
+935;8;Durian Rampak;6;ringgo;183309
+936;96;Nagori;7;ringgo;183309
+937;97;Marpaung Bagasan;7;ringgo;183309
+938;75;Bumi Harjo;3;DATAFTI-PC;282240
+939;20;Selanglet;33;sujatmo;183309
+940;4;Kelapa Kampit;35;sujatmo;183309
+941;67;Tangga Batu;11;lili-PC;183309
+942;98;Tanggabatu;7;lili-PC;183309
+943;99;Talun Kenas;7;lili-PC;183309
+944;55;Gunung Katun;12;lili-PC;183309
+945;47;Rengat;9;lili-PC;183309
+946;80;Sengkang;19;lili-PC;183309
+947;64;Barulak;8;lili-PC;183309
+948;77;Bangodua;2;lili-PC;183309
+949;40;Belitang;13;lili-PC;183309
+950;68;Belitang;11;lili-PC;183309
+951;48;Mbaumuku Ruteng;24;lili-PC;183309
+952;36;Wates;4;lili-PC;183309
+953;100;Sipitu Pitu;7;lili-PC;183309
+954;41;Tanjungsari;15;lili-PC;183309
+955;100;Madula;7;ISTN-PC;183309
+956;101;Madula;7;ISTN-PC;183309
+957;22;Tolongano;18;ISTN-PC;183309
+958;69;Ulak Embacang;11;ISTN-PC;183309
+959;70;Kota Agung  Aji;11;sujatmo;183309
+960;56;Sendangrejo;12;ISTN-PC;183309
+961;57;Bumi Sari;12;ISTN-PC;183309
+962;59;Yukumjaya;12;ISTN-PC;183309
+963;10;Ngrame Ngawii;5;ISTN-PC;183309
+964;81;Lewobelen;19;sujatmo;183309
+965;82;Madopolo;19;ISTN-PC;183309
+966;83;Wukir;19;ISTN-PC;183309
+967;84;Nata;19;ISTN-PC;183309
+968;85;Dobo;19;ISTN-PC;183309
+969;86;Tapalinna;19;ISTN-PC;183309
+970;87;Wotu;19;ISTN-PC;183309
+971;88;Wegok;19;ISTN-PC;183309
+972;89;Pincara;19;ISTN-PC;183309
+973;90;Lawo;19;ISTN-PC;183309
+974;91;Sungguminasa;19;sujatmo;183309
+975;92;Buttu;19;ISTN-PC;183309
+976;63;Kotabatu;5;lili-PC;183309
+977;78;Astanajapura;2;lili-PC;183309
+978;71;Pagar Alam;11;istn;183309
+979;21;Weoe;33;debrina;288632
+980;22;Malaka;33;debrina;288632
+981;100;Ujung Bandar;7;debrina;291820
+982;100;Ujung Bandar;7;debrina;291820
+983;43;Sampit;14;lili-PC;183309
+984;40;Sapta Mulya;10;lili-PC;183309
+985;48;Surau Gading;9;lili-PC;183309
+986;7;Pulau Seribu;1;istn;288646
+987;106;Tiga Dolok;7;lili-PC;183309
+988;64;Temanggung;5;lili-PC;183309
+989;79;Ciawigebang;2;istn;288646
+990;44;Muara Teweh;14;istn;288646
+991;100;Sidamanik;7;istn;288646
+992;60;Bandar Sakti;12;istn;288646
+993;1;Singapura;0;istn;288646
+994;100;Tiga Panah;7;istn;288646
+996;101;Tiga Panah;7;istn;288646
+997;35;Tais;26;istn;288646
+998;79;Lakbok;2;istn;288646
+999;53;Bumi Agung;12;istn-54f2cb5db4;288632
+1000;42;Tomohon;17;istn;288646
+1001;43;Dumoga;17;istn;288646
+1002;65;Campang Tiga;5;istn;288646
+1003;39;Curup;23;istn;288646
+1004;40;Banjaran;23;istn;288646
+1005;41;Padangsidimpuan;23;istn;288646
+1006;42;Cimanggis;15;istn;288646
+1007;61;Bangunrejo;12;ISTN-PC;183309
+1008;62;Batuliman Indah;12;ISTN-PC;183309
+1009;63;Muara Putih;12;ISTN-PC;183309
+1010;93;Elat;19;ISTN-PC;183309
+1011;94;Manatahan;19;ISTN-PC;183309
+1012;95;Malili;19;ISTN-PC;183309
+1013;96;Tallang;19;ISTN-PC;183309
+1014;97;Sadan;19;ISTN-PC;183309
+1015;98;Desa Baru;19;ISTN-PC;183309
+1016;98;Batusitanduk;19;ISTN-PC;183309
+1017;76;Karangsari;3;ISTN-PC;183309
+1018;1;Kapias Batu;48;ISTN-PC;183309
+1019;1;Sipangan Bolon;47;ISTN-PC;183309
+1020;1;Payi Wera;44;ISTN-PC;183309
+1021;23;Sungailiat;33;istn;288646
+1022;49;Bintan;9;yuli;288632
+1023;2;Pulomerak;34;lili-PC;183309
+1024;64;Lampung Barat;12;yuli;288632
+1025;100;Pokan Baru;7;istn;288646
+1026;24;Bintan;33;yuli;288632
+1027;18;Bintan;9;istn-54f2cb5db4;288632
+1028;65;Kerinci;8;yuli;288632
+1029;72;Indragiri Hilir;11;yuli;288632
+1030;8;Paniai;37;istn-54f2cb5db4;288632
+1031;9;Jayawijaya;37;istn-54f2cb5db4;288632
+1032;102;Porsea;7;BAAK-ISTN-PC;183309
+1033;50;Sungai Apit;9;BAAK-ISTN-PC;183309
+1034;37;Bombana;20;yuli;288632
+1035;22;Lampung Timur;12;yuli;288632
+1036;100;Boddie;19;istn;288646
+1037;109;Toba Samosir;7;yuli;288632
+1038;100;Toba Samosir;7;yuli;288632
+1039;77;Kreyo;3;istn;288646
+1040;49;Sarotari;24;istn;288646
+1041;103;Dolok Saribu;7;istn;288646
+1042;65;Hadimulyo;12;istn;288646
+1043;80;Banten;2;yuli;288632
+1044;3;Banten;34;yuli;288632
+1045;11;Aek Korsik;7;istn-54f2cb5db4;288632
+1046;42;Tukad Sumaga;22;istn;288646
+1047;78;Slawi;3;istn;288646
+1048;23;Painan;8;istn;288646
+1049;41;Lubuk Linggau;10;istn;288646
+1050;44;Mardosniuhur;17;istn;288646
+1051;73;Gumawang;11;istn;288646
+1052;66;Sekincau;12;istn;288646
+1053;99;Soroako;19;istn;288646
+1054;8;Bremen;1;istn;288646
+1055;31;Kuala Simpang;6;debrina;288632
+1056;67;Titipasan;12;istn;288646
+1057;41;Menpawah;13;istn;288646
+1058;5;Koba;35;istn;288646
+1059;5;Talang Rasau;26;istn;288646
+1060;11;Engganau;20;istn;288646
+1061;66;Andalas;8;istn;288646
+1062;43;Singkut;15;istn;288646
+1063;11;Ternate;21;istn;288646
+1064;4;Pamarayan;34;istn;288646
+1065;7;Pulau Bunyu;16;istn;288646
+1066;67;Saning Bakar;8;istn;288646
+1067;66;Babatan;5;istn;288646
+1068;32;Capeung;6;debrina;288632
+1069;74;Pelawe;11;istn;288646
+1070;22;Sihusapi;17;istn;288646
+1071;23;Laubaleng;17;istn;288646
+1072;24;Pemantang;17;istn;288646
+1073;75;Taba Baru I;11;istn;288646
+1074;100;Lakea II;19;istn;288646
+1075;68;Kurinci;12;istn;288646
+1076;46;Buol;18;istn;288646
+1077;110;Wairiang;19;debrina;288632
+1078;79;Grobogan;3;istn;288646
+1079;11;Rantetiku;19;istn-54f2cb5db4;288632
+1080;43;Abepura;25;istn;288646
+1081;68;Dolok Sanggul;8;istn;288646
+1082;12;Pareparean;7;istn-54f2cb5db4;288632
+1083;50;Ngusu;24;istn;288646
+1084;69;Lombok;12;istn;288646
+1085;72;Uepai;19;istn;288646
+1086;100;Sagawele;19;istn;288646
+1087;47;Kali;18;istn;288646
+1088;15;Loleo;21;istn;288646
+1089;70;Bunut;12;istn;288646
+1090;48;Soni;18;istn;288646
+1091;100;Redak;19;istn;288646
+1092;100;Sipispis;7;istn;288646
+1093;44;Banjarmanis;15;man;288646
+1094;100;Parparean;7;istn;288646
+1095;100;Silencang;7;istn;288646
+1096;3;Paringin;15;istn;288646
+1097;4;Lombok;23;istn;288646
+1098;7;Kampung Muara Aman;26;istn;288646
+1099;33;Nagan Raya;6;debrina;288632
+1100;71;Lampung Timur;12;yuli;288632
+1101;45;Kampung Dalam;15;ISTNDURENTIGA4;284396
+1102;76;Ambai Bawah;11;ISTNDURENTIGA4;284396
+1103;34;Meulaboh;6;debrina;288632
+1104;42;Koto Tangah;13;syaerozi-ba2768;284396
+1105;69;Lubuk Besar;8;ISTNDURENTIGA4;284396
+1106;1;Huddersfield;52;syaerozi-ba2768;284396
+1107;77;Aurkoto;11;KampusDuren3-13;284396
+1108;10;Jayapura;37;istn-54f2cb5db4;288632
+1109;6;BANGKA;35;yuli;288632
+1110;20;Pajar Bulan;11;User-PC;288646
+1111;72;Way Kanan;12;yuli;288632
+1112;3;Baturinggit;22;user-PC;288646
+1113;78;Kayuagung;11;user-PC;288646
+1114;73;Bengko;12;user-PC;288646
+1115;7;Melabun;35;user-PC;288646
+1116;100;Pargarutan;7;user-PC;288646
+1117;79;Ujung Batu Kampar;11;user-PC;288646
+1118;71;Belawan;11;User-PC;288646
+1119;121;Tapanuli;7;User-PC;288646
+1120;103;Lampa;19;User-PC;288646
+1121;17;Buleleng Bali;22;User-PC;288646
+1122;67;Kotagajan;12;User-PC;288646
+1123;122;Buah Bolon;7;User-PC;288646
+1124;72;Teluk Pinang;11;User-PC;288646
+1125;2;Koto Kabun;47;User-PC;288646
+1126;100;Pasar Simangambat;7;masterA;288646
+1127;25;Ramunia;33;BAAK-PC;288646
+1128;81;Lemahabang;2;BAAK-PC;288646
+1129;70;Limbanang;8;BAAK-PC;288646
+1130;82;Luragung;2;masterA;288646
+1131;100;Deniang;7;BAAK-PC;288646
+1132;43;Demulih;22;BAAK-PC;288646
+1133;49;Tentena;18;BAAK-PC;288646
+1134;100;Anggotoa;19;BAAK-PC;288646
+1135;101;Cikarro;19;BAAK-PC;288646
+1136;102;Bungi;19;BAAK-PC;288646
+1137;103;Nggele;19;BAAK-PC;288646
+1138;104;Cendana Putih-Palopo;19;BAAK-PC;288646
+1139;105;Redak;19;BAAK-PC;288646
+1140;106;Bottoe;19;BAAK-PC;288646
+1141;107;Bala'ba;19;BAAK-PC;288646
+1142;83;Waled Cirebon;2;BAAK-PC;288646
+1143;16;Muara Lawa;16;DESKTOP-U7V8A28;8669
+1144;74;Margototo;12;BAAK-PC;288646
+1145;71;Ujung Gading;8;BAAK-PC;288646
+1146;50;Seasa;18;BAAK-PC;288646
+1147;51;Sausu Trans;18;BAAK-PC;288646
+1148;52;Malakosa;18;BAAK-PC;288646
+1149;53;Sibaluton;18;BAAK-PC;288646
+1150;3;Kokas;37;istn-54f2cb5db4;288632
+1151;38;Tidore;21;BAAK-PC;288646
+1152;75;Kedaton;12;BAAK-PC;288646
+1153;76;Muara Pinang;12;BAAK-PC;288646
+1154;72;Kubang ;8;ISTNDURENTIGA13;284396
+1155;35;Upah;6;debrina;288632
+1156;77;kelirejo;12;ISTNDURENTIGA13;284396
+1157;73;Mair Haji ;8;ISTNDURENTIGA13;284396
+1158;74;Lubuk Nyiur ;8;ISTNDURENTIGA13;284396
+1159;51;Sei Meranti;9;ISTNDURENTIGA4;284396
+1160;29;Laut Tador;9;istn-54f2cb5db4;288632
+1161;52;Rokan Hulu;9;yuli;288632
+1162;13;Uteun Pulo;6;debrina;288632
+1163;14;Putus Sibau;6;debrina;288632
+1164;73;OKU Timur;11;DESKTOP-QFC16ML;2151322
+1165;45;Minahasa Tenggara;17;yuli;288632
+1166;72;Telap;12;admfmipa-PC;288646
+1167;9;Sebulu;16;DESKTOP-U7V8A28;8669
+1168;74;Sekayu;11;BAAK-PC;288646
+1169;73;Krui;12;BAAK-PC;288646
+1170;23;Gamtala;21;BAAK-PC;288646
+1171;125;Guguk;7;BAAK-PC;288646
+1172;26;NAGEKEO;33;yuli;288632
+1173;15;Bireuen;6;debrina;288632
+1174;19;Makarti Jaya;22;BAAK-PC;288646
+1175;20;Kembang Mertha;22;BAAK-PC;288646
+1176;23;Atambua;24;BAAK-PC;288646
+1177;24;Lamablawa;24;BAAK-PC;288646
+1178;25;Rate-Rate;24;BAAK-PC;288646
+1179;112;Belajen;19;BAAK-PC;288646
+1180;113;Petiro;19;BAAK-PC;288646
+1181;114;Bulu Siwa;19;BAAK-PC;288646
+1182;31;Ampana;18;BAAK-PC;288646
+1183;32;Salukaia;18;BAAK-PC;288646
+1184;17;Windesi;25;BAAK-PC;288646
+1185;4;Windesi;37;istn-54f2cb5db4;288632
+1186;16;Porang;6;debrina;288632
+1187;27;Sungai Lang;9;istn-54f2cb5db4;288632
+1188;74;Labuhan Maringgai;12;BAAK-PC;288646
+1189;67;Padang Mahondang;8;BAAK-PC;288646
+1190;126;Aek Ngadol;7;BAAK-PC;288646
+1191;127;Namlea;7;BAAK-PC;288646
+1192;21;Nganganaumala;20;BAAK-PC;288646
+1193;128;Matio;7;BAAK-PC;288646
+1194;68;Panjalangan;8;BAAK-PC;288646
+1195;75;Batangharjo;12;BAAK-PC;288646
+1196;27;FLORES;33;yuli;288632
+1197;129;Buahbolon;7;AKADEMIKMIPA-PC;288646
+1198;8;PANGKAL PINANG;35;yuli;288632
+1199;107;Mandailing Natal;7;yuli;288632
+1200;44;Tulang Bawang;22;yuli;288632
+1201;100;Batu Bara;7;DUDY;admin
+1202;108;BATU ;7;yuli;288632
+1203;75;Pagar Alam;8;yuli;288632
+1204;28;Lembata;33;yuli;288632
+1205;29;Ndewel;33;BAAK-PC;288646
+1206;70;Koto Majidin;8;BAAK-PC;288646
+1207;13;Lareh Nan Panjang;33;ISTN-STTT;284396
+1208;39;Jayawijaya;21;yuli;288632
+1209;32;Kukuh;22;BAAK-PC;288646
+1210;5;Wawena;37;istn-54f2cb5db4;288632
+1211;76;Gunung Sugih;12;BAAK-PC;288646
+1212;77;Tebing;12;BAAK-PC;288646
+1213;100;Simpang Tolang Lama;7;BAAK-PC;288646
+1214;40;Waiteba;21;BAAK-PC;288646
+1215;41;Hamlea;21;BAAK-PC;288646
+1216;33;Umbele;18;BAAK-PC;288646
+1217;11;Fakfak;37;istn-54f2cb5db4;288632
+1218;76;Cibinong;2;BAAK-PC;288646
+1219;110;Sungai Guntung;7;DUDY;admin
+1220;115;Batu-Batu;19;BAAK-PC;288646
+1221;26;Pamakayo;24;BAAK-PC;288646
+1222;27;Mbay Dam;24;BAAK-PC;288646
+1223;18;Takengon;6;debrina;288632
+1224;116;Tapparan;19;BAAK-PC;288646
+1225;19;Rumah Kampung;6;debrina;288632
+1226;27;Waekasar;21;BAAK-PC;288646
+1227;12;Pasar Baru;26;BAAK-PC;288646
+1228;41;Imandi;17;BAAK-PC;288646
+1229;117;Massamba;19;BAAK-PC;288646
+1230;22;Kasipute;20;BAAK-PC;288646
+1231;23;Toaha;20;BAAK-PC;288646
+1232;24;Langge;20;BAAK-PC;288646
+1233;25;Unaaha;20;BAAK-PC;288646
+1234;26;Pohu;20;BAAK-PC;288646
+1235;27;Bira;20;BAAK-PC;288646
+1236;28;Wawotobi;20;BAAK-PC;288646
+1237;30;Raha;20;BAAK-PC;288646
+1238;31;Bau-Bau;20;BAAK-PC;288646
+1239;2;Pongo;38;debrina;288632
+1240;3;Polewali;38;debrina;288632
+1241;34;Sambiut;18;BAAK-PC;288646
+1242;75;Cipta Praja;11;BAAK-PC;288646
+1243;78;Sukasari;12;BAAK-PC;288646
+1244;28;Banda Neira;21;BAAK-PC;288646
+1245;118;Bayondo;19;BAAK-PC;288646
+1246;135;Simaninggir;7;BAAK-PC;288646
+1247;76;Rawabening;11;BAAK-PC;288646
+1248;71;Sumarorong;8;BAAK-PC;288646
+1249;4;Sumarorong;38;debrina;288632
+1250;119;Leworeng;19;BAAK-PC;288646
+1251;79;Sendang Mulyo;12;BAAK-PC;288646
+1252;29;Labuha;21;BAAK-PC;288646
+1253;77;Sidawangi;2;BAAK-PC;288646
+1254;17;Alas;23;BAAK-PC;288646
+1255;30;Labuha;21;BAAK-PC;288646
+1256;31;Pai-Padaido;21;BAAK-PC;288646
+1257;77;Purwosari;11;BAAK-PC;288646
+1258;120;Sudu;19;BAAK-PC;288646
+1259;78;Cilongrang;2;BAAK-PC;288646
+1260;136;Sitatuan;7;Rohmi-PC;288646
+1261;31;RSU. Maumere;33;BAAK-PC;288646
+1262;32;Dosai;33;BAAK-PC;288646
+1263;33;Bogenga;33;BAAK-PC;288646
+1264;121;Masamba;19;BAAK-PC;288646
+1265;122;Malinnong;19;BAAK-PC;288646
+1266;31;Lasalimu;20;BAAK-PC;288646
+1267;3;Malaysia;0;BAAK-PC;288646
+1268;86;LDG. 4/ Puteh;28;BAAK-PC;288646
+1269;25;Sungai Pinyuh;13;BAAK-PC;288646
+1270;79;Sindangbarang;2;BAAK-PC;288646
+1271;80;Cipanas-Lebak;2;BAAK-PC;288646
+1272;13;Cupat;26;BAAK-PC;288646
+1273;137;Pulo Siborna;7;BAAK-PC;288646
+1274;81;Cibinong Bogor;2;BAAK-PC;288646
+1275;17;Kuala Kapuas;14;BAAK-PC;288646
+1276;65;Klepu, Kab. Semarang;3;BAAK-PC;288646
+1277;76;Dharmasraya;8;yuli;288632
+1278;1;MEKKAH;53;yuli;288632
+1279;84;Banjar;2;yuli;288632
+1280;34;Timor Timur;33;yuli;288632
+1281;35;Timor Tengah Selatan;33;yuli;288632
+1282;45;Lamandau;14;yuli;288632
+1283;36;Sungai Penuh;10;yuli;288632
+1284;80;Kota Metro;12;yuli;288632
+1285;45;Sebual;22;BAAKISTN-PC;2151322
+1286;51;Tengkudak;33;BAAKISTN-PC;2151322
+1287;32;Jawa Barat;2;BAAKISTN-PC;2151322
+1288;12;Timika;37;istn-54f2cb5db4;288632
+1289;53;Kuantan Singingi;9;yuli;288632
+1290;54;Banggai Kepulauan;18;yuli;288632
+1291;52;Lumbaja;33;debrina;288632
+1292;36;Blangkejeren;6;debrina;288632
+1293;2;Kawangkoan;0;yuli;288632
+1294;1;Tokyo;58;yuli;288632
+1295;10;Bagan Siapiapi;9;BAAKISTN-PC;2151322
+1296;2;Paguyaman;17;BAAKISTN-PC;2151322
+1297;1;Sulit Air;8;BAAKISTN-PC;2151322
+1298;73;Bottotella;19;BAAKISTN-PC;2151322
+1299;13;Tanjung Pati;8;BAAKISTN-PC;2151322
+1300;13;Lintau;8;BAAKISTN-PC;2151322
+1301;12;Toraja Utara;7;BAAKISTN-PC;2151322
+1302;12;Siba'ta;7;BAAKISTN-PC;2151322
+1303;73;Suli;19;BAAKISTN-PC;2151322
+1304;52;Sengkol;23;BAAKISTN-PC;2151322
+1305;36;Lampung Selatan;12;istn-54f2cb5db4;288632
+1306;71;Liwutung;17;BAAKISTN-PC;2151322
+1307;73;Tambunan;19;BAAKISTN-PC;2151322
+1308;12;Huraba;7;BAAKISTN-PC;2151322
+1309;74;Sendang Mulya Sari;20;BAAKISTN-PC;2151322
+1310;74;Sendang Muliasari;20;BAAKISTN-PC;2151322
+1311;74;Pomalaa;20;BAAKISTN-PC;2151322
+1312;102;Bekek;33;BAAKISTN-PC;2151322
+1313;100;Siborongborong;7;ISTNAKADEMIK-PC;105
+1314;42;Laiwui;21;BAAK-PC;2151322
+1316;36;Arga Makmur;26;BAAK-PC;2151322
+1317;100;Kisaran;7;BAAK-PC;2151322
+1318;100;Tano Saribu;7;BAAK-PC;2151322
+1319;81;Sidowaluyo;12;BAAK-PC;2151322
+1320;46;Untal-Untal;22;BAAK-PC;2151322
+1321;101;Lumban Tonga Tonga;7;ISTNAKADEMIK-PC;105
+1322;54;Tanjung Belit;9;BAAK-PC;2151322
+1323;36;Jud II (Muba];11;BAAKISTN-PC;2151322
+1324;16;Jud II (Muba);11;BAAKISTN-PC;2151322
+1325;77;Tungkar;8;BAAK-PC;2151322
+1326;73;Tampapute;19;BAAKISTN-PC;2151322
+1327;102;Marding Ding;7;BAAK-PC;2151322
+1328;102;Mardingding;7;BAAK-PC;2151322
+1329;103;Salusuhan;7;BAAK-PC;2151322
+1330;16;Kota Tengah;9;istn-54f2cb5db4;288632
+1331;12;Sihusapi Sumut;7;BAAKISTN-PC;2151322
+1332;12;Lumban Holbung;7;BAAKISTN-PC;2151322
+1333;73;Lumbaja;19;BAAKISTN-PC;2151322
+1334;74;Watorumbe;20;BAAKISTN-PC;2151322
+1335;32;Rengasdengklok;2;BAAKISTN-PC;2151322
+1336;102;Wodon;33;BAAKISTN-PC;2151322
+1337;75;Tambuha;20;BAAK-PC;2151322
+1339;82;Jayaguna II;12;BAAK-PC;2151322
+1340;76;Sikeli;20;BAAK-PC;2151322
+1342;83;Putih Doh;12;BAAK-PC;2151322
+1343;81;Sanahuni;21;BAAKISTN-PC;2151322
+1344;32;Bojonggede Bogor;2;BAAKISTN-PC;2151322
+1345;17;Loa Janan;16;DESKTOP-U7V8A28;8669
+1346;12;Panyambungan;7;BAAKISTN-PC;2151322
+1347;12;Panyabungan;7;user-PC;2151322
+1348;85;Cimanggis Bogor;2;user-PC;2151322
+1349;84;Tanggamus;12;yuli;288632
+1350;53;Atambua;33;user-PC;2151322
+1351;100;Sugitanga;19;BAAKISTN-PC;2151322
+1352;78;KOTO TUO;8;yuli;288632
+1353;12;Sipinggan;7;BAAKISTN-PC;2151322
+1354;32;Depok - Bogor;2;BAAKISTN-PC;2151322
+1355;32;Depok bogor;2;ISTNAKADEMIK-PC;105
+1357;86;Cileungsi;2;user-PC;2151322
+1358;33;Muntilan;3;BAAKISTN-PC;2151322
+1359;85;Srengsem;12;yuli;288632
+1360;86;Bumiharjo;12;yuli;288632
+1361;87;Gaya Baru;12;yuli;288632
+1362;55;Rokan Hilir;9;yuli;288632
+1363;56;Bagansiapiapi;9;yuli;288632
+1364;1;Tawali;44;yuli;288632
+1365;80;Talang Batu;11;yuli;288632
+1366;77;Wale Ale;20;yuli;288632
+1367;13;Kepulauan Yapen;37;istn-54f2cb5db4;288632
+1368;37;Sigli;6;debrina;288632
+1369;14;Mimika;37;istn-54f2cb5db4;288632
+1370;43;Kepulaun Sula;21;yuli;288632
+1371;38;Gayo Lues;6;debrina;288632
+1372;39;Terangun;6;debrina;288632
+1373;5;Mamasa;38;debrina;288632
+1374;54;Manggarai Barat;33;yuli;288632
+1375;72;Bolang Mongondow;17;yuli;288632
+1376;100;Boepinang;19;yuli;288632
+1377;55;Banggai;18;yuli;288632
+1378;57;Karimun Kepulauan Riau;9;yuli;288632
+1379;82;Buru;21;yuli;288632
+1380;6;Polewali Mandar;38;debrina;288632
+1381;100;Bantaeng;19;yuli;288632
+1382;1;Perth;72;istn-54f2cb5db4;288632
+1383;79;kolok;8;istn-54f2cb5db4;288632
+1384;58;Selatpanjang;9;user-PC;2151322
+1385;100;Sibadoar;7;user-PC;2151322
+1386;87;Sukmajaya Depok;2;user-PC;2151322
+1387;80;Tanjung Alai;8;istn-54f2cb5db4;288632
+1388;5;Lombok Utara;23;istn-54f2cb5db4;288632
+1389;81;Nias Barat;8;istn-54f2cb5db4;288632
+1390;73;Talaud;17;istn-54f2cb5db4;288632
+1391;12;Kutaraja;7;BAAKISTN-PC;2151322
+1392;12;Hutaraja;7;BAAKISTN-PC;2151322
+1393;17;Muarajalai;9;istn-54f2cb5db4;288632
+1394;15;Batu Belah;9;istn-54f2cb5db4;288632
+1396;88;Pangandaran;2;istn-54f2cb5db4;288632
+1397;47;Mengwitani;22;user-PC;2151322
+1398;46;Pulau Mambulau;14;user-PC;2151322
+1399;59;Duara;9;user-PC;2151322
+1400;60;Salo Timur;9;user-PC;2151322
+1401;9;Pulau Tengah;1;user-PC;2151322
+1402;16;Papua;37;istn-54f2cb5db4;288632
+1403;78;Liya Mawi;20;user-PC;2151322
+1404;88;Sabah Balau;12;user-PC;2151322
+1405;56;Balantak;18;user-PC;2151322
+1406;89;Negara Aji Tua;12;user-PC;2151322
+1407;57;Gintu;18;user-PC;2151322
+1408;58;Masigi;18;user-PC;2151322
+1409;74;Runggu;17;user-PC;2151322
+1410;67;Mulyorejo;5;user-PC;2151322
+1411;79;Lapasi-pasi;20;user-PC;2151322
+1412;59;Morowali;18;user-PC;2151322
+1413;80;Mataoleo;20;user-PC;2151322
+1414;46;Malela;15;user-PC;2151322
+1415;1;Sabah Cocoa Lahad Datu;57;user-PC;2151322
+1416;90;Padang Manis;12;user-PC;2151322
+1417;100;Anabanua;19;user-PC;2151322
+1418;40;Semadam Awal;6;debrina;288632
+1419;41;Subulussalam;6;debrina;288632
+1420;35;Gaya Baru II;12;istn-54f2cb5db4;288632
+1421;42;Kuta Batu;6;debrina;288632
+1422;47;Rantau Bahai;14;istn-54f2cb5db4;288632
+1423;60;Maliwuko;18;user-PC;2151322
+1424;53;Jago;23;user-PC;2151322
+1425;89;Cakra Negara;23;BAAKISTN-PC;2151322
+1426;16;Batu Gajah;11;BAAKISTN-PC;2151322
+1427;63;Amuntai;15;BAAKISTN-PC;2151322
+1428;63;Kalimantan Selatan;15;BAAKISTN-PC;2151322
+1429;100;Sianipar;7;istn-54f2cb5db4;288632
+1430;32;Kramatmulya;2;BAAKISTN-PC;2151322
+1431;52;Ntonggu;23;BAAKISTN-PC;2151322
+1432;52;Geguntur;23;BAAKISTN-PC;2151322
+1433;72;Seriti;18;BAAKISTN-PC;2151322
+1434;102;Lombok;33;BAAKISTN-PC;2151322
+1435;102;Sukamulia;33;BAAKISTN-PC;2151322
+1436;91;Talang Baru;12;user-PC;2151322
+1437;12;Peusangan;6;debrina;288632
+1438;51;Sukawati;22;BAAKISTN-PC;2151322
+1439;42;Ambai Atas;10;user-PC;2151322
+1440;61;PELALAWAN;9;istn-54f2cb5db4;288632
+1441;150;Lawe Perbunga;7;istn-54f2cb5db4;288632
+1442;36;Ngada;33;istn-54f2cb5db4;288632
+1443;37;Mataloko;33;istn-54f2cb5db4;288632
+1444;43;Tangkura;18;istn-54f2cb5db4;288632
+1445;72;Masani;18;BAAK-PC;105
+1446;73;Pollo Salu;19;BAAK-PC;105
+1447;16;Muara Abab;11;BAAK-PC;105
+1448;52;Maria Wawo Bima ;23;BAAK-PC;105
+1449;12;Bangun Sari;7;BAAK-PC;105
+1450;81;Pelauw ;21;BAAK-PC;105
+1451;102;Peot;33;BAAK-PC;105
+1452;74;Tombula;20;BAAK-PC;105
+1453;73;Taneteriaja;19;BAAK-PC;105
+1454;73;Toraja;19;BAAK-PC;105
+1455;71;Mopuya;17;BAAK-PC;105
+1456;72;Bakke;19;BAAK-PC;105
+1457;12;Bangun Sari;7;BAAK-PC;105
+1458;34;Tanjung Iman;12;istn-54f2cb5db4;288632
+1459;18;Kota Gajah;12;BAAK-PC;105
+1460;14;Ujung Batu Kampar  ;9;BAAK-PC;105
+1461;52;Dori Dungga ;23;ISTNAKADEMIK-PC;105
+1462;16;Uludanau;11;ISTNAKADEMIK-PC;105
+1463;16;Lubuk Linggau ;11;ISTNAKADEMIK-PC;105
+1464;33;Gerung;33;BAAKISTN-PC;2151322
+1465;43;Rantau Alai;10;istn-54f2cb5db4;288632
+1466;44;Merangin;10;istn-54f2cb5db4;288632
+1467;6;Muko Muko;26;istn-54f2cb5db4;288632
+1468;68;Kertosono;5;DUDY;admin
+1469;92;Margorejo;12;istn-54f2cb5db4;288632
+1470;83;Takofi;21;istn-54f2cb5db4;288632
+1471;84;Batujungku;21;istn-54f2cb5db4;288632
+1472;81;Lirang;21;user-PC;2151322
+1473;72;Mamuju;18;user-PC;2151322
+1474;73;Sa'dan Ulusalu;19;user-PC;2151322
+1475;55;Oekusi;33;istn-54f2cb5db4;288632
+1476;11;Hutagurgur;7;istn-54f2cb5db4;288632
+1477;45;Sungai Tanang;10;istn-54f2cb5db4;288632
+1478;75;Beo;17;user-PC;2151322
+1479;62;Sungai Pakning;9;user-PC;2151322
+1480;123;Suppirang;19;user-PC;2151322
+1481;64;Berian Baru;15;user-PC;2151322
+1482;63;Cerenti;9;user-PC;2151322
+1483;124;Baranti;19;user-PC;2151322
+1484;64;Kabun;9;user-PC;2151322
+1485;76;Sengir;17;user-PC;2151322
+1486;108;Bala;19;user-PC;2151322
+1487;77;Tatelu;17;user-PC;2151322
+1488;78;Dimembe;17;user-PC;2151322
+1489;125;Ammerung;19;user-PC;2151322
+1490;79;Maririk;17;user-PC;2151322
+1491;65;Pulau Jambu;9;user-PC;2151322
+1492;93;Kampung Baru;12;user-PC;2151322
+1493;69;Lewong;5;user-PC;2151322
+1494;89;Cibalong Tasikmalaya;2;user-PC;8669
+1495;43;Biara Barat;6;debrina;288632
+1496;57;Tandiallo;33;user-PC;2151322
+1497;81;Asinua;20;user-PC;2151322
+1498;110;Baruara;7;user-PC;8669
+1499;1;Cikedung;29;user-PC;8669
+1500;90;Sukaraja;2;user-PC;8669
+1501;82;Usuku;20;user-PC;2151322
+1502;126;Malangke;19;user-PC;2151322
+1503;73;Lokotoy;18;user-PC;2151322
+1504;103;Dalo;33;user-PC;2151322
+1505;83;Inalahi;20;user-PC;2151322
+1506;85;Madapolo;21;user-PC;2151322
+1507;9;Batu Betumpang;35;user-PC;2151322
+1508;55;Pohgading;23;user-PC;2151322
+1509;56;Janapria;23;user-PC;2151322
+1510;48;Bahu;14;user-PC;2151322
+1511;111;Purbatua Barung;7;user-PC;2151322
+1512;91;P.Sidimpuan;7;ISTNAKADEMIK-PC;105
+1513;23;Mowewe;20;ISTNAKADEMIK-PC;105
+1514;46;Rikit Gaib;6;debrina;288632
+1515;45;Lubuk Kelumpang;11;ISTNAKADEMIK-PC;105
+1516;40;Belani;11;ISTNAKADEMIK-PC;105
+1517;80;Ngaringan;3;user-PC;2151322
+1518;45;Blangkejeren;6;debrina;288632
+1519;22;Singkarak;8;ISTNAKADEMIK-PC;105
+1520;56;Tule;17;ISTNAKADEMIK-PC;105
+1521;50;Taturan;17;ISTNAKADEMIK-PC;105
+1522;80;Taturan;17;istn-54f2cb5db4;288632
+1523;26;Tanjung Bintang;12;istn-54f2cb5db4;288632
+1524;90;Besikama;33;ISTNAKADEMIK-PC;105
+1525;82;Balai Gurah;8;user-PC;2151322
+1526;2;Gunung Sindur;29;user-PC;2151322
+1527;83;Kolok Sawahlunto;8;user-PC;2151322
+1528;22;Simpang Tolang;7;ISTNAKADEMIK-PC;105
+1529;22;Sibuntuon;7;ISTNAKADEMIK-PC;105
+1530;112;Silangkitang;7;user-PC;2151322
+1531;5;Cibeber-Lebak;34;BAAKISTN-PC;2151322
+1532;110;Hela;7;user-PC;2151322
+1533;40;Tengkudak;22;BAAKISTN-PC;2151322
+1534;46;Lubuk Sepuh;10;istn-54f2cb5db4;288632
+1535;47;Sarolangun;10;istn-54f2cb5db4;288632
+1536;94;Balinuraga;12;istn-54f2cb5db4;288632
+1537;12;Hutabalang;7;BAAKISTN-PC;2151322
+1538;10;TANJUNGPANDAN;35;istn-54f2cb5db4;288632
+1539;81;KEMU;11;istn-54f2cb5db4;288632
+1540;44;BUANGIN;25;istn-54f2cb5db4;288632
+1541;90;Praya;23;istn-54f2cb5db4;288632
+1542;1;KULAMPU;37;istn-54f2cb5db4;288632
+1543;95;Restu Rahayu;12;DESKTOP-CHACMKN;8990
+1544;81;RAANAN LAMA;17;istn-54f2cb5db4;288632
+1545;100;Makasar;19;user-PC;2151322
+1546;102;Wakuru;33;BAAKISTN-PC;2151322
+1547;66;Tanjung Labu;9;istn-54f2cb5db4;288632
+1548;62;Desa Babai;14;BAAKISTN-PC;2151322
+1549;99;gelombang;33;debrina;291820
+1550;84;Sijunjung;8;istn-54f2cb5db4;288632
+1551;100;Tungkam;7;user-PC;2151322
+1552;12;Deah Pangwa;6;debrina;288632
+1553;12;Hutagurgur;7;BAAKISTN-PC;2151322
+1554;91;Keroya;23;istn-54f2cb5db4;288632
+1555;11;Sarko;35;istn-54f2cb5db4;288632
+1556;96;Rejo Agung;12;istn-54f2cb5db4;288632
+1557;127;Rantepao;19;istn-54f2cb5db4;288632
+1558;128;Luwu Timur;19;istn-54f2cb5db4;288632
+1559;92;Tanak Awu;23;istn-54f2cb5db4;288632
+1560;129;Sukamaju;19;istn-54f2cb5db4;288632
+1561;2;Boven Digoel;37;istn-54f2cb5db4;288632
+1562;3;Bornoh;47;istn-54f2cb5db4;288632
+1563;86;Kepulauan Aru;21;istn-54f2cb5db4;288632
+1564;43;Afdling III;13;istn-54f2cb5db4;288632
+1565;97;Bandar Sari;12;istn-54f2cb5db4;288632
+1566;11;MISLAK;33;istn-54f2cb5db4;288632
+1567;85;Maninjau;8;istn-54f2cb5db4;288632
+1568;87;Titawai;21;istn-54f2cb5db4;288632
+1569;151;Delitua;7;istn-54f2cb5db4;288632
+1570;44;Muara Jekak;13;istn-54f2cb5db4;288632
+1571;98;Saputih Raman;12;istn-54f2cb5db4;288632
+1572;99;Penengahan;12;istn-54f2cb5db4;288632
+1573;74;Anjungan;18;istn-54f2cb5db4;288632
+1574;152;Asam Jawa;7;istn-54f2cb5db4;288632
+1575;84;Lapai;20;istn-54f2cb5db4;288632
+1576;130;Kalo Bani;19;istn-54f2cb5db4;288632
+1578;104;Manggarai Timur;33;istn-54f2cb5db4;288632
+1579;109;Padacenga;19;istn-54f2cb5db4;288632
+1580;105;Gunung Terang;33;istn-54f2cb5db4;288632
+1581;67;Ujung Tanjung;9;istn-54f2cb5db4;288632
+1582;45;Rantebua;25;istn-54f2cb5db4;288632
+1583;153;Tetehosi;7;istn-54f2cb5db4;288632
+1584;48;Rantau Harapan;10;istn-54f2cb5db4;288632
+1585;154;Tetesua;7;istn-54f2cb5db4;288632
+1586;106;Borong;33;istn-54f2cb5db4;288632
+1587;107;Nusa Tenggara Timur;33;istn-54f2cb5db4;288632
+1588;86;Silungkang;8;istn-54f2cb5db4;288632
+1589;155;Palipi;7;istn-54f2cb5db4;288632
+1590;73;Paung;33;user-PC;105
+1591;73;Darra;19;BAAKISTN-PC;2151322
+1592;6;Tangerang Selatan;34;istn-54f2cb5db4;288632
+1593;4;Muara Delang;0;istn-54f2cb5db4;288632
+1594;39;Margo Dadi;12;istn-54f2cb5db4;288632
+1595;113;Simalungun;7;istn-54f2cb5db4;288632
+1596;114;Saribudolok;7;istn-54f2cb5db4;288632
+1597;12;Sungai Liat;35;istn-54f2cb5db4;288632
+1598;131;Kalo' Bani;19;user-PC;2151322
+1599;108;SIKKA;33;istn-54f2cb5db4;288632
+1600;70;Jatiroto;5;istn-54f2cb5db4;288632
+1601;17;Tanjung Jaya;12;debrina;288632
+1602;10;Kepulauan Seribu;1;istn-54f2cb5db4;288632
+1603;109;EMPAT LAWANG;33;istn-54f2cb5db4;288632
+1604;110;LENDUR;33;istn-54f2cb5db4;288632
+1605;0;MUARA PINANG;11;istn-54f2cb5db4;288632
+1607;15;MAYBRAT;37;istn-54f2cb5db4;288632
+1608;115;Padang Lawas;7;istn-54f2cb5db4;288632
+1609;116;Sibuhuan;7;istn-54f2cb5db4;288632
+1610;111;KUPANG;33;istn-54f2cb5db4;288632
+1611;112;Larantuka;33;istn-54f2cb5db4;288632
+1612;88;Seram Bagian Timur;21;istn-54f2cb5db4;288632
+1613;40;Kacaribu;7;istn-54f2cb5db4;288632
+1614;68;Siak;9;istn-54f2cb5db4;288632
+1615;1;Karang Endah;12;istn-54f2cb5db4;288632
+1616;37;Seluma;26;istn-54f2cb5db4;288632
+1617;156;Batang Serangan;7;istn-54f2cb5db4;288632
+1618;93;Tepas;23;istn-54f2cb5db4;288632
+1619;38;Suka Merindu;26;istn-54f2cb5db4;288632
+1620;118;Hutadangka;7;istn-54f2cb5db4;288632
+1621;117;Sosor Bagot;7;istn-54f2cb5db4;288632
+1622;89;Langgur;21;istn-54f2cb5db4;288632
+1623;119;Berastagi;7;istn-54f2cb5db4;288632
+1624;120;Sidikalang;7;istn-54f2cb5db4;288632
+1625;75;Tanah Lanto;18;istn-54f2cb5db4;288632
+1626;157;Gotong Royong;7;istn-54f2cb5db4;288632
+1627;121;Pagar Gunung;7;istn-54f2cb5db4;288632
+1628;47;Cot Kumbang;6;debrina;288632
+1629;52;Panigoran;22;istn-54f2cb5db4;288632
+1630;69;Tambelan;9;istn-54f2cb5db4;288632
+1631;82;Pahang Asri;11;istn-54f2cb5db4;288632
+1632;94;Kopang;23;istn-54f2cb5db4;288632
+1633;83;Bontote'ne;11;istn-54f2cb5db4;288632
+1634;70;Sawit Permai;9;istn-54f2cb5db4;288632
+1635;8;Bulo;16;istn-54f2cb5db4;288632
+1636;132;Maccini Ayo;19;istn-54f2cb5db4;288632
+1637;17;Bontomate'ne;37;istn-54f2cb5db4;288632
+1638;95;Benete;23;istn-54f2cb5db4;288632
+1639;71;Kemang Manis;9;istn-54f2cb5db4;288632
+1640;133;Langke Raya;19;istn-54f2cb5db4;288632
+1641;120;Aek Popo;7;istn-54f2cb5db4;288632
+1642;113;Sariak Laweh;33;istn-54f2cb5db4;288632
+1643;8;Suka Rami;26;istn-54f2cb5db4;288632
+1644;114;Manufui;33;istn-54f2cb5db4;288632
+1645;13;Bencah;35;istn-54f2cb5db4;288632
+1646;14;Bangka Selatan;35;istn-54f2cb5db4;288632
+1647;85;Kowane;20;istn-54f2cb5db4;288632
+1648;49;Pasar Muara Siau;10;istn-54f2cb5db4;288632
+1649;50;Sirolangun Bangko;10;istn-54f2cb5db4;288632
+1650;28;Seram Bagian Barat;9;istn-54f2cb5db4;288632
+1651;82;Akesimbeka;17;istn-54f2cb5db4;288632
+1652;83;Siau Tagulandang Biaro;17;istn-54f2cb5db4;288632
+1653;96;Garupuk;23;istn-54f2cb5db4;288632
+1654;72;Singingi;9;istn-54f2cb5db4;288632
+1655;30;Lubuk Ambacang;9;istn-54f2cb5db4;288632
+1656;9;Dusun Baru II;26;istn-54f2cb5db4;288632
+1657;10;Darat Sawah;26;istn-54f2cb5db4;288632
+1658;13;Pulau Morotai;21;istn-54f2cb5db4;288632
+1659;4;Tempel, Sleman;4;istn-54f2cb5db4;288632
+1660;4;Jembrana;22;istn-54f2cb5db4;288632
+1661;3;Pangkalan Bun;14;istn-54f2cb5db4;288632
+1662;125;Kajong;33;debrina;288632
+1663;18;Waropen;37;istn-54f2cb5db4;288632
+1664;45;Landak;13;istn-54f2cb5db4;288632
+1665;40;Pesawaran;12;istn-54f2cb5db4;288632
+1666;73;Tanjung Uban;9;user-PC;2151322
+1667;90;Hative Besar Ambon;21;istn-54f2cb5db4;288632
+1668;10;Sumbok Dayek;6;debrina;288632
+1669;87;Lubuk Alung;8;user-PC;8990
+1670;5;Buay Nyerupa;12;debrina;288632
+1671;4;Panjang Bandar Lampung;12;debrina;288632
+1672;12;Sileang;7;BAAKISTN-PC;2151322
+1673;74;Bagan Batu;9;user-PC;2151322
+1674;7;Tangerang;34;user-PC;2151322
+1675;158;Sarulla;7;user-PC;2151322
+1676;131;Kalo' Bani;19;user-PC;8990
+1677;115;korleko;33;debrina;288632
+1678;97;Dasan Lekong;23;debrina;288632
+1679;51;Lubuk Lawas;10;debrina;288632
+1680;19;SORONG SELATAN;37;debrina;288632
+1681;5;Talion;0;debrina;288632
+1682;6;Malinau Kota;0;debrina;288632
+1683;84;Rantau Kasih;11;debrina;288632
+1684;52;Sridadi;10;debrina;288632
+1685;134;Pangli;19;debrina;288632
+1686;135;Tawau;19;DESKTOP-MG98F4F;8990
+1687;86;Muna Barat;20;debrina;288632
+1688;88;LASI MUDO;8;debrina;288632
+1689;116;Lekebai;33;debrina;288632
+1690;53;Tanjung Pauh;10;debrina;288632
+1691;75;Batu Bersurat;9;debrina;288632
+1692;7;Waigamo;38;debrina;288632
+1693;8;Majene;38;debrina;288632
+1694;9;Wonomulyo;38;debrina;288632
+1695;136;Marassi;19;debrina;288632
+1696;76;Sedinginan;9;debrina;288632
+1697;98;Penangsak;23;debrina;288632
+1698;84;Tarun;17;debrina;288632
+1699;85;Kepulauan Taland;17;debrina;288632
+1700;159;Securai;7;debrina;288632
+1701;54;SUNGAI SAHUT;10;debrina;288632
+1702;99;MONTONG TINGI;23;debrina;288632
+1703;85;MUKTI KARYA;11;debrina;288632
+1704;81;TANAH JAWA;3;debrina;288632
+1705;2;Gedung Raja;12;DESKTOP-CHACMKN;8990
+1706;117;Alorongga;33;debrina;288632
+1707;44;Beureugang;6;DESKTOP-CHACMKN;8990
+1708;86;SIDO GEDE;11;debrina;288632
+1709;3;Pasar Banjit;12;DESKTOP-CHACMKN;8990
+1710;6;Bangunan;12;DESKTOP-CHACMKN;8990
+1711;118;LAWAR;33;debrina;288632
+1712;119;ALOR;33;debrina;288632
+1713;87;TANJUNG KEPAYANG;11;debrina;288632
+1714;120;JANJIMATOGU;7;debrina;288632
+1715;76;Makapa;18;debrina;288632
+1716;120;SALAKAN;33;debrina;288632
+1717;20;TELUK BINTUNI;37;debrina;288632
+1719;10;Seludengen;38;debrina;288632
+1720;48;Krueng Batee;6;debrina;288632
+1721;49;Aceh Barat Daya;6;debrina;288632
+1722;50;Aceh Jaya;6;debrina;288632
+1723;6;Sabedo;23;debrina;288632
+1724;121;Labuan Bajo;33;debrina;288632
+1725;7;Tambah Dadi;12;debrina;288632
+1726;86;Belang;17;debrina;288632
+1727;91;Tual;21;debrina;288632
+1728;120;Parulohan;7;debrina;288632
+1729;92;Namsina;21;debrina;288632
+1730;88;Datar Lebar;11;debrina;288632
+1731;122;Kefamananu;33;debrina;288632
+1732;55;SUKA DAMAI;10;debrina;288632
+1733;56;TEBO;10;debrina;288632
+1734;46;GE'TENGAN;25;debrina;288632
+1735;77;PEMATANG REBA;9;debrina;288632
+1736;78;INDRAGILIR HULU;9;debrina;288632
+1737;79;Kura Taji;9;debrina;288632
+1738;137;Tempe;19;debrina;288632
+1739;100;Lendang Nangka;23;user-PC;8669
+1740;18;Braja Sakti;12;BAAKISTN-PC;2151322
+1741;18;Desa Bangun Rejo;16;DESKTOP-QFC16ML;2151322
+1742;52;Montong Belae;23;BAAKISTN-PC;2151322
+1743;8;Makkah;34;user-PC;8669
+1744;12;Sibitara;7;BAAKISTN-PC;2151322
+1745;123;Otan;33;user-PC;8669
+1746;73;Baras IV;19;BAAKISTN-PC;2151322
+1747;16;Remban;11;BAAKISTN-PC;2151322
+1748;52;Gelogor Mapong;23;BAAKISTN-PC;2151322
+1749;93;Sofifi;21;user-PC;8669
+1750;160; Galang;7;user-PC;8669
+1751;94;Tulehu;21;user-PC;8669
+1752;100;Lombongan;19;user-PC;8669
+1753;139;Wara;19;user-PC;8669
+1754;26;Kotaagung;12;DESKTOP-CHACMKN;8990
+1755;80;Pelintung;9;user-PC;8669
+1756;102;Raka;33;BAAKISTN-PC;2151322
+1757;14;Tamora;9;BAAKISTN-PC;2151322
+1758;102;Baru;33;BAAKISTN-PC;2151322
+1759;102;Lela;33;BAAKISTN-PC;2151322
+1760;102;Lela;33;BAAKISTN-PC;2151322
+1761;73;Tana Toraja;19;BAAKISTN-PC;2151322
+1762;53;Pernang;24;BAAKISTN-PC;2151322
+1763;14;Simpang Kelayang;9;BAAKISTN-PC;2151322
+1764;52;Korleko;23;BAAKISTN-PC;2151322
+1765;74;Lipu;20;BAAKISTN-PC;2151322
+1766;19;Lolo;16;DESKTOP-U7V8A28;8669
+1767;27;Notoharjo;12;debrina;288632
+1768;101;Dasan Lian,Aikmel Utara;23;user-PC;8669
+1769;52;Masbagik;23;BAAKISTN-PC;2151322
+1770;18;Itik Randai;12;BAAKISTN-PC;2151322
+1771;93;Silago;8;debrina;288632
+1772;102;Baru;33;BAAKISTN-PC;2151322
+1773;102;Lengor;33;BAAKISTN-PC;2151322
+1774;102;Parinding;33;BAAKISTN-PC;2151322
+1775;52;Rempung;23;BAAKISTN-PC;2151322
+1776;35;Lamongan;5;BAAKISTN-PC;2151322
+1777;71;Tondano;17;BAAKISTN-PC;2151322
+1778;71;Palelon;17;BAAKISTN-PC;2151322
+1779;31;Jeranglah Rendah;26;BAAKISTN-PC;2151322
+1780;13;Kambang;8;BAAKISTN-PC;2151322
+1781;17;Muara Aman;26;BAAKISTN-PC;2151322
+1782;12;Kuala Keupeng;6;debrina;288632
+1783;12;Maranti Timur;7;BAAKISTN-PC;2151322
+1784;52;Salama;23;BAAKISTN-PC;2151322
+1785;17;Jeranglah Tinggi;26;BAAKISTN-PC;2151322
+1786;13;Paninggahan;8;BAAKISTN-PC;2151322
+1787;12;Janarata;6;debrina;288632
+1788;16;Sumber Alam;11;BAAKISTN-PC;2151322
+1789;16;Lampung;11;BAAKISTN-PC;2151322
+1790;16;Kotabumi;11;BAAKISTN-PC;2151322
+1791;18;Kotabumi;12;BAAKISTN-PC;2151322
+1792;12;Samosir;7;BAAKISTN-PC;2151322
+1793;15;Keretak;35;debrina;288632
+1794;11;Desa Cot;6;BAAKISTN-PC;2151322
+1795;4;Pancor;23;BAAKISTN-PC;2151322
+1796;19;Kotabaru Seberida;9;BAAKISTN-PC;2151322
+1797;37;Wotan Ulumado;24;BAAKISTN-PC;2151322
+1798;100;Janjimatogu;7;BAAKISTN-PC;2151322
+1799;11;Jaman Mesjid;6;BAAKISTN-PC;2151322
+1800;12;Kampung Sennah;7;BAAKISTN-PC;2151322
+1801;36;Epil;11;BAAKISTN-PC;2151322
+1802;44;Bangodua;2;BAAKISTN-PC;2151322
+1803;16;Batumarta;12;BAAKISTN-PC;2151322
+1804;24;Kota Jantho;6;BAAKISTN-PC;2151322
+1805;35;Aikmel;23;BAAKISTN-PC;2151322
+1806;14;Lingkungan;9;BAAKISTN-PC;2151322
+1807;36;Sidomulyo;12;BAAKISTN-PC;2151322
+1808;54;Muntung;33;BAAKISTN-PC;2151322
+1809;57;Sededap;10;debrina;288632
+1810;81;Natuna;9;debrina;288632
+1811;82;Tanjung Balai Karimun;9;debrina;288632
+1812;102;TERUWAI;23;debrina;288632
+1813;83;Gunung Malelo;9;debrina;288632
+1814;103;Peresak;23;debrina;288632
+1815;11;Pangli Palawa;38;debrina;288632
+1816;104;Kekale;23;debrina;288632
+1817;105;Gundul;23;debrina;288632
+1818;84;BUATAN;9;debrina;288632
+1819;85;Peranap;9;debrina;288632
+1820;106;Karang Langko;23;debrina;288632
+1821;95;Halmahera Utara;21;debrina;288632
+1822;1;Wondama;79;debrina;288632
+1823;2;Wasior;79;debrina;288632
+1824;3;Teluk Wondama;79;debrina;288632
+1825;86;Kampar;9;acer-PC;2151322
+1826;87;Kandis;9;debrina;288632
+1827;140;Buntu Datu;19;debrina;288632
+1828;8;Sukasari;12;debrina;288632
+1829;51;KENYARAN;6;debrina;288632
+1830;52;GAYOLUES;6;debrina;288632
+1831;88;RUMBIO JAYA;9;debrina;288632
+1832;89;ALAM PANJANG;9;debrina;288632
+1833;58;KARYA INDAH;10;debrina;288632
+1834;59;SALAM BUKU;10;debrina;288632
+1835;60;Kembang Paseban;10;debrina;288632
+1836;90;SUNGAI MANAU;9;debrina;288632
+1838;91;Sialang Jaya;9;debrina;288632
+1839;28;Negara Bumi;12;debrina;288632
+1840;87;Noongan;17;debrina;288632
+1841;96;BUNTU;21;debrina;288632
+1842;9;Jabung;12;debrina;288632
+1843;161;Pematang Siantar;7;debrina;288632
+1844;39;Bukit Peninjauan;26;debrina;288632
+1845;40;Kepahiang;26;debrina;288632
+1846;41;Bengkulu Selatan;26;debrina;288632
+1847;90;Karang Tanding;11;debrina;288632
+1848;2;Waro;44;debrina;288632
+1849;97;Telutih Baru;21;debrina;288632
+1850;162;Hutagaol;7;debrina;288632
+1851;42;Pelajau;26;debrina;288632
+1852;98;Gamsungi;21;debrina;288632
+1853;99;Halmahera Barat;21;debrina;288632
+1854;163;Samosir;7;debrina;288632
+1855;1;Cempaka;11;DESKTOP-QFC16ML;2151322
+1856;10;Sukarame;12;debrina;288632
+1857;164;SEI MATI;7;debrina;288632
+1858;61;BAJUBANG;10;debrina;288632
+1859;12;Sido Binangun;12;DESKTOP-CHACMKN;8990
+1860;8;GIRIAN;18;debrina;288632
+1861;25;KOTA BITUNG;17;debrina;288632
+1862;26;Tahuna;17;debrina;288632
+1863;27;Kepl.Sangihe;17;debrina;288632
+1864;28;Makaroyen;17;debrina;288632
+1865;29;Tomohon;17;debrina;288632
+1866;1;Boalemo;86;debrina;288632
+1867;94;Marotai;21;debrina;288632
+1869;11;Batu Macenno;19;debrina;288632
+1870;88;Mopugad Selatan;17;debrina;288632
+1871;54;Tongananga;24;debrina;288632
+1872;55;Nagekeo;24;debrina;288632
+1873;29;Kesumajaya;12;debrina;288632
+1874;30;Panjang;12;debrina;288632
+1875;87;BAU BAU;20;debrina;288632
+1876;91;Muratara;11;debrina;288632
+1877;2;JEDDAH;53;debrina;288632
+1878;46;Melawi;13;debrina;288632
+1879;47;Menukung;13;debrina;288632
+1880;74;NGEDULUSI;33;debrina;288632
+1881;75;TIMOR TENGAH UTARA;33;debrina;288632
+1882;13;Balai Kencana;12;debrina;288632
+1883;14;Pesisir Barat;12;debrina;288632
+1884;43;Talang Donok;26;debrina;288632
+1885;44;Lebong;26;debrina;288632
+1886;47;Tembagapura;25;debrina;288632
+1887;48;Mimika;25;debrina;288632
+1888;92;Cambai;11;debrina;288632
+1889;45;Air Periukan;26;debrina;288632
+1890;46;Tertik;26;debrina;288632
+1891;92;Selat Panjang;9;debrina;288632
+1892;93;Kepulauan Meranti;9;debrina;288632
+1893;53;Kenawat Redelong;6;debrina;288632
+1894;55;Bener Meriah;6;debrina;288632
+1895;16;Bangka Tengah;35;debrina;288632
+1896;2;Waur;21;debrina;288632
+1897;25;Kotatua;7;debrina;288632
+1898;11;Padangsidimpuan;7;debrina;288632
+1899;93;Banyuasin;11;DESKTOP-CHACMKN;8990
+1900;12;SIMANDUMA;7;debrina;288632
+1901;15;Tanggulangin;12;debrina;288632
+1902;44;Hoi;27;debrina;288632
+1903;20;Timor Tengah Selatan;27;debrina;288632
+1904;89;Duloduo;17;debrina;288632
+1905;16;Tanjung Iman;12;debrina;288632
+1906;94;Jagaraga;11;debrina;288632
+1907;10;Kalidadi;12;debrina;288632
+1908;9;Kalirejo;12;debrina;288632
+1909;107;Kombo-wowo;23;debrina;288632
+1910;31;Kresnowidodo;12;debrina;288632
+1911;32;Pesawaran;12;debrina;288632
+1912;165;Tandam Hilir;7;debrina;288632
+1913;160;Lahat;7;debrina;288632
+1914;110;SIMENGMENG;7;debrina;288632
+1915;82;Grobogan;3;debrina;288632
+1916;1;MALUKU;21;debrina;288632
+1917;48;Kalimantan Barat;13;debrina;288632
+1918;33;Mesuji;12;debrina;288632
+1919;34;Way Nangka;12;debrina;288632
+1920;8;Lumbirejo;12;debrina;288632
+1921;3;Halmahera Selatan;21;debrina;288632
+1922;13;PEA JANGGUT;7;debrina;288632
+1923;89;BALAI SELASA;8;debrina;288632
+1924;83;WONODADI;3;debrina;288632
+1925;95;Suka Mukti;11;debrina;288632
+1926;140;Rumoong Atas;19;debrina;288632
+1927;90;Pakuure;17;debrina;288632
+1928;91;Minahasa Selatan;17;debrina;288632
+1929;4;Dakulamo;21;debrina;288632
+1930;84;Sri Wungu;3;debrina;288632
+1931;35;Wonosari;12;debrina;288632
+1932;14;RAJAMALIGAS;7;debrina;288632
+1933;96;Ogan Ilir;11;DESKTOP-QFC16ML;2151322
+1934;94;GERINGGING BARU;9;debrina;288632
+1935;95;KUANTAN SINGINGI;9;debrina;288632
+1936;9;Limbur Tembesi;10;debrina;288632
+1937;10;Sarolangun;10;debrina;288632
+1938;15;Gunung Sitoli;7;debrina;288632
+1939;4;Keerom;79;debrina;288632
+1940;92;Amurang;17;debrina;288632
+1941;93;Sonder;17;debrina;288632
+1942;127;Maki;33;debrina;288632
+1943;36;Negeri Jemanten;12;debrina;288632
+1944;16;Sinar Gunung;7;debrina;288632
+1945;5;Guwang;22;debrina;288632
+1946;17;Manik Hataran;7;debrina;288632
+1947;11;Sengkang;19;debrina;288632
+1948;166;Aek Rau;7;user-PC;8669
+1949;167;Maga Lombang;7;user-PC;8669
+1950;62;Rantau Rasau;10;user-PC;8669
+1951;90;Pasaman Barat;8;debrina;288632
+1952;91;Balai Tinggi;8;debrina;288632
+1953;94;Lima Puluh Kota;8;debrina;288632
+1954;88;Wakatobi;20;debrina;288632
+1955;37;Sukapura;12;debrina;288632
+1956;91;Wanaraja Garut;2;debrina;288632
+1957;5;Lanny Jaya;79;debrina;288632
+1958;95;Guguk Sarai;8;debrina;288632
+1959;5;Sidangoli;21;debrina;288632
+1960;63;Sei. Jambat;10;DESKTOP-QFC16ML;2151322
+1961;38;Raman Endra;12;debrina;288632
+1962;39;Sidorejo;12;debrina;288632
+1963;108;Sakra;23;debrina;288632
+1964;109;Kore;23;debrina;288632
+1965;56;Pulau Tiga;6;debrina;288632
+1966;57;ACEH TAMIANG;6;debrina;288632
+1967;47;Babakan Baru;26;debrina;288632
+1968;110;SENGKEREK;23;debrina;288632
+1969;45;OSSU;27;debrina;288632
+1970;40;Gunung Agung;12;debrina;288632
+1971;97;Sukamoro;11;debrina;288632
+1972;41;Wonoharjo;12;debrina;288632
+1973;42;Way Kanan;12;debrina;288632
+1974;64;Kuamang;10;debrina;288632
+1975;43;Mulyosari;12;debrina;288632
+1976;44;Gayabaru;12;debrina;288632
+1977;48;Sekunyit;26;debrina;288632
+1978;49;Kaur;26;debrina;288632
+1979;6;Geser;21;debrina;288632
+1980;111;Narmada;23;debrina;288632
+1981;7;Popjetur;21;debrina;288632
+1982;140;Battang;19;debrina;288632
+1983;141;Luwu;19;debrina;288632
+1984;142;Sindereng Rappang;19;debrina;288632
+1985;112;Kerembong;23;debrina;288632
+1986;65;Nipah Panjang;10;debrina;288632
+1987;66;Tanjung Jabung Timur;10;debrina;288632
+1988;45;Purwa Agung;12;debrina;288632
+1989;67;Alang Alang;10;debrina;288632
+1990;110;Lemo;19;DESKTOP-MG98F4F;8990
+1991;143;Selulemo;19;debrina;288632
+1992;6;Sa'dan Matallo;79;debrina;288632
+1993;7;Pegunungan Bintang;79;debrina;288632
+1994;18;Suka;7;debrina;288632
+1995;46;Makartitama;12;debrina;288632
+1996;113;SEDAYU;23;debrina;288632
+1997;68;Teluk Kuali;10;debrina;288632
+1998;47;Lintik;12;debrina;288632
+1999;8;Siwa;79;debrina;288632
+2000;8;Waesili;21;debrina;288632
+2001;69;Rantau Panjang;10;debrina;288632
+2002;144;Padangrora;19;debrina;288632
+2003;160;Sihorbo;7;debrina;288632
+2004;48;Way Limau;12;DESKTOP-MG98F4F;8990
+2005;49;Bunga Mayang;12;debrina;288632
+2006;2;Kuala Lumpur;57;debrina;288632
+2007;96;Kualu;9;debrina;288632
+2008;9;Biak Numfor;79;DESKTOP-CHACMKN;8990
+2009;19;Tinjowan;7;debrina;288632
+2010;7;Tanjung Lapang;0;debrina;288632
+2011;9;Waton Ulu Mado;21;debrina;288632
+2012;101;Nataea;33;debrina;288632
+2013;46;Tualang;27;debrina;288632
+2014;17;Delas;35;debrina;288632
+2015;58;Simpang IV Upah;6;debrina;288632
+2016;18;Toboali;35;debrina;288632
+2017;98;Tanah Agung;11;debrina;288632
+2018;114;Rato;23;debrina;288632
+2019;21;Maget. B;37;debrina;288632
+2020;20;Rao;7;debrina;288632
+2021;50;Sekampung;12;debrina;288632
+2022;51;Panjang;12;debrina;288632
+2023;52;Comok Sinar Jaya;12;debrina;288632
+2024;53;Sribasuki;12;debrina;288632
+2025;85;Kab.Semarang;3;debrina;288632
+2026;63;Pangkoh;14;debrina;288632
+2027;54;Pugungraharjo;12;debrina;288632
+2028;55;Rawa Pitu;12;debrina;288632
+2029;56;Sukamara;12;debrina;288632
+2030;57;Keputran;12;debrina;288632
+2031;59;Ulee Glee;6;debrina;288632
+2032;58;B.Lampung;12;debrina;288632
+2033;60;Pinto Makmur;6;debrina;288632
+2034;96;Pasar Rao;8;user-PC;8669
+2035;18;Gisting Bawah;12;BAAKISTN-PC;2151322
+2036;15;Ulee Gle;6;BAAKISTN-PC;2151322
+2037;75;Saludengen;38;BAAKISTN-PC;2151322
+2038;15;Pondok Tinggi;10;BAAKISTN-PC;2151322
+2039;120;Kabanjahe;7;user-PC;8669
+2040;1;Situngir;7;BAAKISTN-PC;2151322
+2041;59;Gunung Besar;12;istn-54f2cb5db4;288632
+2042;60;Kalipapan;12;istn-54f2cb5db4;288632
+2043;61;Banjar Agung;12;istn-54f2cb5db4;288632
+2044;62;Punggur;12;istn-54f2cb5db4;288632
+2045;19;Surantih;8;istn-54f2cb5db4;288632
+2046;97;Baluk;9;istn-54f2cb5db4;288632
+2047;50;Palak Bengkerung;26;istn-54f2cb5db4;288632
+2048;99;Nyukang Harjo;11;debrina;288632
+2049;97;Koto Baru;8;debrina;288632
+2050;63;Simpang Luas;12;debrina;288632
+2051;98;Paguh Duku;8;debrina;288632
+2052;64;Pekondoh;12;debrina;288632
+2053;21;NATUMINGKA;7;debrina;288632
+2054;70;MANDIANGIN;10;debrina;288632
+2055;65;Sinar Tanjung;12;DESKTOP-CHACMKN;8990
+2056;10;Lubuk Lungkang;11;debrina;288632
+2057;66;Negeri Ratu;12;debrina;288632
+2058;67;Sukobinangun;12;DESKTOP-QFC16ML;2151322
+2059;68;MANGGALA;12;debrina;288632
+2060;69;DAYA MURNI;12;debrina;288632
+2061;61;PANGWA;6;debrina;288632
+2062;11;Air Itam;11;debrina;288632
+2063;71;TELUK SINGKAWANG;10;debrina;288632
+2064;12;Rawalpindi;11;debrina;288632
+2065;115;Repok Prine;23;DESKTOP-CHACMKN;8990
+2066;110;Rote Ndao;33;debrina;288632
+2067;70;Bandarjaya;12;debrina;288632
+2068;22;SERUI;37;debrina;288632
+2069;62;Matang Kumbang;6;debrina;288632
+2070;63;BULUDURI;6;debrina;288632
+2071;72;Kebagusan;12;debrina;288632
+2072;71;RATNA KHATON;12;debrina;288632
+2073;73;TOTOKATON;12;debrina;288632
+2074;74;Suputih Banyak;12;debrina;288632
+2075;116;Bareng;23;debrina;288632
+2076;77;Tomoli;18;debrina;288632
+2077;22;SUMBUL;7;debrina;288632
+2078;168;P. SUSU;7;debrina;288632
+2079;64;Lae Hole;6;debrina;288632
+2080;65;L.Pakam;6;debrina;288632
+2081;128;Nadda;33;DESKTOP-CHACMKN;8990
+2082;23;Persunian;7;debrina;288632
+2083;49;LOALO;25;debrina;288632
+2084;13;Biaro Lama;11;debrina;288632
+2085;75;Mengandungsari;12;debrina;288632
+2086;53;Sibangkaja;22;debrina;288632
+2087;24;Batu Horpak;7;debrina;288632
+2088;14;Karang Jaya;11;debrina;288632
+2089;94;Minsei;17;debrina;288632
+2090;76;Way Seputih;12;debrina;288632
+2091;100;Kampung Tanjung;11;debrina;288632
+2092;77;Mumbang Jaya;12;debrina;288632
+2093;25;Motung;7;debrina;288632
+2094;19;Cit Belinyu;35;debrina;288632
+2095;98;Perawang;9;debrina;288632
+2096;99;TAPUS;9;debrina;288632
+2097;1;BANDAR SEI KIJANG;9;debrina;288632
+2098;15;PENANGGIRAN;11;debrina;288632
+2099;2;Ngaso;9;debrina;288632
+2100;9;Sinar Banten;34;debrina;288632
+2101;3;EMIRAT ARAB;53;debrina;288632
+2102;64;Pir Butong;14;debrina;288632
+2103;101;Rejosari;11;debrina;288632
+2104;10;Rangkas Bitung;34;debrina;288632
+2105;78;Tulung Pasik;12;debrina;288632
+2106;89;Lapangi-Pangi;20;debrina;288632
+2107;79;Rawajitu;12;DESKTOP-JJT9RCV;288632
+2108;80;WAYMILI;12;debrina;288632
+2109;169;Parratusan;7;debrina;288632
+2110;81;Talang Jawa;12;debrina;288632
+2111;102;Paga;33;DESKTOP-MG98F4F;8990
+2112;100;Dabo Singkep;9;DESKTOP-MG98F4F;8990
+2113;100;Onolimbu;7;DESKTOP-MG98F4F;8990
+2114;10;Simodong;7;DESKTOP-MG98F4F;8990
+2115;129;Uwa;33;DESKTOP-U7V8A28;8669
+2116;65;Kotawaringin Timur;14;DESKTOP-U7V8A28;8669
+2117;232;Ujung Tanduk;7;DESKTOP-U7V8A28;8669
+2118;100;Jaya Tinggi;12;DESKTOP-U7V8A28;8669
+2119;101;Bangun Rejo;12;DESKTOP-U7V8A28;8669
+2120;102;Seputih Raman;12;DESKTOP-U7V8A28;8669
+2121;99;Sumani;8;DESKTOP-U7V8A28;8669
+2122;170;Urung Pane;7;DESKTOP-U7V8A28;8669
+2123;102;Teruwai;23;DESKTOP-U7V8A28;8669
+2125;117;Kombo - Wawo;23;DESKTOP-U7V8A28;8669
+2126;34;Pahae Julu;7;DESKTOP-QFC16ML;2151322
+2127;34;Pahae Julu;7;DESKTOP-QFC16ML;2151322
+2128;75;Kefamenanu;33;DESKTOP-QFC16ML;2151322
+2129;4;Kab. Semarang;3;DESKTOP-QFC16ML;2151322
+2130;71;Sukosari;5;DESKTOP-U7V8A28;8669
+2131;100;Padang Koto Gadang;8;DESKTOP-U7V8A28;8669
+2132;95;Doloduo;17;DESKTOP-U7V8A28;8669
+2133;100;Buatan II;9;DESKTOP-U7V8A28;8669
+2134;118;Sape - Bima;23;DESKTOP-U7V8A28;8669
+2135;96;Makaaroyen;17;DESKTOP-U7V8A28;8669
+2136;100;Morotai;21;DESKTOP-U7V8A28;8669
+2137;100;Malua;19;DESKTOP-QFC16ML;2151322
+2138;23;Samabusa;37;DESKTOP-U7V8A28;8669
+2139;100;Kurai Taji;8;DESKTOP-U7V8A28;8669
+2140;145;Bone - Bone;19;DESKTOP-U7V8A28;8669
+2141;146;Sumarambu;19;DESKTOP-U7V8A28;8669
+2142;59;Gunung Sari;12;DESKTOP-QFC16ML;2151322
+2143;18;banjit;12;DESKTOP-QFC16ML;2151322
+2144;18;Banjit;12;DESKTOP-QFC16ML;2151322
+2145;15;Muara Sabak;10;DESKTOP-QFC16ML;2151322
+2146;100;Paleri;21;DESKTOP-U7V8A28;8669
+2147;18;Ramayana;12;DESKTOP-QFC16ML;2151322
+2148;102;Sepang;11;DESKTOP-U7V8A28;8669
+2149;4;Karangwangi;2;DESKTOP-QFC16ML;2151322
+2150;36;Bangunan;12;DESKTOP-QFC16ML;2151322
+2151;51;Pelajaran;26;DESKTOP-U7V8A28;8669
+2152;52;Sumber Urip;26;DESKTOP-U7V8A28;8669
+2153;171;Tanjung Kubah;7;DESKTOP-U7V8A28;8669
+2154;172;Sitorang;7;DESKTOP-U7V8A28;8669
+2155;42;Pisang Indah;12;DESKTOP-QFC16ML;2151322
+2156;73;Ratte;19;DESKTOP-MG98F4F;8990
+2157;24;Bandar Jaya;12;DESKTOP-QFC16ML;2151322
+2158;102;Weetebula;33;DESKTOP-QFC16ML;2151322
+2159;73;Padang Kalua;19;DESKTOP-QFC16ML;2151322
+2160;62;Palangka Raya;14;DESKTOP-QFC16ML;2151322
+2161;24;Sumber Bahagia;12;DESKTOP-QFC16ML;2151322
+2162;31;Hiliweto;7;DESKTOP-QFC16ML;2151322
+2163;1;Pematang Panggang;11;DESKTOP-QFC16ML;2151322
+2164;10;Mauwa;79;DESKTOP-U7V8A28;8669
+2165;20;Tator;16;DESKTOP-U7V8A28;8669
+2166;170;Bandar Baru;7;DESKTOP-U7V8A28;8669
+2167;62;Pangi;14;DESKTOP-QFC16ML;2151322
+2168;14;Rajamaligas;7;DESKTOP-MG98F4F;8990
+2169;3;Rangkas Bitung-Lebak;29;DESKTOP-MG98F4F;8990
+2170;4;Punggul;29;DESKTOP-MG98F4F;8990
+2171;130;Punggul , Badung;33;DESKTOP-MG98F4F;8990
+2172;11;Rangkasbitung-Lebak;34;DESKTOP-MG98F4F;8990
+2173;1;Alam Panjang;80;DESKTOP-MG98F4F;8990
+2174;2;Toli Toli;80;DESKTOP-MG98F4F;8990
+2175;72;Sido Binangun;5;DESKTOP-MG98F4F;8990
+2176;3;Girian;80;DESKTOP-MG98F4F;8990
+2177;101;Maluku;21;DESKTOP-MG98F4F;8990
+2178;73;Kresno Widodo;5;DESKTOP-MG98F4F;8990
+2179;103;Pagar Alam;11;DESKTOP-MG98F4F;8990
+2180;65;Tanjung Karang;15;DESKTOP-MG98F4F;8990
+2181;74;Restu Rahayu;5;DESKTOP-MG98F4F;8990
+2182;104;Bajubang;11;DESKTOP-MG98F4F;8990
+2183;105;Sei Mati;11;DESKTOP-MG98F4F;8990
+2184;106;Sungai Manau;11;DESKTOP-MG98F4F;8990
+2185;4;Salam Buku;80;DESKTOP-MG98F4F;8990
+2186;5;Lumban Gorat;80;DESKTOP-MG98F4F;8990
+2187;12;Pollung;7;DESKTOP-QFC16ML;2151322
+2188;6;Kab. Semarang;80;DESKTOP-MG98F4F;8990
+2189;34;Tikong;21;DESKTOP-QFC16ML;2151322
+2190;24;Sukmajaya Depok Bogor;2;DESKTOP-QFC16ML;2151322
+2191;100;Sei Muka;7;DESKTOP-QFC16ML;2151322
+2192;32;Ratatotok;17;DESKTOP-QFC16ML;2151322
+2193;12;Emplasment PTTN Hutabaru Nangka;7;DESKTOP-QFC16ML;2151322
+2194;15;Lambur;10;DESKTOP-QFC16ML;2151322
+2195;31;Selali;26;DESKTOP-QFC16ML;2151322
+2196;35;Loyok;23;DESKTOP-QFC16ML;2151322
+2197;17;Talang Kabu;26;DESKTOP-QFC16ML;2151322
+2198;81;Seram Bagian Barat;21;DESKTOP-QFC16ML;2151322
+2199;81;Kawa;21;DESKTOP-QFC16ML;2151322
+2200;48;Pulu - Pulu;19;DESKTOP-QFC16ML;2151322
+2201;22;Sadar Sriwijaya;12;DESKTOP-QFC16ML;2151322
+2202;16;Batumarta II;11;DESKTOP-QFC16ML;2151322
+2203;12;Medan Jaya;7;DESKTOP-QFC16ML;2151322
+2204;12;lumban dairi;7;DESKTOP-QFC16ML;2151322
+2205;12;Lumban Dairi;7;DESKTOP-QFC16ML;2151322
+2206;75;Tabang Barat;38;DESKTOP-QFC16ML;2151322
+2207;16;Lumpatan;11;DESKTOP-QFC16ML;2151322
+2208;18;Banyuasin;12;DESKTOP-QFC16ML;2151322
+2209;18;Pakuan Aji;12;DESKTOP-QFC16ML;2151322
+2210;102;Kenari;33;DESKTOP-QFC16ML;2151322
+2211;12;Siringoringo;7;DESKTOP-QFC16ML;2151322
+2212;17;Talang Indah;26;DESKTOP-QFC16ML;2151322
+2213;34;Pringgarata;23;DESKTOP-QFC16ML;2151322
+2214;2;Sarik Alahan Tigo;8;DESKTOP-QFC16ML;2151322
+2215;73;Rappang;19;DESKTOP-QFC16ML;2151322
+2216;55;Batui;18;acer-PC;2151322
+2217;64;Kuaro;16;acer-PC;2151322
+2218;81;Maluku Tengah;21;acer-PC;2151322
+2219;32;Tihuana;21;acer-PC;2151322
+2220;14;Muara Jalai;9;acer-PC;2151322
+2221;11;Jagakarsa;1;acer-PC;2151322
+2222;13;Padang Kunik;8;acer-PC;2151322
+2223;73;Pebulian;19;acer-PC;2151322
+2224;72;Marsaoleh;18;acer-PC;2151322
+2225;72;Bungku Barat;18;acer-PC;2151322
+2226;63;Marabahan;15;acer-PC;2151322
+2227;17;Lubuk Sanai;26;acer-PC;2151322
+2228;18;Lubuklinggau;12;acer-PC;2151322
+2229;64;Awayan;16;acer-PC;2151322
+2230;18;Lampung Timur;12;acer-PC;2151322
+2231;18;Batu Badak;12;acer-PC;2151322
+2232;21;Tampakan;16;acer-PC;2151322
+2233;100;Lombok Tengah;23;acer-PC;2151322
+2234;100;Pugung Raharjo;12;acer-PC;2151322
+2235;100;Permai Indah;12;DESKTOP-MG98F4F;8990
+2236;1;Tanjung Kepayang;11;DESKTOP-MG98F4F;8990
+2237;24;Candi Rejo;12;DESKTOP-QFC16ML;2151322
+2238;66;Rantau Indah;9;DESKTOP-MG98F4F;8990
+2239;1;Sengkerek;9;DESKTOP-MG98F4F;8990
+2240;1;We'oe;24;DESKTOP-MG98F4F;8990
+2241;73;Tokke;19;acer-PC;2151322
+2242;100;Kualu Nenas;9;acer-PC;2151322
+2243;1;Natalea;33;DESKTOP-MG98F4F;8990
+2244;2;Lenek;24;DESKTOP-MG98F4F;8990
+2245;99;Buntu;19;DESKTOP-MG98F4F;8990
+2246;100;Rajawali;12;DESKTOP-QFC16ML;2151322
+2247;12;Cengkareng;1;DESKTOP-QFC16ML;2151322
+2248;100;Lombok Timur;23;DESKTOP-QFC16ML;2151322
+2249;72;Bajubang;10;DESKTOP-QFC16ML;2151322
+2250;120;Montong Sari;23;DESKTOP-QFC16ML;2151322
+2251;81;Popjetur;21;DESKTOP-QFC16ML;2151322
+2252;73;Parepare;19;DESKTOP-QFC16ML;2151322
+2253;101;Kumbung;8;DESKTOP-QFC16ML;2151322
+2254;102;Lunang;8;DESKTOP-QFC16ML;2151322
+2255;53;Serami Baru;26;DESKTOP-QFC16ML;2151322
+2256;78;Tangkiang;18;DESKTOP-QFC16ML;2151322
+2257;79;Banggai;18;DESKTOP-QFC16ML;2151322
+2258;7;Sedayu;80;DESKTOP-MG98F4F;8990
+2259;12;Pematang Siantar;7;DESKTOP-QFC16ML;2151322
+2260;18;Tanjung Sari;12;DESKTOP-QFC16ML;2151322
+2261;103;Pasar Banjit;12;DESKTOP-U7V8A28;8669
+2262;75;Sidogede;5;DESKTOP-U7V8A28;8669
+2263;103;Tarusan;8;DESKTOP-U7V8A28;8669
+2264;54;Bali Nuraga;22;DESKTOP-U7V8A28;8669
+2265;100;Lonthoir;21;DESKTOP-U7V8A28;8669
+2266;37;Tegal Rejo;4;DESKTOP-U7V8A28;8669
+2267;104;Bonjol;8;DESKTOP-U7V8A28;8669
+2268;32;Depok Bogor;2;DESKTOP-QFC16ML;2151322
+2269;18;Kota Bumi;12;DESKTOP-QFC16ML;2151322
+2270;100;Natar Lampung Selatan;12;DESKTOP-QFC16ML;2151322
+2271;49;Antan;13;DESKTOP-QFC16ML;2151322
+2272;100;Lonthoir;21;DESKTOP-QFC16ML;2151322
+2273;76;Sumenep,Kab.Sumenep;5;DESKTOP-U7V8A28;8669
+2274;101;Ganjar Agung;12;DESKTOP-U7V8A28;8669
+2275;159;TELUK PANJI;7;DESKTOP-U7V8A28;8669
+2276;24;Noanemani;37;DESKTOP-U7V8A28;8669
+2277;121;Kuang Busir;23;DESKTOP-U7V8A28;8669
+2278;147;Wanua  Waru;19;DESKTOP-U7V8A28;8669
+2279;130;Sampie;19;DESKTOP-U7V8A28;8669
+2280;301;Jeddah;53;DESKTOP-QFC16ML;2151322
+2281;104;Adijaya;12;DESKTOP-U7V8A28;8669
+2282;11;Elelim;79;DESKTOP-U7V8A28;8669
+2283;111;Betung Kuning;12;DESKTOP-U7V8A28;8669
+2284;77;Bancangan Sambit Ponorogo;5;DESKTOP-QFC16ML;2151322
+2285;112;Budi Aji;12;DESKTOP-U7V8A28;8669
+2286;113;Pandan Surat;12;DESKTOP-U7V8A28;8669
+2287;100;Sorek Satu;9;DESKTOP-U7V8A28;8669
+2288;122;Tente;23;DESKTOP-U7V8A28;8669
+2289;101;Lubuk Gaung;9;DESKTOP-U7V8A28;8669
+2290;2;Paninggahan;8;acer-PC;2151322
+2291;131;Tentang;33;acer-PC;2151322
+2292;100;Ambalutu;7;acer-PC;2151322
+2293;130;Torok;33;acer-PC;2151322
+2294;54;Tanah Rekah;26;acer-PC;2151322
+2295;148;Bangkeng Tabbing;19;acer-PC;2151322
+2296;149;Baru Tancung;19;acer-PC;2151322
+2297;150;Luwu Utara;19;acer-PC;2151322
+2298;151;Rantetayo;19;acer-PC;2151322
+2299;114;Sukamulya;12;acer-PC;2151322
+2300;47;Pante Macassar;27;acer-PC;2151322
+2301;80;Barati;18;DESKTOP-U7V8A28;8669
+2302;73;Harapan Mukti;10;DESKTOP-U7V8A28;8669
+2303;102;Ujung Batu;9;DESKTOP-U7V8A28;8669
+2304;66;Hulu Sungai Utara;15;DESKTOP-U7V8A28;8669
+2305;55;Padang Siring;26;DESKTOP-U7V8A28;8669
+2306;115;Kecubung Jaya;12;DESKTOP-U7V8A28;8669
+2307;103;Bangko Jaya;9;DESKTOP-U7V8A28;8669
+2308;173;Aek Napultak;7;DESKTOP-U7V8A28;8669
+2309;107;Markisa;11;acer-PC;2151322
+2310;50;Beloyang;13;acer-PC;2151322
+2311;56;Kasuk Baru;26;acer-PC;2151322
+2312;57;Padang Jati;26;acer-PC;2151322
+2313;90;Ranomeeto;20;DESKTOP-U7V8A28;8669
+2314;58;Beringin Datar;26;DESKTOP-U7V8A28;8669
+2315;108;Perjaya;11;DESKTOP-U7V8A28;8669
+2316;59;Retak Mudik;26;DESKTOP-U7V8A28;8669
+2317;60;Muara Tetap;26;DESKTOP-U7V8A28;8669
+2318;74;Lawang Agung;10;DESKTOP-U7V8A28;8669
+2319;92;Cengkong;2;DESKTOP-QFC16ML;2151322
+2320;100;Air Tawar;8;DESKTOP-U7V8A28;8669
+2321;61;Talang Tais;26;DESKTOP-U7V8A28;8669
+2322;65;Ujoh Bilang;16;acer-PC;2151322
+2323;78;Bungkuk;5;acer-PC;2151322
+2324;56;Singaraja;22;acer-PC;2151322
+2325;12;Sarmi;79;acer-PC;2151322
+2327;116;Wiralaga;12;DESKTOP-U7V8A28;8669
+2328;174;Aek Simanat;7;DESKTOP-U7V8A28;8669
+2329;62;Semelako;26;DESKTOP-U7V8A28;8669
+2330;100;KEPRI;9;acer-PC;2151322
+2331;104;Tanjungpinang;9;acer-PC;2151322
+2332;175;Sei Daun;7;acer-PC;2151322
+2333;11;Lenteng Agung;1;acer-PC;2151322
+2334;120;Pabatu;7;acer-PC;2151322
+2335;120;Buntu Turunan;7;acer-PC;2151322
+2336;109;Anyar;11;DESKTOP-U7V8A28;8669
+2337;13;Jakarta Selatan;1;DESKTOP-QFC16ML;2151322
+2338;117;Pauh Tanjung Iman;12;DESKTOP-QFC16ML;2151322
+2339;118;Onoharjo;12;acer-PC;2151322
+2340;63;Bengkulu Utara;26;acer-PC;2151322
+2341;66;Lhoksukon;6;acer-PC;2151322
+2342;100;Pematang Sapat;9;acer-PC;2151322
+2343;100;Batu Raja;12;acer-PC;2151322
+2344;64;Gunung Ayu;26;acer-PC;2151322
+2345;105;Seberang Taluk;9;acer-PC;2151322
+2346;106;Riau;9;acer-PC;2151322
+2347;20;Tanjungpandan;35;acer-PC;2151322
+2348;21;Bangka Belitung;35;acer-PC;2151322
+2349;56;Santong Barat;24;acer-PC;2151322
+2350;123;Plampang;23;acer-PC;2151322
+2351;91;Waonu;20;acer-PC;2151322
+2352;99;Lampung Selatan;12;acer-PC;2151322
+2354;105;Sumatera Barat;8;DESKTOP-QFC16ML;2151322
+2355;92;Lauru;20;DESKTOP-QFC16ML;2151322
+2356;93;Sulawesi Tenggara;20;DESKTOP-QFC16ML;2151322
+2357;1;Hutabulu;7;DESKTOP-CHACMKN;8990
+2358;1;Way Isem;12;DESKTOP-CHACMKN;8990
+2359;1;Air Hitam;16;DESKTOP-CHACMKN;8990
+2360;2;Tanjungpinang;9;DESKTOP-CHACMKN;8990
+2361;106;Lalan;8;DESKTOP-QFC16ML;2151322
+2362;11;Pangwa;6;DESKTOP-QFC16ML;2151322
+2363;75;Desa Danau;10;DESKTOP-QFC16ML;2151322
+2364;120;Buluduri;7;DESKTOP-QFC16ML;2151322
+2365;100;Ratnakhaton;12;DESKTOP-QFC16ML;2151322
+2366;105;Wono Agung;12;DESKTOP-QFC16ML;2151322
+2367;100;Daya Murni;12;DESKTOP-QFC16ML;2151322
+2368;93;Pancoran Mas Depok Bogor;2;DESKTOP-QFC16ML;2151322
+2369;110;Inderalaya;11;DESKTOP-QFC16ML;2151322
+2370;110;Karang Cahaya;11;DESKTOP-QFC16ML;2151322
+2371;57;Tenganan;22;DESKTOP-QFC16ML;2151322
+2372;18;Tegal Ombo;12;DESKTOP-QFC16ML;2151322
+2373;120;Rantauprapat;7;DESKTOP-QFC16ML;2151322
+2374;119;Menggala;12;DESKTOP-QFC16ML;2151322
+2375;51;Sungai Kakap;13;DESKTOP-CHACMKN;8990
+2376;99;Rantau Kasai;9;DESKTOP-CHACMKN;8990
+2377;1;Maget - B;2;DESKTOP-CHACMKN;8990
+2378;176;Natumingka;7;DESKTOP-QFC16ML;2151322
+2379;86;Purwogondo;3;DESKTOP-QFC16ML;2151322
+2380;94;Wora;2;DESKTOP-CHACMKN;8990
+2381;1;Bah Sidua Dua;7;DESKTOP-CHACMKN;8990
+2382;76;Jambi;10;DESKTOP-QFC16ML;2151322
+2383;120;Sinar Tanjung;12;DESKTOP-QFC16ML;2151322
+2384;107;Pekan Baru;9;DESKTOP-QFC16ML;2151322
+2385;120;Lae Hole;7;DESKTOP-QFC16ML;2151322
+2386;66;Seruyan;14;DESKTOP-QFC16ML;2151322
+2387;87;Sukoharjo II;3;DESKTOP-QFC16ML;2151322
+2388;109;Parsunian;7;DESKTOP-QFC16ML;2151322
+2389;102;Dokulamo;21;DESKTOP-QFC16ML;2151322
+2390;97;Wuwuk;17;DESKTOP-QFC16ML;2151322
+2391;110;Sukamukti;11;DESKTOP-QFC16ML;2151322
+2392;57;Longko;24;DESKTOP-QFC16ML;2151322
+2393;120;Kalirejo;12;DESKTOP-CHACMKN;8990
+2394;65;Bukit Peninjauan I;26;DESKTOP-CHACMKN;8990
+2395;121;Sribawono;12;DESKTOP-QFC16ML;2151322
+2396;130;Paringgonan;7;DESKTOP-QFC16ML;2151322
+2397;108;Geringging Baru;9;DESKTOP-QFC16ML;2151322
+2398;4;Ungaran;3;DESKTOP-QFC16ML;2151322
+2399;66;Talang Alai;26;acer-PC;2151322
+2400;122;Gedongtataan;12;DESKTOP-CHACMKN;8990
+2401;152;Lamasi;19;DESKTOP-QFC16ML;2151322
+2402;25;Teminabuan;37;DESKTOP-QFC16ML;2151322
+2404;67;Bungkang;15;DESKTOP-QFC16ML;2151322
+2405;82;Belitang;12;DESKTOP-QFC16ML;2151322
+2406;123;Blitang;12;DESKTOP-QFC16ML;2151322
+2407;68;Murung Abuin;15;DESKTOP-QFC16ML;2151322
+2408;111;Margo Mulyo;11;DESKTOP-QFC16ML;2151322
+2409;107;Pinang Awan;8;DESKTOP-QFC16ML;2151322
+2410;112;Patila;11;DESKTOP-QFC16ML;2151322
+2411;109;Teluk Paman;9;DESKTOP-QFC16ML;2151322
+2412;95;Bandung Barat;2;acer-PC;2151322
+2413;177;Batu Binumbun;7;acer-PC;2151322
+2414;12;Sumatera Utara;7;acer-PC;2151322
+2415;69;Tapin;15;acer-PC;2151322
+2416;153;Malakiri;19;DESKTOP-QFC16ML;2151322
+2417;1;Br. Medahan;22;DESKTOP-U7V8A28;8990
+2418;1;Rejowinangun;15;DESKTOP-U7V8A28;8990
+2419;10;Mekarsari;12;DESKTOP-U7V8A28;8990
+2420;98;Tenggara;17;DESKTOP-QFC16ML;2151322
+2422;108;Aur Tajungkang;8;DESKTOP-QFC16ML;2151322
+2423;48;Dili;27;DESKTOP-QFC16ML;2151322
+2424;124;Ganti;12;DESKTOP-QFC16ML;2151322
+2425;88;Ganti Warno;3;DESKTOP-QFC16ML;2151322
+2426;49;Covalima;27;DESKTOP-QFC16ML;2151322
+2427;2;Seririt;22;DESKTOP-U7V8A28;8990
+2428;94;Timor Leste;28;DESKTOP-U7V8A28;8990
+2429;1;Penggentungan;26;DESKTOP-U7V8A28;8990
+2430;1;Kota Makassar;19;DESKTOP-U7V8A28;8990
+2431;67;Suka Merindu ;26;DESKTOP-QFC16ML;2151322
+2432;1;Muara Bulian;10;DESKTOP-U7V8A28;8990
+2433;111;Pamibak;19;DESKTOP-QFC16ML;2151322
+2434;154;Sulawesi Selatan;19;DESKTOP-QFC16ML;2151322
+2435;111;Sungai Dusun;9;DESKTOP-QFC16ML;2151322
+2436;125;Totokaton;12;DESKTOP-QFC16ML;2151322
+2437;100;Muara Kandis;8;DESKTOP-QFC16ML;2151322
+2438;67;Peudaya;6;DESKTOP-QFC16ML;2151322
+2439;70;Kayakah;15;DESKTOP-QFC16ML;2151322
+2440;71;Murung Kupang;15;DESKTOP-QFC16ML;2151322
+2441;126;Mekar Sari ;12;DESKTOP-QFC16ML;2151322
+2443;127;Siswo Bangun;12;DESKTOP-QFC16ML;2151322
+2444;8;Kalimantan Utara;0;DESKTOP-QFC16ML;2151322
+2445;68;Idi;6;DESKTOP-QFC16ML;2151322
+2446;128;Tegal Rejo;12;DESKTOP-QFC16ML;2151322
+2447;129;Gisting Jaya;12;DESKTOP-QFC16ML;2151322
+2448;109;Muara Kandis;8;DESKTOP-QFC16ML;2151322
+2449;110;Sungai Beringin;8;DESKTOP-QFC16ML;2151322
+2450;100;Padang-padang;19;DESKTOP-QFC16ML;2151322
+2451;100;Padang - padang;19;DESKTOP-QFC16ML;2151322
+2452;77;Sanggaran Agung;10;DESKTOP-QFC16ML;2151322
+2453;78;Air Tenang;10;DESKTOP-QFC16ML;2151322
+2454;79;Sungai Jering;10;DESKTOP-QFC16ML;2151322
+2455;58;Penyaringan;22;DESKTOP-QFC16ML;2151322
+2456;155;Maruang;19;DESKTOP-QFC16ML;2151322
+2457;156;Padang - Padang;19;DESKTOP-QFC16ML;2151322
+2458;80;Pelawan;10;DESKTOP-QFC16ML;2151322
+2459;113;Trikarya;11;DESKTOP-QFC16ML;2151322
+2460;110;Makale;19;DESKTOP-QFC16ML;2151322
+2462;157;To' Katimbang;19;DESKTOP-QFC16ML;2151322
+2463;130;Panaragan Jaya;12;DESKTOP-QFC16ML;2151322
+2464;69;Lueng Bimba;6;DESKTOP-QFC16ML;2151322
+2465;70;Aceh;6;DESKTOP-QFC16ML;2151322
+2466;81;Merlung;10;DESKTOP-QFC16ML;2151322
+2467;82;Lempur Tengah;10;DESKTOP-QFC16ML;2151322
+2468;114;OKI;11;DESKTOP-QFC16ML;2151322
+2469;131;Bagelen;12;DESKTOP-QFC16ML;2151322
+2470;115;Sumatera Selatan;11;DESKTOP-QFC16ML;2151322
+2471;72;Bati-Bati;15;DESKTOP-QFC16ML;2151322
+2472;94;Lapulu ;20;DESKTOP-QFC16ML;2151322
+2473;13;Numfor;79;DESKTOP-QFC16ML;2151322
+2474;26;Numfor;37;DESKTOP-QFC16ML;2151322
+2475;66;Kota Bangun;16;DESKTOP-QFC16ML;2151322
+2478;67;Kutai Kartanegara;16;DESKTOP-QFC16ML;2151322
+2479;68;Kalimantan Timur;16;DESKTOP-QFC16ML;2151322
+2480;68;Bengkulu;26;DESKTOP-QFC16ML;2151322
+2481;69;Lubuk Mukti;26;DESKTOP-QFC16ML;2151322
+2482;106;Sindang Pagar;12;DESKTOP-QFC16ML;2151322
+2484;27;Pasang Kaliba;37;DESKTOP-QFC16ML;2151322
+2486;100;Pengkores;23;DESKTOP-QFC16ML;2151322
+2487;130;Sinartanjung;12;DESKTOP-QFC16ML;2151322
+2488;62;Puruk Cahu;14;DESKTOP-QFC16ML;2151322
+2489;67;Kalimantan Tengah;14;DESKTOP-QFC16ML;2151322
+2490;68;Murung Raya;14;DESKTOP-QFC16ML;2151322
+2491;83;Tanah Periuk;10;DESKTOP-QFC16ML;2151322
+2492;100;Simpang Penawar;12;DESKTOP-QFC16ML;2151322
+2493;71;Tualang Cut;6;DESKTOP-QFC16ML;2151322
+2494;70;Maras;26;DESKTOP-QFC16ML;2151322
+2495;132;Lampung Utara;12;DESKTOP-QFC16ML;2151322
+2496;59; Werdhi Agung;22;DESKTOP-QFC16ML;2151322
+2497;99;Sulawesi Utara;17;DESKTOP-QFC16ML;2151322
+2498;96;Malimping;2;DESKTOP-QFC16ML;2151322
+2499;12;Malingping;34;DESKTOP-QFC16ML;2151322
+2500;132;Wudu;33;DESKTOP-QFC16ML;2151322
+2501;116;Darat;11;DESKTOP-QFC16ML;2151322
+2502;24;Sendang Agung;12;DESKTOP-QFC16ML;2151322
+2503;112;Tj. Alai Kampar;9;DESKTOP-QFC16ML;2151322
+2504;21;Manggar;35;DESKTOP-QFC16ML;2151322
+2505;22;Belitung Timur;35;DESKTOP-QFC16ML;2151322
+2506;117;Sumatera Selatan;11;DESKTOP-QFC16ML;2151322
+2507;133;Sanam;33;DESKTOP-QFC16ML;2151322
+2508;73;Barabat;15;DESKTOP-QFC16ML;2151322
+2509;133;Bandar Agung;12;DESKTOP-QFC16ML;2151322
+2510;134;Bandar Abung;12;DESKTOP-QFC16ML;2151322
+2511;74;Barabai;15;DESKTOP-QFC16ML;2151322
+2512;80;Baradatu;12;DESKTOP-QFC16ML;2151322
+2513;120;Riding;11;DESKTOP-QFC16ML;2151322
+2514;135;Srikaton;12;DESKTOP-QFC16ML;2151322
+2515;120;Paringgonan;7;DESKTOP-QFC16ML;2151322
+2516;18;Toto Mulyo;12;DESKTOP-QFC16ML;2151322
+2517;102;Mataloko;33;DESKTOP-QFC16ML;2151322
+2518;11;Mata Ie ;6;DESKTOP-QFC16ML;2151322
+2519;34;Togoreba Sungi;21;DESKTOP-QFC16ML;2151322
+2520;136;Sukabanjar;12;DESKTOP-QFC16ML;2151322
+2521;18;Sumber Sari;12;DESKTOP-QFC16ML;2151322
+2522;100;Bunut Seberang;12;DESKTOP-QFC16ML;2151322
+2523;9;Pembeliangan;0;DESKTOP-QFC16ML;2151322
+2524;69;Sungai Aji Kuning;16;DESKTOP-QFC16ML;2151322
+2525;113;Parsaoran Nauli;9;DESKTOP-QFC16ML;2151322
+2526;158;Bonepute;19;DESKTOP-QFC16ML;2151322
+2527;100;Borgo;17;DESKTOP-QFC16ML;2151322
+2528;134;Papela;33;DESKTOP-QFC16ML;2151322
+2529;135;Rotendao;33;DESKTOP-QFC16ML;2151322
+2530;71;Mukomuko;26;DESKTOP-QFC16ML;2151322
+2531;118;Merpang;11;DESKTOP-QFC16ML;2151322
+2532;136;Macope;33;DESKTOP-QFC16ML;2151322
+2533;137;Gunung Labuhan;12;DESKTOP-QFC16ML;2151322
+2534;137;Maumbi;33;DESKTOP-QFC16ML;2151322
+2535;72;Bungin Tambun;26;DESKTOP-QFC16ML;2151322
+2536;138;Gunung Madu;12;DESKTOP-QFC16ML;2151322
+2537;84;Pelabuhan Dagang;10;DESKTOP-QFC16ML;2151322
+2538;23;Penyak;35;DESKTOP-QFC16ML;2151322
+2539;159;Pattedong;19;DESKTOP-QFC16ML;2151322
+2540;139;Rama Indra;12;DESKTOP-QFC16ML;2151322
+2541;120;Kebun Binanga;7;DESKTOP-QFC16ML;2151322
+2543;100;Babat;11;DESKTOP-QFC16ML;2151322
+2544;121;Lunggaian;11;DESKTOP-QFC16ML;2151322
+2545;124;Bangket Tengak;23;DESKTOP-QFC16ML;2151322
+2546;121;Pakuan Ratu;11;DESKTOP-QFC16ML;2151322
+2547;121;Pujiharjo;11;DESKTOP-QFC16ML;2151322
+2548;31;Teluk Kayu Putih;10;DESKTOP-QFC16ML;2151322
+2549;75;Parenggean;15;DESKTOP-QFC16ML;2151322
+2551;1;Moanemani;79;DESKTOP-CHACMKN;8990
+2552;14;Asam Jawa;1;DESKTOP-CHACMKN;8990
+2553;99;Sinar Rejeki;12;DESKTOP-CHACMKN;8990
+2554;101;P. Susu;17;DESKTOP-CHACMKN;8990
+2555;10;Loalo;79;DESKTOP-CHACMKN;8990
+2556;35;Bangko-Jambi;10;DESKTOP-QFC16ML;2151322
+2557;17;Parda Suka;26;DESKTOP-QFC16ML;2151322
+2558;1;Pulu - Pulu';19;DESKTOP-CHACMKN;8990
+2559;85;Mampun Baru;10;DESKTOP-QFC16ML;2151322
+2560;89;Teluk Singkawang;10;DESKTOP-QFC16ML;2151322
+2561;100;Pematang Panggang Oki;12;DESKTOP-QFC16ML;2151322
+2562;121;Sumbul;7;DESKTOP-QFC16ML;2151322
+2563;18;Sukoharjo III;12;DESKTOP-QFC16ML;2151322
+2564;12;Pea Janggut;7;DESKTOP-QFC16ML;2151322
+2565;13;Tabing;8;DESKTOP-QFC16ML;2151322
+2566;12;PT. Torganda;7;DESKTOP-QFC16ML;2151322
+2567;32;Bojonggede, Bogor;2;DESKTOP-QFC16ML;2151322
+2568;178;Kota Batak;7;DESKTOP-QFC16ML;2151322
+2569;50;Kamenasa;27;DESKTOP-QFC16ML;2151322
+2570;51;Kamenasa Timor Timur;27;DESKTOP-QFC16ML;2151322
+2571;99;Uwuran Dua;17;DESKTOP-QFC16ML;2151322
+2572;34;Oba;21;DESKTOP-QFC16ML;2151322
+2573;140;Mekar Asri;12;DESKTOP-QFC16ML;2151322
+2574;31;Koto Tengah;10;DESKTOP-QFC16ML;2151322
+2575;141;Panaragan;12;DESKTOP-QFC16ML;2151322
+2576;123;Perigi;11;DESKTOP-QFC16ML;2151322
+2577;18;Muara Tenang;12;acer-PC;2151322
+2578;18;Kenali;12;acer-PC;2151322
+2579;142;Raman Utara;12;DESKTOP-283P160;123
+2580;143;Kegeringan;33;DESKTOP-283P160;123
+2581;144;Kibang Budi Jaya;33;DESKTOP-283P160;123
+2582;144;Pasar Lubuk Jambi;33;DESKTOP-283P160;123
+2583;145;Sumber Agung;33;DESKTOP-283P160;123
+2584;145;Balerejo;33;DESKTOP-283P160;123
+2585;146;Sugihwaras;33;DESKTOP-283P160;123
+2586;147;Pulau Baru;33;DESKTOP-283P160;123
+2587;148;Tete Induk;33;DESKTOP-283P160;123
+2588;149;Sei Hanyo;33;DESKTOP-283P160;123
+2589;150;Tajur;33;DESKTOP-283P160;123
+2590;151;Beka;33;DESKTOP-283P160;123
+2591;100;Sipitu pitu;7;DESKTOP-QFC16ML;2151322
+2592;152;Lela;33;DESKTOP-283P160;123
+2593;153;Pujoasri;33;DESKTOP-283P160;123
+2594;154;Pahayu Jaya;33;DESKTOP-283P160;123
+2595;155;Bangun Jaya;33;DESKTOP-283P160;123
+2596;156;Taman Cari;33;DESKTOP-283P160;123
+2597;157;Sulawesi Tengah;33;DESKTOP-283P160;123
+2598;158;Karta;33;DESKTOP-283P160;123
+2599;159;Pulau Burung;33;DESKTOP-283P160;123
+2600;160;Mulia Agung;33;DESKTOP-283P160;123
+2601;143;Tegalbinangun;12;DESKTOP-QFC16ML;2151322
+2602;1;Tanjung Agung;11;DESKTOP-QFC16ML;2151322
+2603;73;Pondok Baru;26;DESKTOP-QFC16ML;2151322
+2604;1;Kepala Curup;26;DESKTOP-QFC16ML;2151322
+2605;160;Mulyasari;33;DESKTOP-283P160;123
+2606;161;Rajabasa Jaya;33;DESKTOP-283P160;123
+2607;18;Sumbergede;12;DESKTOP-QFC16ML;2151322
+2608;162;Mokupa;33;DESKTOP-283P160;123
+2609;163;Passippo;33;DESKTOP-283P160;123
+2610;17;Penarik;26;acer-PC;2151322
+2611;18;Negara Batin;12;acer-PC;2151322
+2612;145;Kibeng Yekti Jaya;12;acer-PC;2151322
+2613;70;Talisayan;16;acer-PC;2151322
+2614;124;Pangkalan Balai;11;acer-PC;2151322
+2615;90;Pekan Gedang;10;acer-PC;2151322
+2616;164;Rowang;33;acer-PC;2151322
+2617;146;Adiluwih;12;acer-PC;2151322
+2618;18;Pagar Baru;12;acer-PC;2151322
+2619;164;Senaung;33;DESKTOP-283P160;123
+2620;165;Mukomuko;88;DESKTOP-283P160;123
+2621;165;Suka Pindah;33;DESKTOP-283P160;123
+2622;166;Munggu;88;DESKTOP-283P160;123
+2623;166;Lematang Ilir;33;DESKTOP-283P160;123
+2624;167;Apahapsili;33;DESKTOP-283P160;123
+2625;168;Payang;33;DESKTOP-283P160;123
+2626;169;Terusan  Menang;33;DESKTOP-283P160;123
+2627;170;Wele;33;DESKTOP-283P160;123
+2628;170;Ongka;33;DESKTOP-283P160;123
+2629;170;P. Penanian;33;DESKTOP-283P160;123
+2630;171;Air Menganyau;33;DESKTOP-283P160;123
+2631;172;Dwi Warga Tunggal Jaya;33;DESKTOP-283P160;123
+2632;173;Negeri  Kaya;33;DESKTOP-283P160;123
+2633;174;Tanjonge;33;DESKTOP-283P160;123
+2634;174;Durian Tarung;33;DESKTOP-283P160;123
+2635;175;Terap;33;DESKTOP-283P160;123
+2636;176;Ajallasse;33;DESKTOP-283P160;123
+2637;177;Bah Sidua dua;33;DESKTOP-283P160;123
+2638;177;Lohong;33;DESKTOP-283P160;123
+2639;178;Talang Boseng;33;DESKTOP-283P160;123
+2640;179;Durian Kilangan;33;DESKTOP-283P160;123
+2641;180;Panangsak;33;DESKTOP-GPBDJOJ;123
+2642;181;Surau Tinggi;33;DESKTOP-GPBDJOJ;123
+2643;182;Haloban;33;DESKTOP-GPBDJOJ;123
+2644;183;Pematang Riding;33;DESKTOP-GPBDJOJ;123
+2645;184;Timbulun;33;DESKTOP-GPBDJOJ;123
+2646;185;Sungai Bahar;33;DESKTOP-GPBDJOJ;123
+2647;186;Pakanbaru;33;LAPTOP-LOI2A4L1;123
+2648;187;Jayaloka;33;LAPTOP-LOI2A4L1;123
+2649;188;Ladang Panjang;33;LAPTOP-LOI2A4L1;123
+2650;189;Ampana;33;LAPTOP-LOI2A4L1;123
+2651;190;Tanjung Beringin;33;LAPTOP-LOI2A4L1;123
+2652;191;Niukbaun;33;LAPTOP-LOI2A4L1;123
+2653;192;Sukamarga;33;LAPTOP-LOI2A4L1;123
+2654;193;Nopuya;33;DESKTOP-283P160;123
+2655;194;Mopuya;33;DESKTOP-283P160;123
+2656;195;Lubuk Baja;33;DESKTOP-283P160;123
+2657;196;Gading Tua;33;DESKTOP-283P160;123
+2658;197;Tindoli;33;DESKTOP-283P160;123
+2659;198;Tanjung Sakti;33;DESKTOP-283P160;123
+2660;199;Padrah;33;DESKTOP-283P160;123
+2661;200;Pandrah;33;DESKTOP-283P160;123
+2662;201;Batang Tian;33;DESKTOP-283P160;123
+2663;202;Gedung Nyapah;33;DESKTOP-283P160;123
+2664;203;Seruway;33;DESKTOP-283P160;123
+2665;204;Cahaya Negeri;33;DESKTOP-283P160;123
+2666;205;Purwotani;33;DESKTOP-GPBDJOJ;3
+2667;206;rantau kadam;33;DESKTOP-GPBDJOJ;3
+2668;207;tanjung alam;33;DESKTOP-GPBDJOJ;3
+2669;208;Taba Terunjam;33;DESKTOP-GPBDJOJ;3
+2670;125;Ogan Komering Ulu Timur;11;DESKTOP-QFC16ML;2151322
+2671;209;Damuli Kebun;33;DESKTOP-EVO3DT8;3
+2672;210;Batu Sura;33;DESKTOP-283P160;123
+2673;211;Kota;33;DESKTOP-283P160;123
+2674;212;Karya Makmur;33;DESKTOP-283P160;123
+2675;213;Karang Dapo;33;DESKTOP-283P160;123
+2676;110;Talang Padang;8;DESKTOP-GPBDJOJ;3
+2677;120;Sukadana;7;DESKTOP-GPBDJOJ;3
+2678;12;Messawa;38;DESKTOP-GPBDJOJ;3
+2679;214;Parsibarungan;33;DESKTOP-283P160;123
+2680;215;Setiang;33;DESKTOP-283P160;123
+2681;91;Mandiangin;10;DESKTOP-QFC16ML;2151322
+2682;216;Mungguk Ombak;33;DESKTOP-283P160;123
+2683;217;Negara Ratu;33;DESKTOP-283P160;123
+2684;147;Adipuro;12;DESKTOP-GPBDJOJ;3
+2685;74;Taba Santing;26;DESKTOP-QFC16ML;2151322
+2686;92;Muara Kumpeh;10;DESKTOP-GPBDJOJ;3
+2688;120;Sabungan Jae;7;DESKTOP-GPBDJOJ;3
+2689;100;Panggentungan;19;DESKTOP-QFC16ML;2151322
+2690;179;Tanjungbalai;7;DESKTOP-QFC16ML;2151322
+2691;218;Aek Nauli;33;DESKTOP-283P160;123
+2692;111;Paraman Ampalu;8;DESKTOP-GPBDJOJ;3
+2693;219;Desa Pawoh;33;DESKTOP-283P160;123
+2694;220;Tanjung Raja;33;DESKTOP-283P160;123
+2695;221;Semandino;33;DESKTOP-283P160;123
+2696;222;Lampur;33;DESKTOP-283P160;123
+2697;223;Alabio;33;DESKTOP-283P160;123
+2698;224;Tanjung Serang;33;DESKTOP-283P160;123
+2699;114;Lipat Kain;9;DESKTOP-GPBDJOJ;3
+2700;225;Pagar Bukit;33;DESKTOP-283P160;123
+2701;180;Pangasean;7;DESKTOP-QFC16ML;2151322
+2702;226;Lewa;33;DESKTOP-GPBDJOJ;3
+2703;12;Pardomuan;7;DESKTOP-QFC16ML;2151322
+2704;227;Kletek Rainain;33;DESKTOP-QFC16ML;2151322
+2705;13;Ciputat;34;DESKTOP-QFC16ML;2151322
+2706;228;Lubuk Sikaping;33;DESKTOP-283P160;123
+2707;73;Buntudatu;19;DESKTOP-QFC16ML;2151322
+2708;229;Ulu Siau;33;DESKTOP-283P160;123
+2709;230;Padang Baru;33;DESKTOP-283P160;123
+2710;231;Negara Agung;33;DESKTOP-283P160;123
+2711;232;Seputih Banyak;33;DESKTOP-283P160;123
+2712;233;Tanjung Berikat;33;DESKTOP-283P160;123
+2713;234;Padang  Cermin;33;DESKTOP-283P160;123
+2714;235;Ngaol;33;DESKTOP-283P160;123
+2715;236;Manegen;33;DESKTOP-283P160;123
+2716;237;Kayu Agung;33;DESKTOP-283P160;123
+2717;238;Linggau;33;DESKTOP-283P160;123
+2718;13;Simawang Padang;8;DESKTOP-QFC16ML;2151322
+2719;239;Padang Ratu;33;DESKTOP-283P160;123
+2720;12;Huta Dangka;7;DESKTOP-QFC16ML;2151322
+2721;240;Hohawungo ;33;DESKTOP-283P160;123
+2722;241;Jelojok;33;DESKTOP-283P160;123
+2723;242;Rhieng Blang;33;DESKTOP-283P160;123
+2724;243;Mamuju Utara ;33;DESKTOP-283P160;123
+2725;244;Cahaya Batin;33;DESKTOP-283P160;123
+2726;120;Jawa Tongah;7;DESKTOP-GPBDJOJ;3
+2727;148;Pulung Kencana;12;DESKTOP-GPBDJOJ;3
+2728;245;Aneuk Paya;33;DESKTOP-283P160;123
+2729;246;Bidar Alam;33;DESKTOP-283P160;123
+2730;247;Cemara jaya, Halmahera Timur;33;DESKTOP-283P160;123
+2731;248;Cemara jaya;33;DESKTOP-283P160;123
+2732;249;Saung Naga;33;DESKTOP-283P160;123
+2733;103;Latta;21;DESKTOP-GPBDJOJ;3
+2734;72;Serbajadi;6;DESKTOP-GPBDJOJ;3
+2735;73;Tangse;6;DESKTOP-GPBDJOJ;3
+2736;74;Ujong Tanoh;6;DESKTOP-GPBDJOJ;3
+2737;250;Tanasumpu;33;DESKTOP-283P160;123
+2738;251;Mekarpura;33;DESKTOP-283P160;123
+2739;21;Lampur, Sungaiselan;35;DESKTOP-QFC16ML;2151322
+2740;252;Rantau Jaya Ilir;33;DESKTOP-283P160;123
+2741;253;Bandar Masilam;33;DESKTOP-283P160;123
+2742;253;Ratna Chaton;33;DESKTOP-283P160;123
+2743;254;Pandak;33;DESKTOP-283P160;123
+2744;255;Pancasila;33;DESKTOP-283P160;123
+2745;256;UNTORO;33;DESKTOP-283P160;123
+2746;257;Lembah Binuang;33;DESKTOP-283P160;123
+2747;258;Lawe Desky;33;DESKTOP-283P160;123
+2748;259;Tumbang Samba ;33;DESKTOP-283P160;123
+2749;260;Branti Raya, ;33;DESKTOP-283P160;123
+2750;261;Gunung Meraksa Baru;33;DESKTOP-283P160;123
+2751;262;Yukum Jaya;33;DESKTOP-283P160;123
+2752;263;Sawah Lunto;33;DESKTOP-283P160;123
+2753;264;Sungai  Kambut ;33;DESKTOP-283P160;123
+2754;265;Siraman;33;DESKTOP-283P160;123
+2755;266;Waena;33;DESKTOP-283P160;123
+2756;267;Rimba Samak;33;DESKTOP-283P160;123
+2757;268;Kinali;33;DESKTOP-283P160;123
+2758;148;Gaya Baru VIII;12;DESKTOP-EVO3DT8;3
+2759;269;Samalanga;33;DESKTOP-283P160;123
+2760;270;Pasar Kambang;33;DESKTOP-283P160;123
+2761;271;Pungasan;33;DESKTOP-283P160;123
+2762;272;Sawah Taluk;33;DESKTOP-283P160;123
+2763;273;Semaran ;33;DESKTOP-283P160;123
+2764;274;Terate;33;DESKTOP-283P160;123
+2765;149;Kuripan Kota Agung;12;DESKTOP-EVO3DT8;3
+2766;75;Ujong Tanoh Darat;6;DESKTOP-EVO3DT8;3
+2767;275;Pulo Naleueng;33;DESKTOP-283P160;123
+2768;276;Simpang Pujud;33;DESKTOP-283P160;123
+2769;277;Montallat;33;DESKTOP-283P160;123
+2770;278;Pematang Tahalo;33;DESKTOP-283P160;123
+2771;279;Sribhawono;33;DESKTOP-283P160;123
+2772;150;Biha;12;DESKTOP-EVO3DT8;3
+2773;280;Pasar Tamiai;33;DESKTOP-283P160;123
+2774;281;Parsaoran;33;DESKTOP-283P160;123
+2775;282;Grujugan II;33;DESKTOP-283P160;123
+2776;126;Karang Caya;11;DESKTOP-EVO3DT8;3
+2777;160;Paojepe;19;DESKTOP-1G5I28M;3
+2778;283;Babiat Sosunggulon;33;DESKTOP-283P160;123
+2779;284;PENYABUNGAN;33;DESKTOP-283P160;123
+2780;285;Pematang Panjang;33;DESKTOP-283P160;123
+2781;14;Tanah Merah;9;DESKTOP-QFC16ML;2151322
+2782;18;Jati Mulyo;12;DESKTOP-QFC16ML;2151322
+2783;14;Ujungbatu;9;DESKTOP-QFC16ML;2151322
+2784;161;Desa pakkasalo;19;DESKTOP-1G5I28M;3
+2785;186;Parindu;33;DESKTOP-283P160;123
+2786;286;Air Kemang;33;DESKTOP-283P160;123
+2787;139;Gantiwarno;12;DESKTOP-CHACMKN;8990
+2788;2;Brawijaya;12;DESKTOP-CHACMKN;8990
+2789;17;Beriang Tinggi;26;DESKTOP-QFC16ML;2151322
+2790;18;Pasar Krui;12;DESKTOP-QFC16ML;2151322
+2791;18;Cengkong Abang;35;DESKTOP-QFC16ML;2151322
+2792;12;Sisarahili Oyo;7;DESKTOP-QFC16ML;2151322
+2793;36;Wonodadi;12;DESKTOP-QFC16ML;2151322
